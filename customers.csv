@@ -1,0 +1,151 @@
+customer_id,customer_name,gender,age,city,state,email,signup_date,membership,referred_by
+101,Aarav Reddy,Male,26,Bengaluru,Karnataka,aarav.reddy101@gmail.com,2023-08-17,Gold,
+102,Ravi Yadav,Male,23,Mumbai,Maharashtra,ravi.yadav102@gmail.com,2023-01-31,Bronze,
+103,Gaurav Kumar,Male,52,Indore,Madhya Pradesh,gaurav.kumar103@gmail.com,2024-10-27,Silver,
+104,Komal Reddy,Female,45,Mumbai,Maharashtra,komal.reddy104@gmail.com,2023-06-13,Bronze,
+105,Amit Iyer,Male,42,Pune,Maharashtra,amit.iyer105@gmail.com,2023-04-05,Bronze,
+106,Payal Reddy,Female,52,Mumbai,Maharashtra,payal.reddy106@gmail.com,2024-04-15,Bronze,
+107,Ananya Bose,Female,57,Hyderabad,Telangana,ananya.bose107@gmail.com,2024-10-05,Gold,
+108,Komal Kumar,Female,20,Indore,Madhya Pradesh,komal.kumar108@gmail.com,2023-03-13,Silver,
+109,Ananya Das,Female,35,Pune,Maharashtra,ananya.das109@gmail.com,2024-01-25,Silver,
+110,Kavya Mehta,Female,60,Chennai,Tamil Nadu,kavya.mehta110@gmail.com,2023-08-03,Bronze,
+111,Tarun Joshi,Male,35,Ahmedabad,Gujarat,tarun.joshi111@gmail.com,2023-09-08,Platinum,107
+112,Manish Verma,Male,43,Bengaluru,Karnataka,manish.verma112@gmail.com,2023-02-02,Bronze,
+113,Ravi Iyer,Male,59,Bengaluru,Karnataka,ravi.iyer113@gmail.com,2024-11-02,Silver,
+114,Pooja Das,Female,55,Indore,Madhya Pradesh,pooja.das114@gmail.com,2024-07-28,Silver,
+115,Anjali Das,Female,21,Delhi,Delhi,anjali.das115@gmail.com,2024-06-05,Gold,
+116,Rahul Yadav,Male,47,Lucknow,Uttar Pradesh,rahul.yadav116@gmail.com,2023-03-07,Silver,110
+117,Arjun Bose,Male,45,Hyderabad,Telangana,arjun.bose117@gmail.com,2024-10-18,Bronze,110
+118,Siddharth Chopra,Male,58,Delhi,Delhi,siddharth.chopra118@gmail.com,2024-06-03,Bronze,
+119,Karan Mehta,Male,51,Delhi,Delhi,karan.mehta119@gmail.com,2024-07-06,Platinum,
+120,Nisha Sharma,Female,37,Pune,Maharashtra,nisha.sharma120@gmail.com,2024-01-07,Bronze,
+121,Ravi Gupta,Male,52,Pune,Maharashtra,ravi.gupta121@gmail.com,2024-05-12,Gold,
+122,Deepak Bose,Male,56,Delhi,Delhi,deepak.bose122@gmail.com,2023-09-29,Silver,
+123,Gaurav Kumar,Male,59,Indore,Madhya Pradesh,gaurav.kumar123@gmail.com,2023-11-16,Bronze,122
+124,Sneha Das,Female,53,Bengaluru,Karnataka,sneha.das124@gmail.com,2023-03-07,Bronze,119
+125,Aarav Gupta,Male,20,Indore,Madhya Pradesh,aarav.gupta125@gmail.com,2024-10-08,Gold,103
+126,Sanjay Das,Male,52,Hyderabad,Telangana,sanjay.das126@gmail.com,2024-11-16,Bronze,
+127,Isha Malhotra,Female,45,Kolkata,West Bengal,isha.malhotra127@gmail.com,2023-07-14,Bronze,122
+128,Shreya Verma,Female,24,Kochi,Kerala,shreya.verma128@gmail.com,2024-10-31,Bronze,
+129,Sneha Das,Female,26,Bengaluru,Karnataka,sneha.das129@gmail.com,2023-07-14,Silver,
+130,Shreya Das,Female,53,Pune,Maharashtra,shreya.das130@gmail.com,2024-03-29,Bronze,
+131,Vikram Das,Male,31,Delhi,Delhi,vikram.das131@gmail.com,2024-02-21,Gold,
+132,Rahul Pandey,Male,47,Mumbai,Maharashtra,rahul.pandey132@gmail.com,2024-02-04,Bronze,126
+133,Pooja Kumar,Female,55,Hyderabad,Telangana,pooja.kumar133@gmail.com,2023-08-11,Gold,
+134,Manish Verma,Male,51,Mumbai,Maharashtra,manish.verma134@gmail.com,2024-08-21,Bronze,
+135,Rahul Gupta,Male,33,Lucknow,Uttar Pradesh,rahul.gupta135@gmail.com,2023-03-11,Silver,
+136,Ravi Mishra,Male,38,Mumbai,Maharashtra,ravi.mishra136@gmail.com,2024-09-26,Platinum,134
+137,Manish Das,Male,47,Hyderabad,Telangana,manish.das137@gmail.com,2024-02-10,Bronze,120
+138,Aarav Khan,Male,22,Lucknow,Uttar Pradesh,aarav.khan138@gmail.com,2024-07-30,Silver,
+139,Pooja Mehta,Female,46,Pune,Maharashtra,pooja.mehta139@gmail.com,2023-09-08,Gold,111
+140,Payal Chopra,Female,37,Mumbai,Maharashtra,payal.chopra140@gmail.com,2024-11-14,Platinum,
+141,Karan Reddy,Male,27,Pune,Maharashtra,karan.reddy141@gmail.com,2023-04-20,Bronze,
+142,Manish Kumar,Male,50,Kochi,Kerala,manish.kumar142@gmail.com,2024-10-11,Silver,
+143,Vikram Yadav,Male,58,Hyderabad,Telangana,vikram.yadav143@gmail.com,2023-02-15,Platinum,109
+144,Yash Bose,Male,25,Indore,Madhya Pradesh,yash.bose144@gmail.com,2024-03-13,Bronze,
+145,Gaurav Verma,Male,45,Chennai,Tamil Nadu,gaurav.verma145@gmail.com,2024-08-19,Bronze,
+146,Anjali Verma,Female,60,Chennai,Tamil Nadu,anjali.verma146@gmail.com,2023-08-04,Bronze,
+147,Payal Patel,Female,29,Bengaluru,Karnataka,payal.patel147@gmail.com,2023-06-16,Gold,
+148,Rahul Iyer,Male,33,Kolkata,West Bengal,rahul.iyer148@gmail.com,2024-11-16,Bronze,
+149,Kunal Verma,Male,40,Jaipur,Rajasthan,kunal.verma149@gmail.com,2023-08-16,Bronze,130
+150,Nikhil Sharma,Male,22,Kochi,Kerala,nikhil.sharma150@gmail.com,2023-07-17,Platinum,118
+151,Anjali Chopra,Female,52,Kolkata,West Bengal,anjali.chopra151@gmail.com,2024-11-26,Bronze,
+152,Arjun Reddy,Male,34,Delhi,Delhi,arjun.reddy152@gmail.com,2024-08-17,Bronze,
+153,Anjali Iyer,Female,25,Kolkata,West Bengal,anjali.iyer153@gmail.com,2024-09-12,Bronze,
+154,Siddharth Verma,Male,52,Indore,Madhya Pradesh,siddharth.verma154@gmail.com,2024-03-22,Silver,152
+155,Varun Yadav,Male,57,Pune,Maharashtra,varun.yadav155@gmail.com,2024-11-11,Bronze,
+156,Aditya Chopra,Male,43,Hyderabad,Telangana,aditya.chopra156@gmail.com,2024-11-13,Silver,
+157,Amit Yadav,Male,29,Kochi,Kerala,amit.yadav157@gmail.com,2024-01-24,Silver,
+158,Megha Bose,Female,55,Mumbai,Maharashtra,megha.bose158@gmail.com,2023-11-08,Silver,128
+159,Shreya Khan,Female,28,Jaipur,Rajasthan,shreya.khan159@gmail.com,2024-11-22,Silver,131
+160,Aditi Mishra,Female,33,Chennai,Tamil Nadu,aditi.mishra160@gmail.com,2023-04-06,Silver,
+161,Amit Patel,Male,57,Mumbai,Maharashtra,amit.patel161@gmail.com,2023-02-17,Gold,131
+162,Yash Yadav,Male,42,Kochi,Kerala,yash.yadav162@gmail.com,2024-08-12,Silver,145
+163,Karan Sharma,Male,51,Pune,Maharashtra,karan.sharma163@gmail.com,2024-03-11,Silver,152
+164,Arjun Khan,Male,53,Delhi,Delhi,arjun.khan164@gmail.com,2024-04-20,Silver,
+165,Payal Chopra,Female,28,Kolkata,West Bengal,payal.chopra165@gmail.com,2024-07-15,Gold,
+166,Shreya Reddy,Female,58,Bengaluru,Karnataka,shreya.reddy166@gmail.com,2024-10-14,Bronze,163
+167,Ananya Nair,Female,26,Bengaluru,Karnataka,ananya.nair167@gmail.com,2023-10-06,Bronze,111
+168,Pooja Kumar,Female,52,Pune,Maharashtra,pooja.kumar168@gmail.com,2024-02-29,Silver,
+169,Amit Yadav,Male,19,Kolkata,West Bengal,amit.yadav169@gmail.com,2024-08-21,Gold,
+170,Nisha Sharma,Female,44,Chennai,Tamil Nadu,nisha.sharma170@gmail.com,2023-11-02,Silver,
+171,Deepak Das,Male,42,Hyderabad,Telangana,deepak.das171@gmail.com,2024-03-22,Bronze,
+172,Kavya Khan,Female,43,Delhi,Delhi,kavya.khan172@gmail.com,2024-09-29,Silver,
+173,Vikram Yadav,Male,42,Delhi,Delhi,vikram.yadav173@gmail.com,2024-04-17,Bronze,134
+174,Sana Iyer,Female,44,Kolkata,West Bengal,sana.iyer174@gmail.com,2023-10-12,Bronze,
+175,Deepak Sharma,Male,32,Indore,Madhya Pradesh,deepak.sharma175@gmail.com,2024-07-06,Silver,145
+176,Aarav Das,Male,33,Bengaluru,Karnataka,aarav.das176@gmail.com,2023-01-21,Bronze,
+177,Ravi Kumar,Male,28,Jaipur,Rajasthan,ravi.kumar177@gmail.com,2023-09-20,Silver,
+178,Rahul Nair,Male,54,Pune,Maharashtra,rahul.nair178@gmail.com,2024-08-15,Silver,140
+179,Megha Kumar,Female,58,Pune,Maharashtra,megha.kumar179@gmail.com,2024-08-29,Bronze,
+180,Payal Singh,Female,60,Lucknow,Uttar Pradesh,payal.singh180@gmail.com,2023-02-12,Bronze,155
+181,Priya Yadav,Female,41,Jaipur,Rajasthan,priya.yadav181@gmail.com,2023-04-19,Silver,
+182,Pooja Yadav,Female,35,Delhi,Delhi,pooja.yadav182@gmail.com,2024-06-18,Silver,
+183,Shreya Yadav,Female,23,Indore,Madhya Pradesh,shreya.yadav183@gmail.com,2024-08-29,Bronze,132
+184,Isha Khan,Female,39,Lucknow,Uttar Pradesh,isha.khan184@gmail.com,2024-09-16,Bronze,
+185,Kavya Malhotra,Female,39,Bengaluru,Karnataka,kavya.malhotra185@gmail.com,2023-12-30,Bronze,
+186,Simran Sharma,Female,49,Ahmedabad,Gujarat,simran.sharma186@gmail.com,2023-07-15,Silver,153
+187,Deepak Malhotra,Male,43,Jaipur,Rajasthan,deepak.malhotra187@gmail.com,2023-01-18,Silver,129
+188,Komal Mehta,Female,45,Jaipur,Rajasthan,komal.mehta188@gmail.com,2024-07-20,Platinum,
+189,Anjali Khan,Female,30,Hyderabad,Telangana,anjali.khan189@gmail.com,2023-11-10,Bronze,116
+190,Amit Kumar,Male,51,Indore,Madhya Pradesh,amit.kumar190@gmail.com,2024-05-10,Silver,176
+191,Amit Nair,Male,52,Bengaluru,Karnataka,amit.nair191@gmail.com,2024-01-05,Bronze,102
+192,Rohan Bose,Male,49,Hyderabad,Telangana,rohan.bose192@gmail.com,2023-05-10,Bronze,
+193,Ravi Nair,Male,29,Jaipur,Rajasthan,ravi.nair193@gmail.com,2024-05-05,Platinum,
+194,Nisha Singh,Female,54,Pune,Maharashtra,nisha.singh194@gmail.com,2024-02-15,Silver,
+195,Karan Patel,Male,25,Lucknow,Uttar Pradesh,karan.patel195@gmail.com,2023-11-08,Silver,132
+196,Payal Mishra,Female,42,Lucknow,Uttar Pradesh,payal.mishra196@gmail.com,2023-08-20,Silver,
+197,Divya Rao,Female,21,Kolkata,West Bengal,divya.rao197@gmail.com,2023-11-09,Silver,
+198,Amit Kumar,Male,29,Hyderabad,Telangana,amit.kumar198@gmail.com,2024-11-07,Silver,131
+199,Aarav Yadav,Male,20,Jaipur,Rajasthan,aarav.yadav199@gmail.com,2024-08-31,Bronze,
+200,Shreya Gupta,Female,58,Kochi,Kerala,shreya.gupta200@gmail.com,2023-08-28,Silver,
+201,Harsh Singh,Male,35,Ahmedabad,Gujarat,harsh.singh201@gmail.com,2023-08-19,Gold,
+202,Rohan Joshi,Male,54,Hyderabad,Telangana,rohan.joshi202@gmail.com,2024-09-01,Platinum,
+203,Sneha Khan,Female,35,Indore,Madhya Pradesh,sneha.khan203@gmail.com,2023-11-08,Silver,
+204,Shreya Gupta,Female,38,Lucknow,Uttar Pradesh,shreya.gupta204@gmail.com,2023-02-10,Silver,
+205,Vikram Das,Male,19,Kochi,Kerala,vikram.das205@gmail.com,2024-08-12,Platinum,
+206,Komal Verma,Female,46,Delhi,Delhi,komal.verma206@gmail.com,2024-04-26,Platinum,
+207,Ravi Yadav,Male,48,Kochi,Kerala,ravi.yadav207@gmail.com,2024-05-18,Bronze,
+208,Sana Singh,Female,49,Delhi,Delhi,sana.singh208@gmail.com,2023-12-04,Bronze,
+209,Simran Verma,Female,25,Jaipur,Rajasthan,simran.verma209@gmail.com,2023-04-01,Platinum,142
+210,Aditi Sharma,Female,21,Kochi,Kerala,aditi.sharma210@gmail.com,2024-07-09,Bronze,
+211,Payal Malhotra,Female,31,Kochi,Kerala,payal.malhotra211@gmail.com,2024-03-28,Bronze,
+212,Aditya Khan,Male,56,Indore,Madhya Pradesh,aditya.khan212@gmail.com,2024-05-11,Gold,181
+213,Aditya Bose,Male,32,Mumbai,Maharashtra,aditya.bose213@gmail.com,2024-07-19,Platinum,
+214,Yash Singh,Male,36,Kochi,Kerala,yash.singh214@gmail.com,2023-06-07,Silver,
+215,Tanvi Malhotra,Female,27,Jaipur,Rajasthan,tanvi.malhotra215@gmail.com,2023-09-07,Bronze,
+216,Vikram Reddy,Male,50,Kolkata,West Bengal,vikram.reddy216@gmail.com,2023-12-15,Bronze,
+217,Aditya Nair,Male,49,Lucknow,Uttar Pradesh,aditya.nair217@gmail.com,2024-08-16,Gold,
+218,Simran Malhotra,Female,52,Chennai,Tamil Nadu,simran.malhotra218@gmail.com,2023-12-07,Bronze,
+219,Riya Das,Female,44,Lucknow,Uttar Pradesh,riya.das219@gmail.com,2024-01-28,Bronze,200
+220,Megha Pandey,Female,49,Kochi,Kerala,megha.pandey220@gmail.com,2024-10-29,Platinum,
+221,Sanjay Rao,Male,46,Chennai,Tamil Nadu,sanjay.rao221@gmail.com,2023-04-13,Bronze,
+222,Priya Patel,Female,22,Kolkata,West Bengal,priya.patel222@gmail.com,2024-11-01,Silver,
+223,Sana Mishra,Female,39,Indore,Madhya Pradesh,sana.mishra223@gmail.com,2024-02-12,Gold,
+224,Sana Malhotra,Female,33,Ahmedabad,Gujarat,sana.malhotra224@gmail.com,2023-02-06,Silver,
+225,Isha Gupta,Female,24,Kolkata,West Bengal,isha.gupta225@gmail.com,2023-04-11,Silver,
+226,Priya Verma,Female,45,Chennai,Tamil Nadu,priya.verma226@gmail.com,2023-02-27,Bronze,148
+227,Komal Joshi,Female,42,Delhi,Delhi,komal.joshi227@gmail.com,2023-06-29,Silver,212
+228,Deepak Rao,Male,34,Delhi,Delhi,deepak.rao228@gmail.com,2023-08-26,Silver,
+229,Yash Nair,Male,40,Kochi,Kerala,yash.nair229@gmail.com,2024-07-13,Platinum,214
+230,Tanvi Reddy,Female,48,Jaipur,Rajasthan,tanvi.reddy230@gmail.com,2023-11-06,Bronze,199
+231,Komal Mehta,Female,36,Lucknow,Uttar Pradesh,komal.mehta231@gmail.com,2023-10-30,Bronze,
+232,Meera Sharma,Female,49,Lucknow,Uttar Pradesh,meera.sharma232@gmail.com,2023-02-20,Gold,
+233,Isha Mishra,Female,57,Chennai,Tamil Nadu,isha.mishra233@gmail.com,2023-08-13,Bronze,
+234,Arjun Verma,Male,26,Hyderabad,Telangana,arjun.verma234@gmail.com,2024-03-27,Bronze,194
+235,Sana Yadav,Female,51,Delhi,Delhi,sana.yadav235@gmail.com,2023-07-25,Silver,194
+236,Kavya Reddy,Female,39,Jaipur,Rajasthan,kavya.reddy236@gmail.com,2023-10-30,Gold,
+237,Ananya Patel,Female,43,Bengaluru,Karnataka,ananya.patel237@gmail.com,2024-11-23,Platinum,
+238,Ananya Pandey,Female,47,Mumbai,Maharashtra,ananya.pandey238@gmail.com,2023-09-28,Bronze,
+239,Komal Pandey,Female,48,Kochi,Kerala,komal.pandey239@gmail.com,2024-01-16,Bronze,160
+240,Payal Das,Female,47,Kochi,Kerala,payal.das240@gmail.com,2023-03-06,Platinum,
+241,Tanvi Singh,Female,37,Delhi,Delhi,tanvi.singh241@gmail.com,2023-02-16,Platinum,
+242,Arjun Das,Male,60,Ahmedabad,Gujarat,arjun.das242@gmail.com,2023-05-19,Platinum,195
+243,Komal Patel,Female,57,Kolkata,West Bengal,komal.patel243@gmail.com,2024-11-01,Silver,226
+244,Neha Mehta,Female,33,Bengaluru,Karnataka,neha.mehta244@gmail.com,2024-03-30,Gold,
+245,Varun Bose,Male,30,Kochi,Kerala,varun.bose245@gmail.com,2024-01-03,Platinum,171
+246,Ananya Kumar,Female,19,Kochi,Kerala,ananya.kumar246@gmail.com,2024-10-16,Bronze,
+247,Isha Patel,Female,31,Lucknow,Uttar Pradesh,isha.patel247@gmail.com,2023-07-30,Silver,242
+248,Manish Patel,Male,26,Lucknow,Uttar Pradesh,manish.patel248@gmail.com,2023-01-03,Silver,138
+249,Arjun Sharma,Male,55,Delhi,Delhi,arjun.sharma249@gmail.com,2023-01-16,Bronze,161
+250,Siddharth Verma,Male,22,Delhi,Delhi,siddharth.verma250@gmail.com,2024-03-07,Silver,

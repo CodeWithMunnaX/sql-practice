@@ -1,0 +1,101 @@
+member_id,member_name,gender,age,city,state,phone,email,join_date,membership_type
+1001,Aarav Nair,Male,30,Bengaluru,Karnataka,9321819600,aarav.nair1001@gmail.com,2023-11-01,Silver
+1002,Pranav Das,Male,64,Bengaluru,Karnataka,9794026542,pranav.das1002@gmail.com,2022-11-21,Basic
+1003,Sneha Kapoor,Female,56,Hyderabad,Telangana,9940781618,sneha.kapoor1003@gmail.com,2024-06-20,Gold
+1004,Kritika Yadav,Female,39,Mumbai,Maharashtra,9034131647,kritika.yadav1004@gmail.com,2021-11-30,Basic
+1005,Amit Gupta,Male,65,Ahmedabad,Gujarat,9283276483,amit.gupta1005@gmail.com,2021-04-25,Basic
+1006,Nikhil Chopra,Male,31,Chennai,Tamil Nadu,9139537672,nikhil.chopra1006@gmail.com,2024-02-24,Silver
+1007,Kritika Chopra,Female,43,Hyderabad,Telangana,9328710122,kritika.chopra1007@gmail.com,2024-05-06,Basic
+1008,Pallavi Bose,Female,45,Lucknow,Uttar Pradesh,9480184514,pallavi.bose1008@gmail.com,2021-01-07,Premium
+1009,Divya Singh,Female,49,Lucknow,Uttar Pradesh,9148932528,divya.singh1009@gmail.com,2021-01-02,Silver
+1010,Ananya Reddy,Female,50,Hyderabad,Telangana,9430391171,ananya.reddy1010@gmail.com,2021-09-15,Basic
+1011,Sakshi Singh,Female,49,Chennai,Tamil Nadu,9896383465,sakshi.singh1011@gmail.com,2023-07-14,Basic
+1012,Aditya Mehta,Male,18,Delhi,Delhi,9983930103,,2022-11-08,Basic
+1013,Amit Rao,Male,58,Bengaluru,Karnataka,9829973763,amit.rao1013@gmail.com,2023-06-02,Basic
+1014,Anjali Verma,Female,27,Mumbai,Maharashtra,9065133387,anjali.verma1014@gmail.com,2022-07-25,Silver
+1015,Harsh Mishra,Male,41,Mumbai,Maharashtra,9080132677,harsh.mishra1015@gmail.com,2021-05-01,Basic
+1016,Suresh Nair,Male,50,Jaipur,Rajasthan,9468723430,suresh.nair1016@gmail.com,2021-05-05,Gold
+1017,Vivaan Pandey,Male,31,Jaipur,Rajasthan,9882081219,,2023-04-07,Basic
+1018,Ishaan Agarwal,Male,36,Delhi,Delhi,9916998543,ishaan.agarwal1018@gmail.com,2022-05-04,Basic
+1019,Siddharth Bose,Male,24,Hyderabad,Telangana,9107991183,siddharth.bose1019@gmail.com,2022-12-16,Gold
+1020,Manish Joshi,Male,24,Pune,Maharashtra,9784980841,manish.joshi1020@gmail.com,2022-06-26,Basic
+1021,Pranav Patel,Male,19,Chennai,Tamil Nadu,9493534874,pranav.patel1021@gmail.com,2021-07-09,Silver
+1022,Diya Sharma,Female,60,Hyderabad,Telangana,9242786801,,2021-11-02,Silver
+1023,Kritika Mishra,Female,38,Pune,Maharashtra,9620450533,kritika.mishra1023@gmail.com,2024-02-21,Gold
+1024,Pallavi Patel,Female,60,Bengaluru,Karnataka,9226025634,pallavi.patel1024@gmail.com,2021-08-10,Basic
+1025,Yash Iyer,Male,20,Bengaluru,Karnataka,9754330365,yash.iyer1025@gmail.com,2022-07-26,Basic
+1026,Sakshi Mehta,Female,36,Delhi,Delhi,9142940196,sakshi.mehta1026@gmail.com,2023-06-13,Silver
+1027,Suresh Pandey,Male,58,Bengaluru,Karnataka,9406088356,,2022-11-08,Silver
+1028,Siddharth Kulkarni,Male,27,Chennai,Tamil Nadu,9656482366,siddharth.kulkarni1028@gmail.com,2024-06-14,Silver
+1029,Sakshi Sharma,Female,48,Chennai,Tamil Nadu,9436995777,sakshi.sharma1029@gmail.com,2023-08-28,Gold
+1030,Aditya Joshi,Male,46,Lucknow,Uttar Pradesh,9951343320,,2024-06-05,Gold
+1031,Harsh Das,Male,60,Ahmedabad,Gujarat,9367632016,harsh.das1031@gmail.com,2023-11-27,Silver
+1032,Arjun Bose,Male,51,Pune,Maharashtra,9788957986,arjun.bose1032@gmail.com,2023-07-03,Gold
+1033,Anjali Nair,Female,36,Bengaluru,Karnataka,9487347143,anjali.nair1033@gmail.com,2024-01-12,Basic
+1034,Vikram Chopra,Male,42,Pune,Maharashtra,9316658760,vikram.chopra1034@gmail.com,2023-03-09,Premium
+1035,Ishaan Chopra,Male,33,Jaipur,Rajasthan,9054668893,ishaan.chopra1035@gmail.com,2023-06-12,Silver
+1036,Shruti Chopra,Female,43,Pune,Maharashtra,9729806990,shruti.chopra1036@gmail.com,2021-10-05,Gold
+1037,Vivaan Nair,Male,46,Kolkata,West Bengal,9537556464,vivaan.nair1037@gmail.com,2021-02-09,Gold
+1038,Manish Iyer,Male,23,Mumbai,Maharashtra,9003309232,manish.iyer1038@gmail.com,2024-03-01,Premium
+1039,Aditi Kapoor,Female,40,Pune,Maharashtra,9991241904,aditi.kapoor1039@gmail.com,2023-03-24,Premium
+1040,Aditya Pandey,Male,20,Bengaluru,Karnataka,9149190586,aditya.pandey1040@gmail.com,2023-11-03,Silver
+1041,Deepak Rao,Male,50,Mumbai,Maharashtra,9657262849,deepak.rao1041@gmail.com,2023-09-18,Silver
+1042,Shruti Iyer,Female,36,Mumbai,Maharashtra,9473799650,shruti.iyer1042@gmail.com,2022-01-08,Silver
+1043,Aditi Mehta,Female,64,Chennai,Tamil Nadu,9948083136,aditi.mehta1043@gmail.com,2022-05-08,Silver
+1044,Anjali Sharma,Female,43,Mumbai,Maharashtra,9436349578,anjali.sharma1044@gmail.com,2024-02-02,Basic
+1045,Aditi Joshi,Female,33,Chennai,Tamil Nadu,9313518233,aditi.joshi1045@gmail.com,2024-04-22,Premium
+1046,Sneha Yadav,Female,51,Chennai,Tamil Nadu,9352408240,sneha.yadav1046@gmail.com,2022-08-22,Silver
+1047,Yash Reddy,Male,46,Delhi,Delhi,9947775204,yash.reddy1047@gmail.com,2021-08-22,Gold
+1048,Simran Gupta,Female,54,Ahmedabad,Gujarat,9022941318,simran.gupta1048@gmail.com,2024-05-05,Gold
+1049,Kunal Chopra,Male,22,Jaipur,Rajasthan,9749649909,kunal.chopra1049@gmail.com,2022-03-02,Silver
+1050,Priya Singh,Female,30,Bengaluru,Karnataka,9281206797,priya.singh1050@gmail.com,2022-08-14,Gold
+1051,Priya Iyer,Female,26,Chennai,Tamil Nadu,9936183242,,2022-09-22,Silver
+1052,Anjali Reddy,Female,43,Jaipur,Rajasthan,9464887719,,2022-10-23,Silver
+1053,Aditya Iyer,Male,27,Ahmedabad,Gujarat,9904902787,aditya.iyer1053@gmail.com,2024-04-13,Silver
+1054,Priya Rao,Female,41,Hyderabad,Telangana,9655125674,priya.rao1054@gmail.com,2024-02-01,Basic
+1055,Nikhil Nair,Male,55,Hyderabad,Telangana,9168087603,nikhil.nair1055@gmail.com,2023-10-18,Silver
+1056,Rahul Nair,Male,16,Lucknow,Uttar Pradesh,9247710932,rahul.nair1056@gmail.com,2024-02-06,Silver
+1057,Arjun Bose,Male,25,Mumbai,Maharashtra,9274846773,arjun.bose1057@gmail.com,2023-02-25,Basic
+1058,Aditya Nair,Male,44,Kolkata,West Bengal,9584044997,aditya.nair1058@gmail.com,2024-01-09,Silver
+1059,Sakshi Mishra,Female,46,Kolkata,West Bengal,9753396360,sakshi.mishra1059@gmail.com,2023-02-20,Basic
+1060,Yash Verma,Male,42,Pune,Maharashtra,9895171870,yash.verma1060@gmail.com,2021-11-13,Basic
+1061,Shruti Agarwal,Female,56,Kolkata,West Bengal,9158657809,,2022-08-12,Premium
+1062,Deepak Reddy,Male,25,Mumbai,Maharashtra,9724005045,deepak.reddy1062@gmail.com,2022-05-16,Silver
+1063,Karan Singh,Male,45,Mumbai,Maharashtra,9969379237,karan.singh1063@gmail.com,2022-06-07,Silver
+1064,Meera Mishra,Female,40,Pune,Maharashtra,9175946474,meera.mishra1064@gmail.com,2023-09-17,Basic
+1065,Kritika Kapoor,Female,34,Ahmedabad,Gujarat,9440640909,kritika.kapoor1065@gmail.com,2022-04-17,Silver
+1066,Riya Yadav,Female,21,Ahmedabad,Gujarat,9421047095,riya.yadav1066@gmail.com,2022-08-28,Basic
+1067,Pooja Yadav,Female,37,Pune,Maharashtra,9858842474,pooja.yadav1067@gmail.com,2021-08-24,Silver
+1068,Rohan Iyer,Male,63,Kolkata,West Bengal,9851604817,rohan.iyer1068@gmail.com,2022-06-21,Silver
+1069,Sneha Iyer,Female,23,Jaipur,Rajasthan,9098593174,sneha.iyer1069@gmail.com,2021-10-14,Basic
+1070,Siddharth Rao,Male,62,Mumbai,Maharashtra,9138267586,siddharth.rao1070@gmail.com,2021-11-13,Gold
+1071,Yash Agarwal,Male,39,Kolkata,West Bengal,9405377351,yash.agarwal1071@gmail.com,2024-01-21,Premium
+1072,Diya Chopra,Female,24,Chennai,Tamil Nadu,9317139005,diya.chopra1072@gmail.com,2024-03-02,Basic
+1073,Ishaan Yadav,Male,23,Bengaluru,Karnataka,9529042284,ishaan.yadav1073@gmail.com,2021-02-22,Basic
+1074,Riya Pandey,Female,65,Hyderabad,Telangana,9024026811,riya.pandey1074@gmail.com,2023-01-12,Silver
+1075,Harsh Kulkarni,Male,22,Bengaluru,Karnataka,9908470076,harsh.kulkarni1075@gmail.com,2023-10-02,Gold
+1076,Priya Gupta,Female,54,Hyderabad,Telangana,9921249985,priya.gupta1076@gmail.com,2023-12-23,Basic
+1077,Sneha Reddy,Female,36,Lucknow,Uttar Pradesh,9367365766,sneha.reddy1077@gmail.com,2023-05-25,Basic
+1078,Tanvi Patel,Female,51,Jaipur,Rajasthan,9111161528,,2024-02-25,Basic
+1079,Deepak Kapoor,Male,46,Kolkata,West Bengal,9049451983,deepak.kapoor1079@gmail.com,2022-04-05,Gold
+1080,Sakshi Kapoor,Female,58,Mumbai,Maharashtra,9493689980,sakshi.kapoor1080@gmail.com,2022-07-02,Basic
+1081,Meera Mehta,Female,29,Hyderabad,Telangana,9022961201,meera.mehta1081@gmail.com,2023-02-10,Silver
+1082,Pooja Kapoor,Female,33,Chennai,Tamil Nadu,9599102290,pooja.kapoor1082@gmail.com,2023-06-27,Silver
+1083,Pallavi Bose,Female,58,Kolkata,West Bengal,9438156149,pallavi.bose1083@gmail.com,2022-09-24,Basic
+1084,Pallavi Verma,Female,43,Delhi,Delhi,9343244510,pallavi.verma1084@gmail.com,2021-12-26,Basic
+1085,Kunal Mishra,Male,41,Hyderabad,Telangana,9160607159,kunal.mishra1085@gmail.com,2023-05-06,Basic
+1086,Ananya Mehta,Female,21,Pune,Maharashtra,9975161369,ananya.mehta1086@gmail.com,2023-03-22,Gold
+1087,Riya Mehta,Female,25,Pune,Maharashtra,9181883552,riya.mehta1087@gmail.com,2022-06-09,Basic
+1088,Aditya Singh,Male,46,Jaipur,Rajasthan,9799799552,aditya.singh1088@gmail.com,2023-06-25,Silver
+1089,Kritika Verma,Female,21,Hyderabad,Telangana,9814770054,,2024-06-13,Silver
+1090,Anjali Pandey,Female,44,Lucknow,Uttar Pradesh,9079359782,anjali.pandey1090@gmail.com,2021-07-31,Gold
+1091,Priya Kulkarni,Female,34,Pune,Maharashtra,9037788925,priya.kulkarni1091@gmail.com,2023-03-05,Silver
+1092,Pallavi Verma,Female,53,Hyderabad,Telangana,9151864492,pallavi.verma1092@gmail.com,2021-10-17,Premium
+1093,Isha Patel,Female,17,Ahmedabad,Gujarat,9148652816,isha.patel1093@gmail.com,2023-01-13,Basic
+1094,Nikhil Rao,Male,37,Bengaluru,Karnataka,9322141888,,2024-06-19,Basic
+1095,Kavya Singh,Female,63,Pune,Maharashtra,9927065379,kavya.singh1095@gmail.com,2023-07-09,Basic
+1096,Siddharth Rao,Male,28,Bengaluru,Karnataka,9597746886,siddharth.rao1096@gmail.com,2024-05-23,Basic
+1097,Diya Rao,Female,25,Hyderabad,Telangana,9818141247,diya.rao1097@gmail.com,2023-06-15,Basic
+1098,Harsh Kapoor,Male,36,Delhi,Delhi,9606853615,harsh.kapoor1098@gmail.com,2021-07-22,Gold
+1099,Kavya Patel,Female,25,Delhi,Delhi,9472779010,kavya.patel1099@gmail.com,2024-01-29,Premium
+1100,Sneha Joshi,Female,47,Bengaluru,Karnataka,9410369711,sneha.joshi1100@gmail.com,2024-05-07,Silver

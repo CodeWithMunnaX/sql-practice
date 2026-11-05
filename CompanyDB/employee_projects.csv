@@ -1,0 +1,11 @@
+emp_id,project_id,role,hours_worked
+1,P107,Sponsor,40
+2,P101,Lead,320
+5,P101,Developer,450
+5,P107,Developer,380
+3,P103,Lead,200
+6,P103,Executive,260
+6,P108,Analyst,150
+4,P104,Lead,220
+7,P104,Executive,300
+9,P105,Lead,180

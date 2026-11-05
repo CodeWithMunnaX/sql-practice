@@ -1,0 +1,11 @@
+emp_id,emp_name,gender,dept_id,manager_id,salary,join_date
+1,Rahul Sharma,Male,10,,150000,2018-04-01
+2,Priya Verma,Female,10,1,95000,2019-06-15
+3,Amit Gupta,Male,20,1,85000,2019-09-10
+4,Sneha Patel,Female,30,1,90000,2020-01-20
+5,Karan Singh,Male,10,2,60000,2021-03-05
+6,Neha Joshi,Female,20,3,55000,2021-07-12
+7,Vikram Rao,Male,30,4,50000,2022-02-28
+8,Ananya Das,Female,40,1,70000,2020-11-01
+9,Rohan Mehta,Male,60,1,65000,2023-05-18
+10,Pooja Nair,Female,,2,40000,2024-01-08

@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,gender,age,city,category,product_name,quantity,unit_price,total_amount,payment_method
+ORD10001,2024-01-01,Sana Pandey,Female,37,Pune,Fashion,Women's Kurti,2,1819,3638,UPI
+ORD10002,2024-01-03,Anjali Das,Female,39,Bengaluru,Electronics,Smartphone,1,26489,26489,Cash on Delivery
+ORD10003,2024-01-04,Nikhil Joshi,Male,18,Hyderabad,Grocery,Dry Fruits 1kg,1,1309,1309,Credit Card
+ORD10004,2024-01-04,Megha Kumar,Female,22,Bengaluru,Grocery,Dry Fruits 1kg,1,809,809,Net Banking
+ORD10005,2024-01-05,Pooja Mehta,Female,29,Mumbai,Grocery,Atta 10kg,1,569,569,Cash on Delivery
+ORD10006,2024-01-08,Varun Bose,Male,30,Mumbai,Grocery,Tea 500g,1,339,339,UPI
+ORD10007,2024-01-08,Siddharth Rao,Male,28,Bengaluru,Home & Kitchen,Water Bottle,2,199,398,Debit Card
+ORD10008,2024-01-09,Pooja Gupta,Female,54,Lucknow,Beauty,Perfume,1,639,639,Cash on Delivery
+ORD10009,2024-01-12,Fatima Chatterjee,Female,29,Kolkata,Home & Kitchen,Dinner Set,1,2809,2809,UPI
+ORD10010,2024-01-16,Gaurav Nair,Male,39,Mumbai,Fashion,Sneakers,2,2449,4898,Net Banking
+ORD10011,2024-01-17,Megha Malhotra,Female,32,Chandigarh,Sports,Football,2,739,1478,UPI
+ORD10012,2024-01-17,Varun Yadav,Male,18,Jaipur,Beauty,Moisturizer,1,629,629,UPI
+ORD10013,2024-01-17,Kiran Jain,Female,18,Indore,Beauty,Lipstick,1,939,939,Credit Card
+ORD10014,2024-01-20,Neha Yadav,Female,24,Bengaluru,Fashion,Women's Kurti,1,1119,1119,Credit Card
+ORD10015,2024-01-20,Sana Pandey,Female,37,Pune,Beauty,Moisturizer,2,629,1258,UPI
+ORD10016,2024-01-20,Kavya Chatterjee,Female,19,Chennai,Beauty,Moisturizer,1,689,689,Credit Card
+ORD10017,2024-01-21,Tanvi Joshi,Female,49,Mumbai,Books,Children's Book,1,299,299,UPI
+ORD10018,2024-01-23,Siddharth Iyer,Male,34,Delhi,Beauty,Perfume,3,2429,7287,Cash on Delivery
+ORD10019,2024-01-23,Deepak Ansari,Male,44,Bengaluru,Grocery,Basmati Rice 5kg,2,459,918,UPI
+ORD10020,2024-01-24,Vikram Mehta,Male,48,Pune,Home & Kitchen,Dinner Set,1,1269,1269,UPI
+ORD10021,2024-01-24,Kunal Joshi,Male,18,Chandigarh,Beauty,Moisturizer,1,819,819,UPI
+ORD10022,2024-01-29,Faizan Shah,Male,23,Delhi,Grocery,Tea 500g,1,399,399,UPI
+ORD10023,2024-01-30,Aisha Pillai,Female,33,Chennai,Electronics,LED Monitor,1,16369,16369,UPI
+ORD10024,2024-01-30,Siddharth Kumar,Male,30,Ahmedabad,Home & Kitchen,Dinner Set,1,1519,1519,UPI
+ORD10025,2024-01-30,Aisha Pillai,Female,33,Chennai,Home & Kitchen,Wall Clock,1,1119,1119,Net Banking
+ORD10026,2024-02-02,Kunal Ansari,Male,31,Delhi,Electronics,Laptop,1,38129,38129,Cash on Delivery
+ORD10027,2024-02-03,Harsh Patel,Male,45,Ahmedabad,Sports,Cricket Bat,4,4699,18796,UPI
+ORD10028,2024-02-04,Jyoti Joshi,Female,22,Hyderabad,Home & Kitchen,Dinner Set,2,3469,6938,UPI
+ORD10029,2024-02-04,Aditya Rao,Male,26,Jaipur,Fashion,Jacket,1,1729,1729,Cash on Delivery
+ORD10030,2024-02-05,Komal Das,Female,31,Mumbai,Beauty,Moisturizer,2,769,1538,Credit Card
+ORD10031,2024-02-06,Amit Pandey,Male,36,Kochi,Sports,Football,1,869,869,UPI
+ORD10032,2024-02-07,Deepak Ansari,Male,42,Pune,Fashion,Saree,2,3829,7658,UPI
+ORD10033,2024-02-07,Pranav Kumar,Male,40,Bhopal,Grocery,Atta 10kg,1,569,569,Net Banking
+ORD10034,2024-02-07,Akash Saxena,Male,41,Delhi,Grocery,Basmati Rice 5kg,5,889,4445,Cash on Delivery
+ORD10035,2024-02-08,Harpreet Ansari,Male,44,Mumbai,Home & Kitchen,Pressure Cooker,1,2859,2859,Cash on Delivery
+ORD10036,2024-02-08,Imran Saxena,Male,24,Kolkata,Fashion,Jeans,3,2889,8667,Debit Card
+ORD10037,2024-02-09,Kunal Joshi,Male,18,Chandigarh,Home & Kitchen,Mixer Grinder,2,2369,4738,Cash on Delivery
+ORD10038,2024-02-10,Kunal Sharma,Male,37,Mumbai,Books,Children's Book,2,329,658,UPI
+ORD10039,2024-02-10,Rashmi Kapoor,Female,25,Bengaluru,Fashion,Jacket,2,2589,5178,UPI
+ORD10040,2024-02-10,Jyoti Mishra,Female,35,Chennai,Electronics,Power Bank,1,1839,1839,Debit Card
+ORD10041,2024-02-11,Jaspreet Agarwal,Male,36,Pune,Books,Novel,1,319,319,Cash on Delivery
+ORD10042,2024-02-11,Riya Singh,Female,39,Hyderabad,Fashion,Men's T-Shirt,1,569,569,Debit Card
+ORD10043,2024-02-12,Aditi Singh,Female,28,Jaipur,Grocery,Atta 10kg,1,529,529,Credit Card
+ORD10044,2024-02-12,Riya Sethi,Female,25,Hyderabad,Grocery,Tea 500g,1,439,439,Cash on Delivery
+ORD10045,2024-02-12,Amit Reddy,Male,36,Delhi,Home & Kitchen,Bedsheet Set,1,1409,1409,UPI
+ORD10046,2024-02-13,Ritika Mishra,Female,32,Lucknow,Electronics,Power Bank,1,1479,1479,Credit Card
+ORD10047,2024-02-13,Sana Sethi,Female,33,Indore,Electronics,LED Monitor,1,13399,13399,UPI
+ORD10048,2024-02-16,Anjali Gill,Female,34,Delhi,Grocery,Dry Fruits 1kg,1,1349,1349,UPI
+ORD10049,2024-02-16,Kunal Pillai,Male,37,Bengaluru,Grocery,Cooking Oil 1L,3,169,507,Net Banking
+ORD10050,2024-02-16,Pranav Agarwal,Male,39,Lucknow,Electronics,Smartwatch,1,6539,6539,Debit Card
+ORD10051,2024-02-17,Nisha Nair,Female,37,Mumbai,Fashion,Women's Kurti,3,1779,5337,Credit Card
+ORD10052,2024-02-18,Siddharth Iyer,Male,34,Delhi,Fashion,Sneakers,2,4839,9678,UPI
+ORD10053,2024-02-18,Kavya Chopra,Female,35,Bengaluru,Grocery,Atta 10kg,1,489,489,UPI
+ORD10054,2024-02-19,Aisha Pandey,Female,32,Mumbai,Books,Children's Book,1,299,299,Debit Card
+ORD10055,2024-02-20,Arif Gupta,Male,34,Bengaluru,Fashion,Sneakers,2,4569,9138,UPI
+ORD10056,2024-02-20,Abhishek Patel,Male,27,Mumbai,Home & Kitchen,Pressure Cooker,1,1239,1239,Debit Card
+ORD10057,2024-02-21,Siddharth Kumar,Male,30,Ahmedabad,Electronics,LED Monitor,1,8079,8079,UPI
+ORD10058,2024-02-22,Harsh Pandey,Male,31,Mumbai,Fashion,Jacket,1,4189,4189,Credit Card
+ORD10059,2024-02-23,Anjali Chatterjee,Female,18,Delhi,Grocery,Dry Fruits 1kg,2,789,1578,UPI
+ORD10060,2024-02-25,Vikram Agarwal,Male,57,Bengaluru,Fashion,Women's Kurti,1,1459,1459,UPI
+ORD10061,2024-02-26,Komal Chatterjee,Female,25,Mumbai,Grocery,Tea 500g,1,419,419,UPI
+ORD10062,2024-02-27,Jaspreet Agarwal,Male,36,Pune,Home & Kitchen,Bedsheet Set,3,1039,3117,Credit Card
+ORD10063,2024-02-27,Rashmi Patel,Female,42,Chandigarh,Beauty,Face Wash,1,329,329,Cash on Delivery
+ORD10064,2024-02-29,Sana Ansari,Female,18,Bhopal,Home & Kitchen,Water Bottle,5,799,3995,UPI
+ORD10065,2024-02-29,Pranav Kumar,Male,40,Bhopal,Fashion,Jacket,1,1969,1969,UPI
+ORD10066,2024-03-01,Kiran Pandey,Female,27,Delhi,Fashion,Women's Kurti,1,1209,1209,Credit Card
+ORD10067,2024-03-02,Arif Gill,Male,29,Pune,Fashion,Sneakers,2,3199,6398,UPI
+ORD10068,2024-03-04,Payal Yadav,Female,25,Pune,Fashion,Men's T-Shirt,2,479,958,UPI
+ORD10069,2024-03-05,Arif Sethi,Male,32,Indore,Grocery,Dry Fruits 1kg,1,1239,1239,Credit Card
+ORD10070,2024-03-06,Nikhil Ansari,Male,18,Hyderabad,Grocery,Basmati Rice 5kg,1,889,889,UPI
+ORD10071,2024-03-06,Kavya Chatterjee,Female,19,Chennai,Grocery,Dry Fruits 1kg,1,1499,1499,Credit Card
+ORD10072,2024-03-09,Gaurav Shah,Male,25,Bengaluru,Electronics,LED Monitor,2,14179,28358,UPI
+ORD10073,2024-03-10,Pooja Jain,Female,42,Mumbai,Electronics,Power Bank,1,1669,1669,UPI
+ORD10074,2024-03-11,Ananya Chatterjee,Female,29,Ahmedabad,Fashion,Women's Kurti,1,659,659,Cash on Delivery
+ORD10075,2024-03-11,Suresh Ansari,Male,25,Kolkata,Electronics,Smartphone,1,25559,25559,UPI
+ORD10076,2024-03-12,Rahul Iyer,Male,27,Jaipur,Grocery,Cooking Oil 1L,1,189,189,Credit Card
+ORD10077,2024-03-12,Anjali Das,Female,39,Bengaluru,Grocery,Tea 500g,5,239,1195,Credit Card
+ORD10078,2024-03-12,Megha Chatterjee,Female,37,Mumbai,Fashion,Sneakers,1,4929,4929,UPI
+ORD10079,2024-03-12,Harpreet Kapoor,Male,38,Mumbai,Electronics,LED Monitor,1,8909,8909,Credit Card
+ORD10080,2024-03-13,Anjali Iyer,Female,39,Lucknow,Grocery,Cooking Oil 1L,4,199,796,Cash on Delivery
+ORD10081,2024-03-13,Imran Kapoor,Male,40,Pune,Books,Self-Help Book,2,439,878,Cash on Delivery
+ORD10082,2024-03-13,Arif Gupta,Male,30,Chennai,Grocery,Dry Fruits 1kg,1,779,779,UPI
+ORD10083,2024-03-14,Aditya Das,Male,20,Ahmedabad,Electronics,Laptop,1,49299,49299,Debit Card
+ORD10084,2024-03-15,Pooja Kapoor,Female,28,Indore,Beauty,Face Wash,1,239,239,UPI
+ORD10085,2024-03-15,Isha Mehta,Female,45,Hyderabad,Books,Children's Book,1,349,349,UPI
+ORD10086,2024-03-16,Jaspreet Jain,Male,38,Ahmedabad,Electronics,Bluetooth Earbuds,1,3229,3229,UPI
+ORD10087,2024-03-17,Tanvi Joshi,Female,49,Mumbai,Sports,Dumbbell Set,2,1979,3958,UPI
+ORD10088,2024-03-17,Ananya Sharma,Female,47,Chennai,Grocery,Atta 10kg,1,529,529,Cash on Delivery
+ORD10089,2024-03-19,Komal Chatterjee,Female,25,Mumbai,Beauty,Perfume,1,869,869,Credit Card
+ORD10090,2024-03-19,Abhishek Patel,Male,27,Mumbai,Electronics,Smartphone,1,27119,27119,Cash on Delivery
+ORD10091,2024-03-19,Arif Bose,Male,26,Bengaluru,Sports,Cricket Bat,1,2919,2919,UPI
+ORD10092,2024-03-19,Pranav Singh,Male,31,Mumbai,Sports,Dumbbell Set,2,2209,4418,Credit Card
+ORD10093,2024-03-19,Kunal Sharma,Male,37,Mumbai,Sports,Cricket Bat,1,4549,4549,Debit Card
+ORD10094,2024-03-20,Pranav Sethi,Male,39,Hyderabad,Fashion,Saree,1,5039,5039,UPI
+ORD10095,2024-03-20,Divya Das,Female,31,Ahmedabad,Fashion,Women's Kurti,1,1269,1269,Cash on Delivery
+ORD10096,2024-03-20,Aditya Agarwal,Male,38,Bengaluru,Grocery,Basmati Rice 5kg,1,489,489,UPI
+ORD10097,2024-03-20,Rajesh Reddy,Male,28,Hyderabad,Sports,Yoga Mat,3,939,2817,Debit Card
+ORD10098,2024-03-21,Gaurav Nair,Male,39,Mumbai,Beauty,Moisturizer,3,869,2607,UPI
+ORD10099,2024-03-22,Aditya Kumar,Male,32,Delhi,Books,Children's Book,1,359,359,Debit Card
+ORD10100,2024-03-24,Pranav Sethi,Male,39,Hyderabad,Sports,Yoga Mat,1,1469,1469,UPI
+ORD10101,2024-03-25,Imran Verma,Male,41,Ahmedabad,Grocery,Tea 500g,3,339,1017,UPI
+ORD10102,2024-03-25,Priya Patel,Female,29,Bhopal,Home & Kitchen,Pressure Cooker,1,1479,1479,Credit Card
+ORD10103,2024-03-26,Pallavi Bose,Female,21,Chennai,Beauty,Moisturizer,1,509,509,Debit Card
+ORD10104,2024-03-26,Rashmi Kapoor,Female,25,Bengaluru,Home & Kitchen,Mixer Grinder,1,5629,5629,UPI
+ORD10105,2024-03-27,Faizan Singh,Male,42,Bengaluru,Books,Exam Guide,1,319,319,Net Banking
+ORD10106,2024-03-28,Jaspreet Chopra,Male,28,Bengaluru,Sports,Cricket Bat,1,1329,1329,Debit Card
+ORD10107,2024-03-28,Isha Chopra,Female,26,Mumbai,Fashion,Jacket,1,4659,4659,UPI
+ORD10108,2024-03-28,Gaurav Mishra,Male,36,Mumbai,Books,Exam Guide,4,869,3476,Cash on Delivery
+ORD10109,2024-03-29,Kiran Pillai,Female,34,Delhi,Electronics,Power Bank,1,1789,1789,Debit Card
+ORD10110,2024-03-29,Vikram Mehta,Male,30,Jaipur,Sports,Dumbbell Set,3,2829,8487,UPI
+ORD10111,2024-03-31,Siddharth Kumar,Male,30,Ahmedabad,Beauty,Lipstick,4,519,2076,UPI
+ORD10112,2024-03-31,Manish Reddy,Male,24,Delhi,Fashion,Sneakers,2,3369,6738,UPI
+ORD10113,2024-04-01,Vikram Saxena,Male,27,Delhi,Fashion,Sneakers,1,2259,2259,UPI
+ORD10114,2024-04-01,Gaurav Mishra,Male,36,Mumbai,Books,Children's Book,1,279,279,UPI
+ORD10115,2024-04-01,Pallavi Bose,Female,21,Chennai,Home & Kitchen,Dinner Set,1,3139,3139,Debit Card
+ORD10116,2024-04-01,Ritika Mishra,Female,32,Lucknow,Fashion,Jacket,1,4479,4479,Credit Card
+ORD10117,2024-04-01,Varun Pillai,Male,36,Delhi,Fashion,Sneakers,1,3809,3809,Net Banking
+ORD10118,2024-04-02,Rohan Malhotra,Male,19,Patna,Home & Kitchen,Pressure Cooker,1,1349,1349,UPI
+ORD10119,2024-04-03,Pranav Kumar,Male,40,Bhopal,Home & Kitchen,Water Bottle,1,459,459,UPI
+ORD10120,2024-04-03,Pranav Das,Male,22,Bhopal,Grocery,Atta 10kg,1,429,429,UPI
+ORD10121,2024-04-04,Rohan Iyer,Male,39,Jaipur,Grocery,Cooking Oil 1L,2,219,438,Debit Card
+ORD10122,2024-04-05,Imran Gupta,Male,18,Delhi,Fashion,Saree,2,3859,7718,Debit Card
+ORD10123,2024-04-05,Rashmi Nair,Female,32,Pune,Beauty,Moisturizer,2,829,1658,UPI
+ORD10124,2024-04-06,Pranav Singh,Male,31,Mumbai,Beauty,Perfume,2,1679,3358,UPI
+ORD10125,2024-04-07,Vikram Pandey,Male,26,Hyderabad,Grocery,Dry Fruits 1kg,5,1529,7645,Cash on Delivery
+ORD10126,2024-04-07,Harpreet Kapoor,Male,38,Mumbai,Electronics,Power Bank,1,1389,1389,Net Banking
+ORD10127,2024-04-08,Priya Singh,Female,40,Indore,Grocery,Atta 10kg,2,509,1018,UPI
+ORD10128,2024-04-09,Sana Ansari,Female,18,Bhopal,Electronics,Bluetooth Earbuds,1,3899,3899,Cash on Delivery
+ORD10129,2024-04-11,Varun Pillai,Male,36,Delhi,Beauty,Hair Dryer,1,2189,2189,UPI
+ORD10130,2024-04-12,Rajesh Malhotra,Male,24,Hyderabad,Fashion,Sneakers,2,1669,3338,UPI
+ORD10131,2024-04-12,Jaspreet Agarwal,Male,36,Pune,Sports,Cycling Helmet,1,2069,2069,UPI
+ORD10132,2024-04-12,Tanvi Saxena,Female,35,Patna,Beauty,Face Wash,3,419,1257,Cash on Delivery
+ORD10133,2024-04-12,Sana Pillai,Female,45,Hyderabad,Sports,Cycling Helmet,1,1589,1589,UPI
+ORD10134,2024-04-13,Rajesh Reddy,Male,28,Hyderabad,Fashion,Jeans,1,1209,1209,UPI
+ORD10135,2024-04-14,Vikram Mehta,Male,30,Jaipur,Fashion,Jacket,1,3029,3029,UPI
+ORD10136,2024-04-14,Swati Malhotra,Female,49,Kochi,Home & Kitchen,Water Bottle,1,389,389,Debit Card
+ORD10137,2024-04-15,Pranav Singh,Male,31,Mumbai,Sports,Football,2,519,1038,Debit Card
+ORD10138,2024-04-16,Priya Singh,Female,40,Indore,Sports,Cycling Helmet,1,1539,1539,UPI
+ORD10139,2024-04-16,Tanvi Malhotra,Female,46,Delhi,Fashion,Jacket,1,2489,2489,UPI
+ORD10140,2024-04-16,Kiran Pandey,Female,27,Delhi,Grocery,Cooking Oil 1L,1,149,149,Credit Card
+ORD10141,2024-04-16,Arif Jain,Male,28,Chennai,Grocery,Dry Fruits 1kg,4,1419,5676,Debit Card
+ORD10142,2024-04-17,Megha Singh,Female,38,Chennai,Home & Kitchen,Wall Clock,1,1139,1139,UPI
+ORD10143,2024-04-18,Kunal Nair,Male,39,Mumbai,Electronics,Laptop,1,59549,59549,Credit Card
+ORD10144,2024-04-18,Kunal Joshi,Male,25,Kolkata,Home & Kitchen,Bedsheet Set,1,1369,1369,Net Banking
+ORD10145,2024-04-18,Sneha Shah,Female,25,Pune,Sports,Cricket Bat,1,3029,3029,UPI
+ORD10146,2024-04-19,Jyoti Reddy,Female,18,Ahmedabad,Fashion,Jacket,1,3399,3399,Net Banking
+ORD10147,2024-04-20,Rahul Chatterjee,Male,30,Ahmedabad,Electronics,Smartwatch,2,10059,20118,Cash on Delivery
+ORD10148,2024-04-21,Kavya Verma,Female,31,Hyderabad,Fashion,Jacket,1,4669,4669,UPI
+ORD10149,2024-04-23,Riya Sethi,Female,25,Hyderabad,Home & Kitchen,Mixer Grinder,4,2169,8676,UPI
+ORD10150,2024-04-23,Rashmi Nair,Female,32,Pune,Grocery,Tea 500g,1,309,309,UPI
+ORD10151,2024-04-25,Rajesh Gill,Male,39,Bengaluru,Sports,Dumbbell Set,4,3649,14596,Cash on Delivery
+ORD10152,2024-04-25,Aditya Reddy,Male,50,Pune,Books,Novel,3,589,1767,UPI
+ORD10153,2024-04-26,Pooja Chopra,Female,27,Kolkata,Fashion,Sneakers,2,3579,7158,Debit Card
+ORD10154,2024-04-26,Sakshi Rao,Female,24,Hyderabad,Beauty,Moisturizer,2,389,778,UPI
+ORD10155,2024-04-28,Ananya Sharma,Female,48,Ahmedabad,Fashion,Jeans,1,1799,1799,Credit Card
+ORD10156,2024-04-28,Isha Sharma,Female,39,Hyderabad,Books,Novel,3,219,657,UPI
+ORD10157,2024-04-28,Kiran Pandey,Female,27,Delhi,Electronics,Smartwatch,1,7239,7239,Net Banking
+ORD10158,2024-04-30,Aditya Reddy,Male,50,Pune,Grocery,Basmati Rice 5kg,1,729,729,Credit Card
+ORD10159,2024-04-30,Kiran Jain,Female,18,Indore,Sports,Dumbbell Set,1,2949,2949,Credit Card
+ORD10160,2024-04-30,Divya Sethi,Female,24,Delhi,Electronics,Bluetooth Earbuds,2,1459,2918,Credit Card
+ORD10161,2024-04-30,Deepak Sethi,Male,44,Pune,Grocery,Atta 10kg,2,469,938,Credit Card
+ORD10162,2024-05-01,Swati Sethi,Female,37,Mumbai,Grocery,Dry Fruits 1kg,2,1169,2338,UPI
+ORD10163,2024-05-01,Imran Saxena,Male,24,Kolkata,Electronics,LED Monitor,1,14609,14609,Credit Card
+ORD10164,2024-05-01,Ananya Chatterjee,Female,29,Ahmedabad,Home & Kitchen,Bedsheet Set,1,1969,1969,Credit Card
+ORD10165,2024-05-01,Ananya Chatterjee,Female,29,Ahmedabad,Home & Kitchen,Wall Clock,1,1439,1439,Credit Card
+ORD10166,2024-05-01,Divya Kapoor,Female,18,Hyderabad,Electronics,LED Monitor,1,9139,9139,UPI
+ORD10167,2024-05-02,Aditya Rao,Male,26,Jaipur,Electronics,Bluetooth Earbuds,1,3229,3229,Credit Card
+ORD10168,2024-05-02,Amit Khan,Male,29,Mumbai,Grocery,Cooking Oil 1L,2,169,338,Debit Card
+ORD10169,2024-05-03,Aditi Reddy,Female,23,Jaipur,Electronics,Laptop,1,83549,83549,UPI
+ORD10170,2024-05-03,Pooja Gupta,Female,54,Lucknow,Home & Kitchen,Wall Clock,2,409,818,UPI
+ORD10171,2024-05-04,Nikhil Sethi,Male,37,Bengaluru,Books,Children's Book,1,459,459,UPI
+ORD10172,2024-05-05,Fatima Chatterjee,Female,29,Kolkata,Books,Self-Help Book,1,449,449,Debit Card
+ORD10173,2024-05-06,Amit Reddy,Male,36,Delhi,Electronics,Laptop,1,58779,58779,UPI
+ORD10174,2024-05-06,Tanvi Joshi,Female,49,Mumbai,Sports,Cricket Bat,1,2789,2789,UPI
+ORD10175,2024-05-07,Pallavi Bose,Female,21,Chennai,Electronics,Laptop,2,47179,94358,UPI
+ORD10176,2024-05-07,Pooja Gupta,Female,54,Lucknow,Electronics,Laptop,2,41419,82838,UPI
+ORD10177,2024-05-08,Anjali Sethi,Female,52,Mumbai,Beauty,Lipstick,2,269,538,UPI
+ORD10178,2024-05-09,Aditya Malhotra,Male,38,Delhi,Fashion,Jacket,1,2779,2779,Credit Card
+ORD10179,2024-05-09,Aditya Reddy,Male,50,Pune,Fashion,Jacket,1,2629,2629,Cash on Delivery
+ORD10180,2024-05-09,Pranav Singh,Male,31,Mumbai,Grocery,Tea 500g,1,249,249,UPI
+ORD10181,2024-05-10,Anjali Chatterjee,Female,18,Delhi,Electronics,Power Bank,1,2439,2439,Credit Card
+ORD10182,2024-05-10,Harpreet Kapoor,Male,38,Mumbai,Grocery,Atta 10kg,1,479,479,Credit Card
+ORD10183,2024-05-12,Pranav Sharma,Male,28,Bengaluru,Home & Kitchen,Wall Clock,1,1089,1089,UPI
+ORD10184,2024-05-13,Aditya Das,Male,20,Ahmedabad,Home & Kitchen,Mixer Grinder,2,2309,4618,Debit Card
+ORD10185,2024-05-15,Swati Sethi,Female,37,Mumbai,Home & Kitchen,Wall Clock,2,1099,2198,Debit Card
+ORD10186,2024-05-19,Kunal Rao,Male,36,Hyderabad,Fashion,Saree,4,1049,4196,Net Banking
+ORD10187,2024-05-19,Karan Agarwal,Male,18,Kolkata,Fashion,Jeans,1,2249,2249,Cash on Delivery
+ORD10188,2024-05-20,Aditi Saxena,Female,40,Hyderabad,Electronics,Smartphone,1,22199,22199,Debit Card
+ORD10189,2024-05-20,Amit Khan,Male,29,Mumbai,Books,Exam Guide,1,549,549,UPI
+ORD10190,2024-05-23,Neha Khan,Female,28,Patna,Fashion,Women's Kurti,1,509,509,UPI
+ORD10191,2024-05-23,Siddharth Verma,Male,18,Delhi,Home & Kitchen,Water Bottle,4,789,3156,Credit Card
+ORD10192,2024-05-23,Kunal Sharma,Male,37,Mumbai,Fashion,Men's T-Shirt,2,469,938,Debit Card
+ORD10193,2024-05-23,Vikram Kapoor,Male,33,Bhopal,Electronics,Laptop,1,39799,39799,UPI
+ORD10194,2024-05-23,Harsh Patel,Male,45,Ahmedabad,Electronics,Power Bank,1,1049,1049,Cash on Delivery
+ORD10195,2024-05-23,Priya Patel,Female,47,Chandigarh,Fashion,Jacket,1,4599,4599,UPI
+ORD10196,2024-05-23,Aditya Rao,Male,26,Jaipur,Home & Kitchen,Pressure Cooker,1,1119,1119,UPI
+ORD10197,2024-05-24,Fatima Shah,Female,44,Ahmedabad,Fashion,Jacket,1,3339,3339,UPI
+ORD10198,2024-05-25,Ananya Sharma,Female,47,Chennai,Electronics,Laptop,1,79659,79659,Debit Card
+ORD10199,2024-05-25,Pranav Sharma,Male,28,Bengaluru,Grocery,Dry Fruits 1kg,1,1189,1189,UPI
+ORD10200,2024-05-25,Isha Mehta,Female,45,Hyderabad,Home & Kitchen,Pressure Cooker,1,2539,2539,UPI
+ORD10201,2024-05-27,Pooja Kumar,Female,30,Mumbai,Sports,Yoga Mat,1,1069,1069,UPI
+ORD10202,2024-05-27,Anjali Iyer,Female,39,Lucknow,Electronics,Bluetooth Earbuds,1,2489,2489,UPI
+ORD10203,2024-05-27,Siddharth Kumar,Male,30,Ahmedabad,Sports,Yoga Mat,2,979,1958,UPI
+ORD10204,2024-05-28,Fatima Khan,Female,32,Ahmedabad,Grocery,Tea 500g,1,219,219,Debit Card
+ORD10205,2024-05-28,Ananya Kumar,Female,32,Bhopal,Home & Kitchen,Bedsheet Set,1,2159,2159,Net Banking
+ORD10206,2024-05-29,Rashmi Kapoor,Female,25,Bengaluru,Electronics,LED Monitor,2,8409,16818,Debit Card
+ORD10207,2024-05-29,Karan Agarwal,Male,18,Kolkata,Fashion,Jeans,1,1319,1319,UPI
+ORD10208,2024-06-01,Akash Yadav,Male,33,Indore,Beauty,Moisturizer,1,409,409,UPI
+ORD10209,2024-06-01,Rajesh Reddy,Male,28,Hyderabad,Electronics,Power Bank,1,1899,1899,UPI
+ORD10210,2024-06-01,Akash Joshi,Male,18,Jaipur,Fashion,Jacket,3,4279,12837,Cash on Delivery
+ORD10211,2024-06-02,Neha Bose,Female,25,Patna,Sports,Yoga Mat,1,859,859,Cash on Delivery
+ORD10212,2024-06-03,Aisha Verma,Female,32,Delhi,Home & Kitchen,Bedsheet Set,1,2469,2469,Debit Card
+ORD10213,2024-06-03,Kunal Pillai,Male,37,Bengaluru,Fashion,Sneakers,2,2679,5358,Debit Card
+ORD10214,2024-06-03,Kunal Rao,Male,36,Hyderabad,Grocery,Dry Fruits 1kg,1,789,789,Net Banking
+ORD10215,2024-06-03,Harpreet Kapoor,Male,38,Mumbai,Grocery,Dry Fruits 1kg,3,989,2967,UPI
+ORD10216,2024-06-06,Shreya Chatterjee,Female,30,Jaipur,Beauty,Moisturizer,4,469,1876,UPI
+ORD10217,2024-06-06,Tanvi Singh,Female,32,Jaipur,Sports,Dumbbell Set,1,4199,4199,UPI
+ORD10218,2024-06-06,Shreya Reddy,Female,39,Delhi,Fashion,Men's T-Shirt,1,989,989,UPI
+ORD10219,2024-06-09,Imran Saxena,Male,24,Kolkata,Fashion,Jacket,2,2869,5738,Credit Card
+ORD10220,2024-06-10,Neha Yadav,Female,24,Bengaluru,Home & Kitchen,Dinner Set,2,1769,3538,UPI
+ORD10221,2024-06-10,Neha Yadav,Female,24,Bengaluru,Home & Kitchen,Dinner Set,2,1769,3538,UPI
+ORD10222,2024-06-10,Imran Joshi,Male,48,Kolkata,Sports,Dumbbell Set,1,3769,3769,Net Banking
+ORD10223,2024-06-10,Rajesh Kumar,Male,30,Chennai,Home & Kitchen,Wall Clock,3,1239,3717,Debit Card
+ORD10224,2024-06-12,Swati Sethi,Female,37,Mumbai,Beauty,Moisturizer,4,679,2716,Debit Card
+ORD10225,2024-06-13,Riya Das,Female,27,Chennai,Beauty,Face Wash,1,459,459,UPI
+ORD10226,2024-06-13,Harpreet Reddy,Male,25,Hyderabad,Home & Kitchen,Dinner Set,1,2029,2029,UPI
+ORD10227,2024-06-13,Varun Yadav,Male,18,Jaipur,Home & Kitchen,Bedsheet Set,2,1399,2798,Credit Card
+ORD10228,2024-06-15,Sneha Shah,Female,25,Pune,Fashion,Saree,1,2329,2329,Cash on Delivery
+ORD10229,2024-06-16,Siddharth Mehta,Male,38,Bengaluru,Electronics,LED Monitor,1,12669,12669,Credit Card
+ORD10230,2024-06-16,Nikhil Agarwal,Male,31,Bengaluru,Home & Kitchen,Dinner Set,1,1309,1309,Debit Card
+ORD10231,2024-06-18,Rahul Gupta,Male,31,Mumbai,Sports,Football,5,739,3695,UPI
+ORD10232,2024-06-18,Kavya Iyer,Female,23,Ahmedabad,Beauty,Hair Dryer,1,1749,1749,Credit Card
+ORD10233,2024-06-19,Abhishek Singh,Male,35,Kolkata,Beauty,Lipstick,1,969,969,Cash on Delivery
+ORD10234,2024-06-19,Vikram Agarwal,Male,57,Bengaluru,Fashion,Men's T-Shirt,3,779,2337,Credit Card
+ORD10235,2024-06-20,Rahul Chatterjee,Male,30,Ahmedabad,Electronics,Smartwatch,1,5009,5009,Debit Card
+ORD10236,2024-06-20,Meera Mishra,Female,22,Pune,Fashion,Jacket,1,4129,4129,Credit Card
+ORD10237,2024-06-21,Anjali Pandey,Female,47,Lucknow,Beauty,Lipstick,1,389,389,UPI
+ORD10238,2024-06-23,Rajesh Khan,Male,27,Mumbai,Grocery,Atta 10kg,1,429,429,Debit Card
+ORD10239,2024-06-24,Manish Mishra,Male,18,Bengaluru,Grocery,Atta 10kg,3,579,1737,UPI
+ORD10240,2024-06-25,Varun Kapoor,Male,46,Indore,Grocery,Tea 500g,2,369,738,Credit Card
+ORD10241,2024-06-27,Akash Saxena,Male,41,Delhi,Beauty,Hair Dryer,1,2169,2169,Debit Card
+ORD10242,2024-06-27,Rajesh Khan,Male,27,Mumbai,Grocery,Cooking Oil 1L,1,169,169,UPI
+ORD10243,2024-06-28,Rahul Agarwal,Male,25,Kolkata,Electronics,Laptop,1,69479,69479,Net Banking
+ORD10244,2024-06-30,Nisha Nair,Female,37,Mumbai,Beauty,Hair Dryer,1,2299,2299,UPI
+ORD10245,2024-07-01,Anjali Das,Female,39,Bengaluru,Fashion,Women's Kurti,1,1839,1839,Net Banking
+ORD10246,2024-07-02,Tanvi Saxena,Female,35,Patna,Grocery,Atta 10kg,1,429,429,Credit Card
+ORD10247,2024-07-02,Payal Yadav,Female,25,Pune,Beauty,Hair Dryer,2,1059,2118,UPI
+ORD10248,2024-07-02,Karan Mehta,Male,33,Mumbai,Books,Children's Book,1,399,399,UPI
+ORD10249,2024-07-03,Vikram Pandey,Male,26,Hyderabad,Sports,Dumbbell Set,3,2809,8427,UPI
+ORD10250,2024-07-03,Aisha Pillai,Female,33,Chennai,Home & Kitchen,Wall Clock,1,1479,1479,UPI
+ORD10251,2024-07-03,Divya Das,Female,31,Ahmedabad,Grocery,Atta 10kg,2,589,1178,Cash on Delivery
+ORD10252,2024-07-04,Nisha Singh,Female,18,Delhi,Grocery,Atta 10kg,1,489,489,UPI
+ORD10253,2024-07-04,Imran Pandey,Male,42,Delhi,Books,Self-Help Book,1,419,419,UPI
+ORD10254,2024-07-07,Nisha Yadav,Female,23,Ahmedabad,Grocery,Cooking Oil 1L,2,199,398,Cash on Delivery
+ORD10255,2024-07-08,Arif Sethi,Male,32,Indore,Books,Self-Help Book,2,379,758,UPI
+ORD10256,2024-07-09,Imran Verma,Male,41,Ahmedabad,Home & Kitchen,Water Bottle,2,269,538,Debit Card
+ORD10257,2024-07-09,Ananya Singh,Female,21,Kochi,Books,Self-Help Book,2,499,998,UPI
+ORD10258,2024-07-09,Payal Yadav,Female,25,Pune,Fashion,Sneakers,3,1459,4377,Cash on Delivery
+ORD10259,2024-07-10,Jaspreet Sethi,Male,25,Delhi,Fashion,Jacket,1,4939,4939,Debit Card
+ORD10260,2024-07-11,Rahul Shah,Male,30,Delhi,Fashion,Jeans,1,2649,2649,Net Banking
+ORD10261,2024-07-12,Anjali Das,Female,39,Bengaluru,Books,Children's Book,1,359,359,Credit Card
+ORD10262,2024-07-13,Aisha Shah,Female,27,Lucknow,Home & Kitchen,Water Bottle,3,479,1437,Credit Card
+ORD10263,2024-07-13,Meera Kumar,Female,28,Bengaluru,Books,Children's Book,2,469,938,Debit Card
+ORD10264,2024-07-13,Harsh Patel,Male,45,Ahmedabad,Books,Self-Help Book,1,549,549,UPI
+ORD10265,2024-07-13,Kunal Das,Male,27,Lucknow,Books,Exam Guide,2,709,1418,Credit Card
+ORD10266,2024-07-14,Gaurav Mishra,Male,36,Mumbai,Sports,Yoga Mat,1,1339,1339,Debit Card
+ORD10267,2024-07-16,Manish Mishra,Male,18,Bengaluru,Beauty,Moisturizer,1,659,659,Debit Card
+ORD10268,2024-07-16,Nikhil Ansari,Male,18,Hyderabad,Beauty,Face Wash,1,479,479,Debit Card
+ORD10269,2024-07-16,Varun Kapoor,Male,46,Indore,Electronics,LED Monitor,1,7729,7729,Net Banking
+ORD10270,2024-07-17,Anjali Chatterjee,Female,18,Delhi,Home & Kitchen,Wall Clock,4,479,1916,Debit Card
+ORD10271,2024-07-19,Megha Singh,Female,38,Chennai,Electronics,Bluetooth Earbuds,1,3279,3279,Credit Card
+ORD10272,2024-07-21,Aditi Singh,Female,28,Jaipur,Beauty,Lipstick,1,199,199,UPI
+ORD10273,2024-07-21,Varun Kapoor,Male,46,Indore,Sports,Cricket Bat,3,4619,13857,UPI
+ORD10274,2024-07-24,Jaspreet Agarwal,Male,36,Pune,Fashion,Sneakers,1,1399,1399,UPI
+ORD10275,2024-07-24,Rohan Iyer,Male,39,Jaipur,Fashion,Sneakers,1,1489,1489,UPI
+ORD10276,2024-07-24,Kunal Das,Male,27,Lucknow,Home & Kitchen,Water Bottle,5,729,3645,UPI
+ORD10277,2024-07-24,Sana Pillai,Female,45,Hyderabad,Electronics,LED Monitor,1,18369,18369,Debit Card
+ORD10278,2024-07-25,Siddharth Kumar,Male,30,Ahmedabad,Fashion,Women's Kurti,3,1879,5637,UPI
+ORD10279,2024-07-25,Amit Pandey,Male,36,Kochi,Home & Kitchen,Mixer Grinder,3,5199,15597,UPI
+ORD10280,2024-07-26,Nikhil Sethi,Male,37,Bengaluru,Home & Kitchen,Pressure Cooker,1,1589,1589,UPI
+ORD10281,2024-07-26,Neha Sharma,Female,29,Kochi,Fashion,Jacket,3,4639,13917,UPI
+ORD10282,2024-07-27,Aditi Saxena,Female,40,Hyderabad,Home & Kitchen,Dinner Set,2,2839,5678,Debit Card
+ORD10283,2024-07-27,Nikhil Ansari,Male,18,Hyderabad,Electronics,Smartwatch,1,3129,3129,Debit Card
+ORD10284,2024-07-27,Rajesh Malhotra,Male,24,Hyderabad,Fashion,Jeans,1,2219,2219,Credit Card
+ORD10285,2024-07-27,Arif Gupta,Male,34,Bengaluru,Grocery,Tea 500g,1,269,269,UPI
+ORD10286,2024-07-28,Neha Sharma,Female,29,Kochi,Grocery,Cooking Oil 1L,2,189,378,Debit Card
+ORD10287,2024-07-29,Kiran Yadav,Female,32,Bhopal,Home & Kitchen,Water Bottle,1,469,469,UPI
+ORD10288,2024-07-29,Ananya Kumar,Female,32,Bhopal,Electronics,Bluetooth Earbuds,1,3829,3829,Credit Card
+ORD10289,2024-07-30,Swati Malhotra,Female,49,Kochi,Sports,Cycling Helmet,1,1459,1459,Credit Card
+ORD10290,2024-07-30,Aditya Agarwal,Male,38,Bengaluru,Grocery,Tea 500g,1,379,379,UPI
+ORD10291,2024-07-31,Abhishek Das,Male,32,Ahmedabad,Fashion,Jeans,1,2669,2669,Cash on Delivery
+ORD10292,2024-07-31,Amit Pillai,Male,18,Jaipur,Fashion,Men's T-Shirt,1,309,309,UPI
+ORD10293,2024-08-02,Karan Mehta,Male,33,Mumbai,Fashion,Jeans,1,1409,1409,UPI
+ORD10294,2024-08-03,Shreya Reddy,Female,39,Delhi,Beauty,Lipstick,1,219,219,Credit Card
+ORD10295,2024-08-03,Yash Sharma,Male,18,Kolkata,Grocery,Tea 500g,2,199,398,Debit Card
+ORD10296,2024-08-04,Gaurav Kapoor,Male,23,Pune,Home & Kitchen,Wall Clock,1,1359,1359,Debit Card
+ORD10297,2024-08-05,Kiran Yadav,Female,32,Bhopal,Grocery,Basmati Rice 5kg,1,689,689,UPI
+ORD10298,2024-08-06,Akash Saxena,Male,41,Delhi,Grocery,Atta 10kg,3,539,1617,UPI
+ORD10299,2024-08-06,Vikram Verma,Male,28,Delhi,Fashion,Jeans,2,1279,2558,Credit Card
+ORD10300,2024-08-06,Nikhil Khan,Male,36,Pune,Beauty,Hair Dryer,1,909,909,Debit Card
+ORD10301,2024-08-07,Vikram Reddy,Male,34,Bengaluru,Books,Children's Book,1,219,219,UPI
+ORD10302,2024-08-07,Divya Kapoor,Female,18,Hyderabad,Beauty,Perfume,1,1169,1169,UPI
+ORD10303,2024-08-07,Aditya Jain,Male,18,Pune,Home & Kitchen,Bedsheet Set,1,2239,2239,Credit Card
+ORD10304,2024-08-08,Fatima Khan,Female,41,Mumbai,Sports,Yoga Mat,1,1189,1189,UPI
+ORD10305,2024-08-10,Pooja Das,Female,55,Delhi,Fashion,Jeans,3,1469,4407,UPI
+ORD10306,2024-08-12,Pallavi Ansari,Female,35,Mumbai,Sports,Yoga Mat,1,699,699,Cash on Delivery
+ORD10307,2024-08-13,Ananya Chatterjee,Female,29,Ahmedabad,Sports,Dumbbell Set,1,4839,4839,UPI
+ORD10308,2024-08-13,Priya Yadav,Female,31,Pune,Home & Kitchen,Dinner Set,1,1349,1349,UPI
+ORD10309,2024-08-16,Komal Joshi,Female,45,Delhi,Beauty,Lipstick,1,849,849,UPI
+ORD10310,2024-08-16,Rashmi Kapoor,Female,25,Bengaluru,Electronics,Power Bank,1,1619,1619,Credit Card
+ORD10311,2024-08-17,Rashmi Nair,Female,32,Pune,Home & Kitchen,Wall Clock,1,1169,1169,Debit Card
+ORD10312,2024-08-17,Pooja Khan,Female,39,Chandigarh,Fashion,Saree,2,5699,11398,UPI
+ORD10313,2024-08-18,Harpreet Kapoor,Male,38,Mumbai,Grocery,Cooking Oil 1L,3,209,627,Credit Card
+ORD10314,2024-08-20,Neha Mehta,Female,40,Hyderabad,Electronics,Smartwatch,1,10999,10999,Credit Card
+ORD10315,2024-08-20,Kunal Nair,Male,39,Mumbai,Beauty,Lipstick,1,239,239,UPI
+ORD10316,2024-08-21,Riya Das,Female,27,Chennai,Fashion,Jacket,3,3049,9147,UPI
+ORD10317,2024-08-21,Neha Sharma,Female,29,Kochi,Sports,Dumbbell Set,3,4709,14127,Net Banking
+ORD10318,2024-08-22,Kunal Ansari,Male,31,Delhi,Grocery,Atta 10kg,2,469,938,UPI
+ORD10319,2024-08-23,Kunal Sharma,Male,37,Mumbai,Home & Kitchen,Pressure Cooker,4,1479,5916,Debit Card
+ORD10320,2024-08-23,Arif Sethi,Male,32,Indore,Fashion,Men's T-Shirt,1,459,459,UPI
+ORD10321,2024-08-25,Suresh Gill,Male,18,Pune,Electronics,Power Bank,1,1159,1159,UPI
+ORD10322,2024-08-26,Sakshi Jain,Female,27,Delhi,Electronics,Laptop,1,58419,58419,Cash on Delivery
+ORD10323,2024-08-29,Aisha Verma,Female,32,Delhi,Beauty,Lipstick,1,439,439,Credit Card
+ORD10324,2024-08-29,Gaurav Mishra,Male,36,Mumbai,Beauty,Moisturizer,1,859,859,Cash on Delivery
+ORD10325,2024-08-29,Anjali Gill,Female,34,Delhi,Fashion,Women's Kurti,2,1869,3738,Cash on Delivery
+ORD10326,2024-08-30,Vikram Saxena,Male,27,Delhi,Fashion,Sneakers,3,4729,14187,UPI
+ORD10327,2024-08-30,Gaurav Nair,Male,39,Mumbai,Home & Kitchen,Water Bottle,1,429,429,UPI
+ORD10328,2024-08-31,Arif Jain,Male,28,Chennai,Books,Self-Help Book,1,649,649,Cash on Delivery
+ORD10329,2024-09-01,Sahil Joshi,Male,33,Chandigarh,Fashion,Saree,1,4859,4859,Net Banking
+ORD10330,2024-09-03,Swati Malhotra,Female,49,Kochi,Electronics,Power Bank,1,759,759,Debit Card
+ORD10331,2024-09-04,Sahil Verma,Male,46,Lucknow,Fashion,Men's T-Shirt,1,729,729,UPI
+ORD10332,2024-09-04,Amit Reddy,Male,36,Delhi,Electronics,Smartwatch,1,4729,4729,UPI
+ORD10333,2024-09-05,Pranav Sethi,Male,39,Hyderabad,Home & Kitchen,Wall Clock,1,819,819,UPI
+ORD10334,2024-09-05,Kunal Pillai,Male,37,Bengaluru,Grocery,Atta 10kg,1,559,559,Credit Card
+ORD10335,2024-09-06,Divya Das,Female,31,Ahmedabad,Electronics,Laptop,1,50209,50209,Credit Card
+ORD10336,2024-09-08,Pooja Gupta,Female,54,Lucknow,Home & Kitchen,Wall Clock,1,439,439,Debit Card
+ORD10337,2024-09-08,Rajesh Singh,Male,35,Pune,Home & Kitchen,Water Bottle,1,559,559,UPI
+ORD10338,2024-09-09,Kunal Sharma,Male,37,Mumbai,Fashion,Saree,4,2329,9316,Net Banking
+ORD10339,2024-09-11,Amit Pillai,Male,18,Jaipur,Fashion,Jacket,1,3739,3739,Cash on Delivery
+ORD10340,2024-09-11,Aditya Jain,Male,18,Pune,Fashion,Jeans,1,2929,2929,UPI
+ORD10341,2024-09-11,Sakshi Saxena,Female,35,Bengaluru,Sports,Dumbbell Set,5,2359,11795,UPI
+ORD10342,2024-09-12,Sana Sethi,Female,33,Indore,Electronics,Bluetooth Earbuds,1,1249,1249,UPI
+ORD10343,2024-09-13,Kiran Pandey,Female,27,Delhi,Beauty,Hair Dryer,1,1739,1739,Cash on Delivery
+ORD10344,2024-09-14,Aditya Das,Male,20,Ahmedabad,Fashion,Sneakers,1,1679,1679,Cash on Delivery
+ORD10345,2024-09-15,Varun Pillai,Male,36,Delhi,Books,Children's Book,5,169,845,Credit Card
+ORD10346,2024-09-15,Isha Chopra,Female,26,Mumbai,Books,Self-Help Book,1,439,439,UPI
+ORD10347,2024-09-15,Nidhi Kapoor,Female,35,Mumbai,Home & Kitchen,Wall Clock,2,969,1938,Credit Card
+ORD10348,2024-09-15,Aditya Reddy,Male,50,Pune,Beauty,Hair Dryer,1,2259,2259,UPI
+ORD10349,2024-09-16,Abhishek Singh,Male,35,Kolkata,Electronics,LED Monitor,1,7619,7619,UPI
+ORD10350,2024-09-16,Simran Nair,Female,21,Mumbai,Fashion,Men's T-Shirt,1,839,839,Debit Card
+ORD10351,2024-09-18,Imran Saxena,Male,24,Kolkata,Beauty,Moisturizer,2,899,1798,Debit Card
+ORD10352,2024-09-18,Suresh Mehta,Male,29,Delhi,Fashion,Jacket,1,4779,4779,Net Banking
+ORD10353,2024-09-19,Aditya Agarwal,Male,38,Bengaluru,Grocery,Atta 10kg,2,589,1178,UPI
+ORD10354,2024-09-19,Yash Mehta,Male,30,Hyderabad,Home & Kitchen,Bedsheet Set,1,1099,1099,Cash on Delivery
+ORD10355,2024-09-19,Pooja Kumar,Female,30,Mumbai,Books,Novel,3,559,1677,UPI
+ORD10356,2024-09-20,Sahil Joshi,Male,33,Chandigarh,Grocery,Dry Fruits 1kg,2,1109,2218,UPI
+ORD10357,2024-09-20,Kunal Rao,Male,36,Hyderabad,Electronics,Smartphone,1,18129,18129,Credit Card
+ORD10358,2024-09-21,Kavya Joshi,Female,18,Mumbai,Fashion,Sneakers,3,1479,4437,Cash on Delivery
+ORD10359,2024-09-21,Aisha Chatterjee,Female,53,Jaipur,Fashion,Jacket,1,2909,2909,UPI
+ORD10360,2024-09-22,Harsh Pandey,Male,31,Mumbai,Home & Kitchen,Wall Clock,2,439,878,Credit Card
+ORD10361,2024-09-22,Sneha Shah,Female,25,Pune,Electronics,Smartphone,1,23849,23849,UPI
+ORD10362,2024-09-22,Payal Bose,Female,45,Bhopal,Grocery,Atta 10kg,1,539,539,Cash on Delivery
+ORD10363,2024-09-23,Arif Bose,Male,26,Bengaluru,Fashion,Women's Kurti,5,1249,6245,UPI
+ORD10364,2024-09-24,Sana Rao,Female,22,Mumbai,Home & Kitchen,Dinner Set,2,2499,4998,Debit Card
+ORD10365,2024-09-24,Ritika Agarwal,Female,25,Bengaluru,Grocery,Dry Fruits 1kg,2,1329,2658,UPI
+ORD10366,2024-09-24,Jaspreet Nair,Male,54,Mumbai,Electronics,Laptop,1,79169,79169,UPI
+ORD10367,2024-09-24,Anjali Gill,Female,34,Delhi,Fashion,Saree,3,5589,16767,Cash on Delivery
+ORD10368,2024-09-24,Sana Mishra,Female,33,Chennai,Electronics,LED Monitor,1,13529,13529,Debit Card
+ORD10369,2024-09-24,Nikhil Ansari,Male,18,Hyderabad,Fashion,Saree,4,4279,17116,UPI
+ORD10370,2024-09-25,Sahil Joshi,Male,33,Chandigarh,Home & Kitchen,Wall Clock,1,739,739,UPI
+ORD10371,2024-09-25,Megha Chatterjee,Female,37,Mumbai,Fashion,Sneakers,1,4159,4159,UPI
+ORD10372,2024-09-26,Siddharth Rao,Male,28,Bengaluru,Beauty,Lipstick,1,559,559,Credit Card
+ORD10373,2024-09-26,Neha Yadav,Female,24,Bengaluru,Home & Kitchen,Pressure Cooker,1,2659,2659,UPI
+ORD10374,2024-09-26,Rajesh Kumar,Male,30,Chennai,Fashion,Sneakers,3,3789,11367,UPI
+ORD10375,2024-09-30,Pranav Singh,Male,19,Indore,Fashion,Jacket,1,3499,3499,UPI
+ORD10376,2024-09-30,Shreya Reddy,Female,39,Delhi,Grocery,Tea 500g,1,239,239,Cash on Delivery
+ORD10377,2024-10-01,Jyoti Mishra,Female,35,Chennai,Sports,Football,1,1049,1049,Cash on Delivery
+ORD10378,2024-10-01,Amit Pandey,Male,36,Kochi,Fashion,Jeans,1,1199,1199,Net Banking
+ORD10379,2024-10-02,Meera Kumar,Female,28,Bengaluru,Sports,Cricket Bat,1,2339,2339,Credit Card
+ORD10380,2024-10-03,Tanvi Reddy,Female,28,Ahmedabad,Electronics,Power Bank,1,1089,1089,Cash on Delivery
+ORD10381,2024-10-03,Kunal Ansari,Male,31,Delhi,Fashion,Men's T-Shirt,1,779,779,UPI
+ORD10382,2024-10-03,Nikhil Ansari,Male,18,Hyderabad,Beauty,Perfume,1,2469,2469,Cash on Delivery
+ORD10383,2024-10-05,Rashmi Patel,Female,42,Chandigarh,Electronics,Laptop,1,40079,40079,UPI
+ORD10384,2024-10-05,Sakshi Saxena,Female,35,Bengaluru,Books,Children's Book,2,429,858,Cash on Delivery
+ORD10385,2024-10-06,Jyoti Reddy,Female,18,Ahmedabad,Fashion,Men's T-Shirt,1,479,479,Credit Card
+ORD10386,2024-10-06,Karan Patel,Male,48,Kolkata,Electronics,Smartwatch,1,9809,9809,UPI
+ORD10387,2024-10-07,Akash Saxena,Male,41,Delhi,Sports,Cricket Bat,1,1529,1529,Net Banking
+ORD10388,2024-10-08,Aisha Verma,Female,32,Delhi,Beauty,Moisturizer,3,819,2457,Credit Card
+ORD10389,2024-10-08,Abhishek Jain,Male,41,Jaipur,Home & Kitchen,Pressure Cooker,1,2539,2539,Cash on Delivery
+ORD10390,2024-10-09,Vikram Chopra,Male,33,Kolkata,Fashion,Sneakers,1,2799,2799,UPI
+ORD10391,2024-10-10,Sana Rao,Female,22,Mumbai,Electronics,LED Monitor,1,11309,11309,UPI
+ORD10392,2024-10-11,Nisha Nair,Female,37,Mumbai,Sports,Yoga Mat,1,449,449,Debit Card
+ORD10393,2024-10-11,Sana Sethi,Female,33,Indore,Electronics,Power Bank,1,2229,2229,Net Banking
+ORD10394,2024-10-11,Rajesh Singh,Male,35,Pune,Fashion,Women's Kurti,2,1779,3558,Credit Card
+ORD10395,2024-10-13,Akash Mishra,Male,25,Jaipur,Fashion,Saree,1,6739,6739,Debit Card
+ORD10396,2024-10-15,Shreya Chatterjee,Female,30,Jaipur,Grocery,Atta 10kg,2,399,798,Net Banking
+ORD10397,2024-10-16,Harpreet Mehta,Male,26,Jaipur,Home & Kitchen,Bedsheet Set,1,1889,1889,Debit Card
+ORD10398,2024-10-17,Nikhil Sethi,Male,37,Bengaluru,Fashion,Men's T-Shirt,3,519,1557,Credit Card
+ORD10399,2024-10-17,Tanvi Reddy,Female,28,Ahmedabad,Grocery,Atta 10kg,1,559,559,Debit Card
+ORD10400,2024-10-18,Imran Pandey,Male,42,Delhi,Grocery,Tea 500g,2,249,498,UPI
+ORD10401,2024-10-18,Pooja Kapoor,Female,28,Indore,Home & Kitchen,Bedsheet Set,5,609,3045,UPI
+ORD10402,2024-10-18,Payal Saxena,Female,37,Pune,Home & Kitchen,Bedsheet Set,3,1769,5307,Credit Card
+ORD10403,2024-10-18,Kunal Rao,Male,36,Hyderabad,Fashion,Sneakers,1,4529,4529,Debit Card
+ORD10404,2024-10-19,Megha Malhotra,Female,32,Chandigarh,Grocery,Basmati Rice 5kg,1,839,839,UPI
+ORD10405,2024-10-21,Ananya Singh,Female,21,Kochi,Fashion,Men's T-Shirt,1,509,509,UPI
+ORD10406,2024-10-22,Vikram Pandey,Male,33,Hyderabad,Fashion,Men's T-Shirt,2,469,938,Credit Card
+ORD10407,2024-10-22,Priya Yadav,Female,31,Pune,Fashion,Sneakers,1,4129,4129,Net Banking
+ORD10408,2024-10-24,Harpreet Kapoor,Male,38,Mumbai,Grocery,Cooking Oil 1L,1,209,209,UPI
+ORD10409,2024-10-25,Imran Pandey,Male,42,Delhi,Fashion,Men's T-Shirt,1,389,389,Cash on Delivery
+ORD10410,2024-10-28,Arif Gill,Male,29,Pune,Electronics,Smartphone,2,33669,67338,UPI
+ORD10411,2024-10-28,Pooja Das,Female,55,Delhi,Fashion,Men's T-Shirt,2,439,878,Net Banking
+ORD10412,2024-10-28,Vikram Mehta,Male,48,Pune,Grocery,Atta 10kg,3,589,1767,Cash on Delivery
+ORD10413,2024-10-28,Rashmi Kapoor,Female,25,Bengaluru,Electronics,LED Monitor,1,18109,18109,Debit Card
+ORD10414,2024-10-31,Megha Chatterjee,Female,37,Mumbai,Books,Self-Help Book,1,299,299,UPI
+ORD10415,2024-11-02,Nidhi Bose,Female,29,Kolkata,Grocery,Cooking Oil 1L,3,179,537,Cash on Delivery
+ORD10416,2024-11-03,Sana Pandey,Female,37,Pune,Home & Kitchen,Mixer Grinder,1,2449,2449,UPI
+ORD10417,2024-11-03,Sana Ansari,Female,18,Bhopal,Electronics,LED Monitor,1,17759,17759,Credit Card
+ORD10418,2024-11-03,Akash Mishra,Male,25,Jaipur,Beauty,Hair Dryer,1,1139,1139,Credit Card
+ORD10419,2024-11-05,Vikram Gill,Male,55,Jaipur,Fashion,Jacket,1,2919,2919,Debit Card
+ORD10420,2024-11-05,Kunal Joshi,Male,18,Chandigarh,Home & Kitchen,Water Bottle,2,449,898,Credit Card
+ORD10421,2024-11-06,Pooja Mehta,Female,29,Mumbai,Fashion,Sneakers,2,4469,8938,Net Banking
+ORD10422,2024-11-07,Aisha Agarwal,Female,31,Pune,Grocery,Tea 500g,1,409,409,Cash on Delivery
+ORD10423,2024-11-07,Simran Gill,Female,33,Chennai,Home & Kitchen,Water Bottle,5,779,3895,Cash on Delivery
+ORD10424,2024-11-07,Rashmi Yadav,Female,21,Bengaluru,Fashion,Jeans,2,1129,2258,Net Banking
+ORD10425,2024-11-07,Gaurav Nair,Male,39,Mumbai,Beauty,Lipstick,2,379,758,UPI
+ORD10426,2024-11-08,Aditya Sethi,Male,25,Kochi,Beauty,Perfume,1,2109,2109,UPI
+ORD10427,2024-11-08,Pranav Das,Male,22,Bhopal,Fashion,Men's T-Shirt,1,679,679,Debit Card
+ORD10428,2024-11-09,Shreya Chatterjee,Female,30,Jaipur,Sports,Yoga Mat,5,929,4645,Debit Card
+ORD10429,2024-11-10,Jaspreet Nair,Male,54,Mumbai,Fashion,Women's Kurti,4,1129,4516,Net Banking
+ORD10430,2024-11-10,Siddharth Rao,Male,28,Bengaluru,Fashion,Jacket,1,2889,2889,Cash on Delivery
+ORD10431,2024-11-10,Riya Sethi,Female,25,Hyderabad,Home & Kitchen,Pressure Cooker,1,2649,2649,Cash on Delivery
+ORD10432,2024-11-11,Ritika Agarwal,Female,25,Bengaluru,Books,Self-Help Book,1,439,439,UPI
+ORD10433,2024-11-13,Komal Chatterjee,Female,25,Mumbai,Fashion,Saree,1,3839,3839,Debit Card
+ORD10434,2024-11-13,Fatima Khan,Female,32,Ahmedabad,Home & Kitchen,Bedsheet Set,1,2079,2079,Debit Card
+ORD10435,2024-11-14,Akash Joshi,Male,18,Jaipur,Electronics,Smartwatch,1,2089,2089,Credit Card
+ORD10436,2024-11-15,Pranav Singh,Male,19,Indore,Home & Kitchen,Pressure Cooker,1,1329,1329,Credit Card
+ORD10437,2024-11-15,Sandeep Chatterjee,Male,29,Chennai,Home & Kitchen,Mixer Grinder,1,4269,4269,Credit Card
+ORD10438,2024-11-16,Sahil Ansari,Male,55,Indore,Grocery,Cooking Oil 1L,2,169,338,Cash on Delivery
+ORD10439,2024-11-16,Arif Gupta,Male,30,Chennai,Electronics,Smartphone,1,30619,30619,UPI
+ORD10440,2024-11-16,Imran Joshi,Male,48,Kolkata,Grocery,Tea 500g,1,379,379,Net Banking
+ORD10441,2024-11-17,Megha Pillai,Female,28,Hyderabad,Sports,Dumbbell Set,1,3679,3679,Net Banking
+ORD10442,2024-11-17,Kunal Rao,Male,36,Hyderabad,Electronics,Bluetooth Earbuds,1,4599,4599,UPI
+ORD10443,2024-11-18,Aditi Singh,Female,28,Jaipur,Beauty,Hair Dryer,1,2419,2419,UPI
+ORD10444,2024-11-18,Gaurav Nair,Male,39,Mumbai,Grocery,Atta 10kg,1,569,569,Net Banking
+ORD10445,2024-11-18,Nikhil Joshi,Male,18,Hyderabad,Sports,Football,1,1419,1419,Credit Card
+ORD10446,2024-11-19,Harsh Patel,Male,45,Ahmedabad,Fashion,Women's Kurti,1,1139,1139,UPI
+ORD10447,2024-11-20,Aditya Rao,Male,26,Jaipur,Beauty,Hair Dryer,2,1769,3538,UPI
+ORD10448,2024-11-21,Payal Yadav,Female,25,Pune,Home & Kitchen,Dinner Set,2,2729,5458,Credit Card
+ORD10449,2024-11-22,Kunal Rao,Male,36,Hyderabad,Grocery,Cooking Oil 1L,1,209,209,UPI
+ORD10450,2024-11-22,Yash Saxena,Male,40,Pune,Home & Kitchen,Bedsheet Set,2,1309,2618,Credit Card
+ORD10451,2024-11-23,Neha Kapoor,Female,32,Hyderabad,Fashion,Sneakers,3,1469,4407,Debit Card
+ORD10452,2024-11-23,Priya Singh,Female,40,Indore,Beauty,Face Wash,2,439,878,Debit Card
+ORD10453,2024-11-23,Abhishek Das,Male,32,Ahmedabad,Home & Kitchen,Wall Clock,1,549,549,Credit Card
+ORD10454,2024-11-24,Vikram Reddy,Male,34,Bengaluru,Beauty,Face Wash,1,379,379,Debit Card
+ORD10455,2024-11-26,Aisha Shah,Female,27,Lucknow,Beauty,Face Wash,1,409,409,UPI
+ORD10456,2024-11-27,Aisha Singh,Female,44,Ahmedabad,Fashion,Jeans,1,2889,2889,Cash on Delivery
+ORD10457,2024-11-27,Arjun Bose,Male,34,Pune,Fashion,Men's T-Shirt,1,339,339,Credit Card
+ORD10458,2024-11-28,Sakshi Saxena,Female,35,Bengaluru,Electronics,Smartwatch,1,6259,6259,Cash on Delivery
+ORD10459,2024-11-29,Anjali Das,Female,39,Bengaluru,Home & Kitchen,Water Bottle,1,759,759,UPI
+ORD10460,2024-11-30,Megha Pillai,Female,28,Hyderabad,Books,Novel,1,459,459,UPI
+ORD10461,2024-12-01,Faizan Shah,Male,23,Delhi,Electronics,Power Bank,1,2029,2029,UPI
+ORD10462,2024-12-01,Vikram Mehta,Male,30,Jaipur,Fashion,Sneakers,1,2659,2659,UPI
+ORD10463,2024-12-02,Arif Gill,Male,29,Pune,Books,Novel,1,459,459,UPI
+ORD10464,2024-12-02,Isha Chopra,Female,26,Mumbai,Books,Exam Guide,1,639,639,UPI
+ORD10465,2024-12-03,Ananya Chatterjee,Female,29,Ahmedabad,Fashion,Women's Kurti,2,1249,2498,Debit Card
+ORD10466,2024-12-03,Megha Pandey,Female,22,Bengaluru,Books,Exam Guide,1,859,859,UPI
+ORD10467,2024-12-05,Ritika Bose,Female,28,Hyderabad,Fashion,Jeans,1,1819,1819,UPI
+ORD10468,2024-12-07,Anjali Sethi,Female,52,Mumbai,Home & Kitchen,Wall Clock,2,1499,2998,UPI
+ORD10469,2024-12-08,Rohan Das,Male,32,Chennai,Fashion,Saree,1,5069,5069,Debit Card
+ORD10470,2024-12-08,Pooja Chopra,Female,27,Kolkata,Grocery,Dry Fruits 1kg,3,1069,3207,Cash on Delivery
+ORD10471,2024-12-09,Tanvi Malhotra,Female,46,Delhi,Electronics,Laptop,1,45979,45979,UPI
+ORD10472,2024-12-09,Fatima Khan,Female,32,Ahmedabad,Grocery,Cooking Oil 1L,1,149,149,Debit Card
+ORD10473,2024-12-09,Ritika Mishra,Female,32,Lucknow,Sports,Dumbbell Set,1,4749,4749,Credit Card
+ORD10474,2024-12-09,Harpreet Kapoor,Male,38,Mumbai,Home & Kitchen,Pressure Cooker,3,1119,3357,Cash on Delivery
+ORD10475,2024-12-12,Komal Joshi,Female,45,Delhi,Beauty,Face Wash,4,209,836,UPI
+ORD10476,2024-12-13,Imran Kapoor,Male,40,Pune,Sports,Cycling Helmet,3,1799,5397,Credit Card
+ORD10477,2024-12-13,Imran Pandey,Male,42,Delhi,Home & Kitchen,Bedsheet Set,1,1719,1719,UPI
+ORD10478,2024-12-14,Priya Chatterjee,Female,25,Delhi,Grocery,Tea 500g,1,209,209,Net Banking
+ORD10479,2024-12-14,Vikram Gill,Male,55,Jaipur,Books,Self-Help Book,1,599,599,Cash on Delivery
+ORD10480,2024-12-14,Aisha Pillai,Female,33,Chennai,Grocery,Tea 500g,1,359,359,UPI
+ORD10481,2024-12-14,Aisha Shah,Female,27,Lucknow,Electronics,Power Bank,1,1769,1769,Cash on Delivery
+ORD10482,2024-12-14,Jaspreet Jain,Male,38,Ahmedabad,Sports,Cycling Helmet,4,2169,8676,Cash on Delivery
+ORD10483,2024-12-16,Varun Yadav,Male,18,Jaipur,Grocery,Dry Fruits 1kg,2,939,1878,UPI
+ORD10484,2024-12-17,Tanvi Joshi,Female,49,Mumbai,Electronics,LED Monitor,1,16509,16509,UPI
+ORD10485,2024-12-18,Pooja Mehta,Female,29,Mumbai,Electronics,Smartwatch,1,7539,7539,UPI
+ORD10486,2024-12-18,Faizan Singh,Male,42,Bengaluru,Fashion,Women's Kurti,2,1379,2758,Net Banking
+ORD10487,2024-12-19,Imran Gupta,Male,18,Delhi,Sports,Football,1,579,579,UPI
+ORD10488,2024-12-22,Amit Khan,Male,29,Mumbai,Home & Kitchen,Mixer Grinder,1,5099,5099,Cash on Delivery
+ORD10489,2024-12-22,Kavya Yadav,Female,41,Hyderabad,Grocery,Tea 500g,4,259,1036,Credit Card
+ORD10490,2024-12-22,Jyoti Mishra,Female,35,Chennai,Books,Self-Help Book,1,639,639,Cash on Delivery
+ORD10491,2024-12-25,Pooja Das,Female,55,Delhi,Home & Kitchen,Pressure Cooker,1,1489,1489,Credit Card
+ORD10492,2024-12-25,Jaspreet Sethi,Male,25,Delhi,Beauty,Moisturizer,1,429,429,Credit Card
+ORD10493,2024-12-27,Kiran Pillai,Female,34,Delhi,Fashion,Men's T-Shirt,2,349,698,UPI
+ORD10494,2024-12-28,Pranav Iyer,Male,20,Ahmedabad,Sports,Cricket Bat,1,2489,2489,Credit Card
+ORD10495,2024-12-28,Rohan Das,Male,32,Chennai,Grocery,Tea 500g,1,409,409,UPI
+ORD10496,2024-12-29,Aisha Singh,Female,44,Ahmedabad,Home & Kitchen,Bedsheet Set,1,1929,1929,UPI
+ORD10497,2024-12-29,Amit Kapoor,Male,26,Kolkata,Fashion,Saree,1,2649,2649,UPI
+ORD10498,2024-12-29,Abhishek Jain,Male,41,Jaipur,Fashion,Saree,1,1039,1039,Debit Card
+ORD10499,2024-12-29,Divya Saxena,Female,33,Mumbai,Home & Kitchen,Water Bottle,1,339,339,Net Banking
+ORD10500,2024-12-29,Nidhi Reddy,Female,38,Kolkata,Home & Kitchen,Water Bottle,1,469,469,Cash on Delivery
+ORD10501,2024-12-31,Aisha Shah,Female,27,Lucknow,Electronics,Power Bank,1,759,759,UPI
+ORD10502,2025-01-01,Vikram Chatterjee,Male,28,Jaipur,Sports,Dumbbell Set,1,2259,2259,UPI
+ORD10503,2025-01-01,Pooja Gill,Female,38,Bengaluru,Electronics,Power Bank,1,1819,1819,UPI
+ORD10504,2025-01-02,Pooja Das,Female,55,Delhi,Home & Kitchen,Dinner Set,1,2159,2159,UPI
+ORD10505,2025-01-02,Aditya Das,Male,20,Ahmedabad,Books,Children's Book,3,199,597,Credit Card
+ORD10506,2025-01-02,Arif Sethi,Male,32,Indore,Grocery,Basmati Rice 5kg,2,549,1098,UPI
+ORD10507,2025-01-02,Jaspreet Chopra,Male,28,Bengaluru,Fashion,Men's T-Shirt,2,309,618,UPI
+ORD10508,2025-01-04,Gaurav Shah,Male,25,Bengaluru,Grocery,Dry Fruits 1kg,1,1229,1229,UPI
+ORD10509,2025-01-04,Priya Gill,Female,28,Pune,Fashion,Jeans,2,2149,4298,UPI
+ORD10510,2025-01-04,Megha Pillai,Female,28,Hyderabad,Electronics,LED Monitor,1,12389,12389,UPI
+ORD10511,2025-01-05,Karan Rao,Male,36,Kolkata,Home & Kitchen,Dinner Set,2,3629,7258,Credit Card
+ORD10512,2025-01-06,Pooja Yadav,Female,29,Delhi,Fashion,Women's Kurti,2,1009,2018,UPI
+ORD10513,2025-01-06,Kunal Nair,Male,39,Mumbai,Electronics,Smartphone,1,23419,23419,UPI
+ORD10514,2025-01-07,Jaspreet Jain,Male,38,Ahmedabad,Sports,Dumbbell Set,2,2659,5318,Credit Card
+ORD10515,2025-01-08,Pranav Das,Male,22,Bhopal,Grocery,Cooking Oil 1L,1,189,189,Debit Card
+ORD10516,2025-01-08,Pallavi Gupta,Female,25,Chandigarh,Fashion,Women's Kurti,5,1359,6795,Debit Card
+ORD10517,2025-01-09,Divya Pandey,Female,29,Chandigarh,Fashion,Sneakers,1,1489,1489,UPI
+ORD10518,2025-01-09,Sahil Verma,Male,46,Lucknow,Fashion,Saree,1,3409,3409,UPI
+ORD10519,2025-01-10,Nikhil Ansari,Male,18,Hyderabad,Sports,Cricket Bat,1,4039,4039,UPI
+ORD10520,2025-01-11,Imran Joshi,Male,48,Kolkata,Grocery,Dry Fruits 1kg,1,1499,1499,Net Banking
+ORD10521,2025-01-12,Pallavi Ansari,Female,35,Mumbai,Home & Kitchen,Wall Clock,2,1409,2818,UPI
+ORD10522,2025-01-13,Swati Chatterjee,Female,42,Bengaluru,Fashion,Jacket,1,1619,1619,UPI
+ORD10523,2025-01-14,Aditya Reddy,Male,50,Pune,Grocery,Atta 10kg,1,409,409,UPI
+ORD10524,2025-01-15,Suresh Kapoor,Male,18,Hyderabad,Fashion,Sneakers,2,1639,3278,Net Banking
+ORD10525,2025-01-15,Isha Chopra,Female,26,Mumbai,Grocery,Tea 500g,1,269,269,UPI
+ORD10526,2025-01-16,Fatima Khan,Female,41,Mumbai,Grocery,Basmati Rice 5kg,1,709,709,Debit Card
+ORD10527,2025-01-16,Aditi Reddy,Female,23,Jaipur,Home & Kitchen,Pressure Cooker,1,2019,2019,UPI
+ORD10528,2025-01-16,Karan Patel,Male,48,Kolkata,Fashion,Jacket,2,2359,4718,Credit Card
+ORD10529,2025-01-21,Nikhil Shah,Male,41,Indore,Electronics,LED Monitor,1,17559,17559,Cash on Delivery
+ORD10530,2025-01-23,Akash Joshi,Male,18,Jaipur,Home & Kitchen,Wall Clock,1,469,469,UPI
+ORD10531,2025-01-24,Siddharth Iyer,Male,34,Delhi,Sports,Yoga Mat,4,429,1716,UPI
+ORD10532,2025-01-24,Meera Mishra,Female,22,Pune,Grocery,Basmati Rice 5kg,1,859,859,Credit Card
+ORD10533,2025-01-26,Komal Das,Female,31,Mumbai,Home & Kitchen,Pressure Cooker,2,2609,5218,UPI
+ORD10534,2025-01-26,Riya Khan,Female,34,Hyderabad,Electronics,Laptop,1,80229,80229,UPI
+ORD10535,2025-01-28,Harsh Pandey,Male,31,Mumbai,Fashion,Women's Kurti,4,1719,6876,Debit Card
+ORD10536,2025-01-28,Pooja Khan,Female,39,Chandigarh,Home & Kitchen,Dinner Set,1,2339,2339,Debit Card
+ORD10537,2025-01-28,Varun Bose,Male,30,Mumbai,Beauty,Perfume,1,1449,1449,Debit Card
+ORD10538,2025-01-28,Arif Gupta,Male,34,Bengaluru,Fashion,Sneakers,2,4619,9238,UPI
+ORD10539,2025-01-31,Arif Nair,Male,50,Chandigarh,Grocery,Tea 500g,1,259,259,UPI
+ORD10540,2025-02-01,Simran Nair,Female,21,Mumbai,Grocery,Cooking Oil 1L,1,149,149,Cash on Delivery
+ORD10541,2025-02-01,Anjali Das,Female,39,Bengaluru,Fashion,Saree,2,3539,7078,Cash on Delivery
+ORD10542,2025-02-05,Jaspreet Chopra,Male,28,Bengaluru,Beauty,Perfume,1,1739,1739,Credit Card
+ORD10543,2025-02-05,Swati Sethi,Female,37,Mumbai,Books,Children's Book,1,359,359,Cash on Delivery
+ORD10544,2025-02-05,Kiran Pandey,Female,27,Delhi,Fashion,Men's T-Shirt,2,739,1478,Net Banking
+ORD10545,2025-02-06,Sahil Joshi,Male,33,Chandigarh,Electronics,LED Monitor,1,10589,10589,Credit Card
+ORD10546,2025-02-06,Pranav Sethi,Male,39,Hyderabad,Home & Kitchen,Dinner Set,1,1629,1629,UPI
+ORD10547,2025-02-06,Tanvi Malhotra,Female,46,Delhi,Sports,Cycling Helmet,1,1709,1709,UPI
+ORD10548,2025-02-07,Rahul Gupta,Male,31,Mumbai,Beauty,Face Wash,4,299,1196,UPI
+ORD10549,2025-02-07,Siddharth Iyer,Male,34,Delhi,Electronics,Smartphone,1,21369,21369,Credit Card
+ORD10550,2025-02-08,Rashmi Nair,Female,32,Pune,Home & Kitchen,Wall Clock,2,1379,2758,Debit Card
+ORD10551,2025-02-09,Anjali Yadav,Female,39,Kolkata,Sports,Yoga Mat,1,1039,1039,UPI
+ORD10552,2025-02-09,Pranav Agarwal,Male,39,Lucknow,Electronics,Bluetooth Earbuds,2,2039,4078,UPI
+ORD10553,2025-02-09,Nidhi Kapoor,Female,35,Mumbai,Fashion,Sneakers,4,3409,13636,UPI
+ORD10554,2025-02-10,Kavya Verma,Female,31,Hyderabad,Beauty,Hair Dryer,1,1449,1449,UPI
+ORD10555,2025-02-10,Deepak Ansari,Male,42,Pune,Fashion,Jeans,3,1939,5817,UPI
+ORD10556,2025-02-11,Sana Pandey,Female,37,Pune,Fashion,Jacket,1,3249,3249,Debit Card
+ORD10557,2025-02-12,Suresh Kapoor,Male,18,Hyderabad,Electronics,Laptop,1,41469,41469,UPI
+ORD10558,2025-02-14,Imran Saxena,Male,24,Kolkata,Home & Kitchen,Wall Clock,1,859,859,Net Banking
+ORD10559,2025-02-14,Kiran Yadav,Female,32,Bhopal,Beauty,Perfume,1,1049,1049,Cash on Delivery
+ORD10560,2025-02-16,Sahil Verma,Male,46,Lucknow,Beauty,Lipstick,3,229,687,UPI
+ORD10561,2025-02-17,Vikram Pandey,Male,26,Hyderabad,Sports,Cycling Helmet,1,2309,2309,UPI
+ORD10562,2025-02-17,Fatima Shah,Female,44,Ahmedabad,Fashion,Jacket,1,4949,4949,UPI
+ORD10563,2025-02-17,Aisha Nair,Female,32,Kolkata,Electronics,Laptop,1,54169,54169,UPI
+ORD10564,2025-02-17,Tanvi Malhotra,Female,46,Delhi,Beauty,Moisturizer,2,649,1298,UPI
+ORD10565,2025-02-18,Swati Chatterjee,Female,42,Bengaluru,Fashion,Jacket,1,3009,3009,Credit Card
+ORD10566,2025-02-18,Abhishek Das,Male,32,Ahmedabad,Beauty,Moisturizer,1,409,409,Cash on Delivery
+ORD10567,2025-02-19,Kavya Verma,Female,31,Hyderabad,Electronics,Laptop,1,34439,34439,UPI
+ORD10568,2025-02-20,Nidhi Bose,Female,29,Kolkata,Books,Novel,3,359,1077,Cash on Delivery
+ORD10569,2025-02-24,Abhishek Ansari,Male,29,Lucknow,Fashion,Sneakers,1,3419,3419,UPI
+ORD10570,2025-02-26,Pranav Agarwal,Male,39,Lucknow,Fashion,Jacket,1,3419,3419,Debit Card
+ORD10571,2025-02-26,Priya Gill,Female,28,Pune,Sports,Football,1,1109,1109,UPI
+ORD10572,2025-02-27,Deepak Ansari,Male,42,Pune,Sports,Dumbbell Set,1,2119,2119,Credit Card
+ORD10573,2025-02-27,Amit Nair,Male,34,Bengaluru,Fashion,Jacket,3,4769,14307,Net Banking
+ORD10574,2025-02-28,Jaspreet Jain,Male,38,Ahmedabad,Fashion,Jeans,5,1319,6595,UPI
+ORD10575,2025-02-28,Jaspreet Agarwal,Male,36,Pune,Grocery,Atta 10kg,1,419,419,Credit Card
+ORD10576,2025-03-01,Ananya Singh,Female,30,Hyderabad,Beauty,Moisturizer,2,549,1098,Debit Card
+ORD10577,2025-03-01,Tanvi Saxena,Female,35,Patna,Sports,Cycling Helmet,1,1469,1469,Debit Card
+ORD10578,2025-03-01,Aisha Agarwal,Female,31,Pune,Fashion,Sneakers,1,2559,2559,UPI
+ORD10579,2025-03-02,Nisha Nair,Female,37,Mumbai,Home & Kitchen,Dinner Set,1,1879,1879,Debit Card
+ORD10580,2025-03-02,Suresh Kapoor,Male,18,Hyderabad,Fashion,Women's Kurti,1,1869,1869,Credit Card
+ORD10581,2025-03-05,Megha Malhotra,Female,32,Chandigarh,Electronics,Bluetooth Earbuds,2,3119,6238,Credit Card
+ORD10582,2025-03-08,Anjali Iyer,Female,39,Lucknow,Home & Kitchen,Mixer Grinder,1,3519,3519,UPI
+ORD10583,2025-03-08,Nisha Singh,Female,18,Delhi,Home & Kitchen,Dinner Set,2,1949,3898,Credit Card
+ORD10584,2025-03-08,Pooja Jain,Female,42,Mumbai,Electronics,Smartphone,1,30879,30879,Credit Card
+ORD10585,2025-03-09,Aditya Das,Male,20,Ahmedabad,Grocery,Dry Fruits 1kg,3,879,2637,UPI
+ORD10586,2025-03-09,Divya Sharma,Female,36,Chennai,Electronics,Bluetooth Earbuds,1,2379,2379,Credit Card
+ORD10587,2025-03-11,Sneha Shah,Female,25,Pune,Books,Exam Guide,5,479,2395,UPI
+ORD10588,2025-03-11,Siddharth Kumar,Male,30,Ahmedabad,Home & Kitchen,Dinner Set,2,1419,2838,UPI
+ORD10589,2025-03-13,Rahul Shah,Male,30,Delhi,Home & Kitchen,Bedsheet Set,2,2389,4778,Cash on Delivery
+ORD10590,2025-03-13,Komal Joshi,Female,45,Delhi,Electronics,Smartwatch,1,3479,3479,UPI
+ORD10591,2025-03-14,Kavya Yadav,Female,38,Mumbai,Electronics,Laptop,1,73849,73849,Debit Card
+ORD10592,2025-03-15,Aisha Pandey,Female,32,Mumbai,Grocery,Atta 10kg,3,519,1557,UPI
+ORD10593,2025-03-16,Tanvi Reddy,Female,28,Ahmedabad,Home & Kitchen,Bedsheet Set,1,789,789,UPI
+ORD10594,2025-03-16,Meera Kumar,Female,28,Bengaluru,Fashion,Jeans,1,2679,2679,UPI
+ORD10595,2025-03-18,Kavya Iyer,Female,23,Ahmedabad,Beauty,Hair Dryer,1,2229,2229,Credit Card
+ORD10596,2025-03-20,Fatima Khan,Female,32,Ahmedabad,Books,Novel,1,409,409,UPI
+ORD10597,2025-03-20,Imran Saxena,Male,24,Kolkata,Electronics,Smartwatch,1,3279,3279,Credit Card
+ORD10598,2025-03-21,Sakshi Jain,Female,27,Delhi,Books,Exam Guide,2,309,618,UPI
+ORD10599,2025-03-21,Pranav Iyer,Male,47,Hyderabad,Beauty,Moisturizer,1,449,449,Credit Card
+ORD10600,2025-03-21,Nisha Singh,Female,18,Delhi,Sports,Cycling Helmet,1,2009,2009,Debit Card
+ORD10601,2025-03-21,Kunal Rao,Male,36,Hyderabad,Grocery,Atta 10kg,5,399,1995,UPI
+ORD10602,2025-03-21,Anjali Iyer,Female,39,Lucknow,Fashion,Sneakers,1,2709,2709,Credit Card
+ORD10603,2025-03-23,Kavya Joshi,Female,18,Mumbai,Grocery,Cooking Oil 1L,3,209,627,Net Banking
+ORD10604,2025-03-25,Pooja Gill,Female,38,Bengaluru,Electronics,Smartwatch,1,5939,5939,Cash on Delivery
+ORD10605,2025-03-26,Aditya Malhotra,Male,38,Delhi,Home & Kitchen,Wall Clock,1,729,729,UPI
+ORD10606,2025-03-26,Jyoti Reddy,Female,18,Ahmedabad,Home & Kitchen,Wall Clock,1,1469,1469,UPI
+ORD10607,2025-03-28,Pranav Kumar,Male,40,Bhopal,Home & Kitchen,Pressure Cooker,1,1319,1319,Debit Card
+ORD10608,2025-03-28,Gaurav Kapoor,Male,23,Pune,Sports,Football,1,669,669,Debit Card
+ORD10609,2025-03-28,Ankit Saxena,Male,41,Chandigarh,Fashion,Jacket,1,3009,3009,UPI
+ORD10610,2025-03-29,Abhishek Jain,Male,41,Jaipur,Grocery,Tea 500g,1,389,389,Credit Card
+ORD10611,2025-03-30,Pallavi Bose,Female,21,Chennai,Sports,Dumbbell Set,1,2319,2319,Net Banking
+ORD10612,2025-03-30,Sahil Joshi,Male,33,Chandigarh,Electronics,Power Bank,1,749,749,UPI
+ORD10613,2025-03-30,Arif Mehta,Male,35,Chandigarh,Fashion,Men's T-Shirt,2,309,618,Cash on Delivery
+ORD10614,2025-03-30,Karan Patel,Male,48,Kolkata,Sports,Football,2,659,1318,Cash on Delivery
+ORD10615,2025-03-31,Sana Rao,Female,22,Mumbai,Sports,Cricket Bat,1,1529,1529,UPI
+ORD10616,2025-03-31,Deepak Ansari,Male,44,Bengaluru,Fashion,Sneakers,1,1559,1559,Cash on Delivery
+ORD10617,2025-03-31,Gaurav Shah,Male,34,Jaipur,Home & Kitchen,Dinner Set,1,2839,2839,Credit Card
+ORD10618,2025-04-01,Riya Khan,Female,34,Hyderabad,Electronics,Smartwatch,1,5869,5869,Cash on Delivery
+ORD10619,2025-04-01,Megha Malhotra,Female,32,Chandigarh,Electronics,Smartphone,1,24809,24809,Credit Card
+ORD10620,2025-04-02,Sana Sethi,Female,33,Indore,Fashion,Jeans,2,1459,2918,Debit Card
+ORD10621,2025-04-05,Anjali Pandey,Female,47,Lucknow,Electronics,LED Monitor,1,17039,17039,UPI
+ORD10622,2025-04-05,Pooja Kapoor,Female,28,Indore,Electronics,Smartphone,1,17779,17779,UPI
+ORD10623,2025-04-07,Aditya Jain,Male,18,Pune,Fashion,Women's Kurti,1,1359,1359,Cash on Delivery
+ORD10624,2025-04-07,Amit Kapoor,Male,26,Kolkata,Fashion,Jeans,1,1179,1179,UPI
+ORD10625,2025-04-09,Divya Sharma,Female,36,Chennai,Sports,Football,2,759,1518,UPI
+ORD10626,2025-04-09,Arif Gupta,Male,30,Chennai,Fashion,Men's T-Shirt,1,739,739,UPI
+ORD10627,2025-04-11,Jyoti Joshi,Female,22,Hyderabad,Beauty,Lipstick,1,609,609,Credit Card
+ORD10628,2025-04-11,Neha Bose,Female,25,Patna,Electronics,Laptop,1,82089,82089,Net Banking
+ORD10629,2025-04-13,Riya Pandey,Female,18,Kolkata,Fashion,Men's T-Shirt,3,849,2547,UPI
+ORD10630,2025-04-14,Yash Sharma,Male,18,Kolkata,Grocery,Basmati Rice 5kg,1,669,669,UPI
+ORD10631,2025-04-15,Pranav Sethi,Male,39,Hyderabad,Books,Novel,1,589,589,UPI
+ORD10632,2025-04-18,Swati Sethi,Female,37,Mumbai,Sports,Dumbbell Set,1,1659,1659,Debit Card
+ORD10633,2025-04-19,Pranav Kumar,Male,40,Bhopal,Grocery,Tea 500g,2,299,598,UPI
+ORD10634,2025-04-19,Rajesh Gill,Male,39,Bengaluru,Fashion,Women's Kurti,2,579,1158,UPI
+ORD10635,2025-04-19,Siddharth Iyer,Male,34,Delhi,Home & Kitchen,Mixer Grinder,3,2459,7377,Debit Card
+ORD10636,2025-04-20,Neha Mehta,Female,40,Hyderabad,Home & Kitchen,Dinner Set,2,1279,2558,Cash on Delivery
+ORD10637,2025-04-21,Fatima Khan,Female,41,Mumbai,Home & Kitchen,Bedsheet Set,1,1019,1019,UPI
+ORD10638,2025-04-24,Aisha Verma,Female,32,Delhi,Fashion,Jacket,1,4779,4779,UPI
+ORD10639,2025-04-25,Rohan Sharma,Male,30,Mumbai,Fashion,Saree,1,6909,6909,UPI
+ORD10640,2025-04-26,Tanvi Reddy,Female,28,Ahmedabad,Fashion,Jeans,3,2599,7797,UPI
+ORD10641,2025-04-27,Rajesh Malhotra,Male,24,Hyderabad,Grocery,Tea 500g,3,379,1137,Cash on Delivery
+ORD10642,2025-04-28,Jaspreet Agarwal,Male,36,Pune,Sports,Dumbbell Set,1,3069,3069,UPI
+ORD10643,2025-04-28,Nidhi Bose,Female,29,Kolkata,Fashion,Women's Kurti,4,769,3076,UPI
+ORD10644,2025-04-29,Arif Bose,Male,26,Bengaluru,Fashion,Sneakers,3,3039,9117,UPI
+ORD10645,2025-04-30,Riya Pandey,Female,18,Kolkata,Beauty,Lipstick,1,319,319,Cash on Delivery
+ORD10646,2025-05-01,Nikhil Sethi,Male,37,Bengaluru,Grocery,Dry Fruits 1kg,1,969,969,Cash on Delivery
+ORD10647,2025-05-02,Riya Sethi,Female,25,Hyderabad,Home & Kitchen,Wall Clock,1,899,899,UPI
+ORD10648,2025-05-02,Megha Pillai,Female,28,Hyderabad,Home & Kitchen,Mixer Grinder,1,4399,4399,Cash on Delivery
+ORD10649,2025-05-03,Harpreet Kapoor,Male,38,Mumbai,Electronics,Smartwatch,1,10779,10779,Cash on Delivery
+ORD10650,2025-05-04,Varun Pillai,Male,36,Delhi,Home & Kitchen,Water Bottle,2,419,838,Cash on Delivery
+ORD10651,2025-05-04,Imran Joshi,Male,48,Kolkata,Home & Kitchen,Wall Clock,2,1259,2518,Credit Card
+ORD10652,2025-05-05,Manish Mishra,Male,18,Bengaluru,Home & Kitchen,Dinner Set,1,3499,3499,Net Banking
+ORD10653,2025-05-05,Kiran Rao,Female,33,Chennai,Fashion,Saree,1,2629,2629,UPI
+ORD10654,2025-05-07,Anjali Gill,Female,34,Delhi,Fashion,Men's T-Shirt,1,899,899,UPI
+ORD10655,2025-05-07,Vikram Verma,Male,28,Delhi,Sports,Dumbbell Set,1,2219,2219,Net Banking
+ORD10656,2025-05-08,Megha Kumar,Female,22,Bengaluru,Electronics,Laptop,1,75319,75319,Cash on Delivery
+ORD10657,2025-05-09,Sahil Ansari,Male,55,Indore,Electronics,Smartwatch,1,12579,12579,Debit Card
+ORD10658,2025-05-10,Komal Verma,Female,31,Delhi,Electronics,Smartwatch,1,4549,4549,UPI
+ORD10659,2025-05-11,Faizan Singh,Male,42,Bengaluru,Beauty,Moisturizer,1,699,699,UPI
+ORD10660,2025-05-11,Tanvi Reddy,Female,28,Ahmedabad,Sports,Cricket Bat,1,2369,2369,UPI
+ORD10661,2025-05-11,Varun Bose,Male,30,Mumbai,Fashion,Sneakers,1,1699,1699,Credit Card
+ORD10662,2025-05-11,Fatima Khan,Female,41,Mumbai,Home & Kitchen,Wall Clock,1,1349,1349,UPI
+ORD10663,2025-05-12,Rashmi Ansari,Female,35,Ahmedabad,Grocery,Dry Fruits 1kg,1,1279,1279,UPI
+ORD10664,2025-05-12,Arif Mehta,Male,35,Chandigarh,Electronics,Smartphone,1,17159,17159,UPI
+ORD10665,2025-05-13,Priya Patel,Female,47,Chandigarh,Books,Exam Guide,1,629,629,UPI
+ORD10666,2025-05-13,Amit Pillai,Male,18,Jaipur,Grocery,Basmati Rice 5kg,1,669,669,UPI
+ORD10667,2025-05-14,Akash Joshi,Male,18,Jaipur,Beauty,Face Wash,1,399,399,Debit Card
+ORD10668,2025-05-14,Rashmi Patel,Female,42,Chandigarh,Fashion,Saree,2,5729,11458,Cash on Delivery
+ORD10669,2025-05-15,Nisha Yadav,Female,23,Ahmedabad,Home & Kitchen,Water Bottle,2,759,1518,UPI
+ORD10670,2025-05-15,Tanvi Malhotra,Female,46,Delhi,Electronics,Smartwatch,1,8449,8449,UPI
+ORD10671,2025-05-15,Aditya Agarwal,Male,38,Bengaluru,Beauty,Lipstick,2,419,838,Debit Card
+ORD10672,2025-05-15,Gaurav Ansari,Male,38,Mumbai,Electronics,Bluetooth Earbuds,1,1269,1269,Credit Card
+ORD10673,2025-05-17,Isha Sharma,Female,39,Hyderabad,Fashion,Sneakers,2,2899,5798,Debit Card
+ORD10674,2025-05-19,Pranav Kumar,Male,40,Bhopal,Electronics,Smartwatch,1,5029,5029,Cash on Delivery
+ORD10675,2025-05-19,Aditya Rao,Male,26,Jaipur,Fashion,Sneakers,1,1669,1669,Cash on Delivery
+ORD10676,2025-05-19,Rashmi Nair,Female,32,Pune,Grocery,Cooking Oil 1L,2,149,298,UPI
+ORD10677,2025-05-20,Anjali Sethi,Female,52,Mumbai,Fashion,Saree,1,1279,1279,Cash on Delivery
+ORD10678,2025-05-20,Ananya Kumar,Female,32,Bhopal,Electronics,Smartwatch,1,11949,11949,UPI
+ORD10679,2025-05-21,Fatima Chatterjee,Female,29,Kolkata,Fashion,Men's T-Shirt,1,889,889,Cash on Delivery
+ORD10680,2025-05-21,Aditya Rao,Male,26,Jaipur,Beauty,Hair Dryer,1,2099,2099,UPI
+ORD10681,2025-05-22,Manish Reddy,Male,24,Delhi,Grocery,Tea 500g,1,419,419,Credit Card
+ORD10682,2025-05-22,Komal Joshi,Female,45,Delhi,Home & Kitchen,Water Bottle,2,269,538,Cash on Delivery
+ORD10683,2025-05-22,Kiran Jain,Female,39,Bengaluru,Electronics,Smartphone,1,27019,27019,UPI
+ORD10684,2025-05-22,Rajesh Singh,Male,35,Pune,Beauty,Moisturizer,1,899,899,UPI
+ORD10685,2025-05-22,Rajesh Khan,Male,27,Mumbai,Grocery,Cooking Oil 1L,1,199,199,UPI
+ORD10686,2025-05-23,Sakshi Rao,Female,24,Hyderabad,Fashion,Saree,1,2599,2599,UPI
+ORD10687,2025-05-24,Arif Singh,Male,25,Chandigarh,Beauty,Face Wash,2,479,958,UPI
+ORD10688,2025-05-24,Nisha Yadav,Female,23,Ahmedabad,Fashion,Men's T-Shirt,1,419,419,Debit Card
+ORD10689,2025-05-25,Suresh Mehta,Male,29,Delhi,Home & Kitchen,Mixer Grinder,1,4209,4209,Credit Card
+ORD10690,2025-05-25,Deepak Reddy,Male,29,Pune,Sports,Cycling Helmet,1,2309,2309,Credit Card
+ORD10691,2025-05-26,Suresh Kapoor,Male,18,Hyderabad,Beauty,Hair Dryer,1,1389,1389,UPI
+ORD10692,2025-05-26,Pranav Kumar,Male,40,Bhopal,Grocery,Tea 500g,5,239,1195,Credit Card
+ORD10693,2025-05-26,Kiran Rao,Female,33,Chennai,Beauty,Lipstick,2,409,818,Cash on Delivery
+ORD10694,2025-05-29,Fatima Shah,Female,44,Ahmedabad,Electronics,Power Bank,1,1019,1019,Cash on Delivery
+ORD10695,2025-05-31,Nikhil Agarwal,Male,31,Bengaluru,Fashion,Men's T-Shirt,2,529,1058,Debit Card
+ORD10696,2025-05-31,Kavya Yadav,Female,38,Mumbai,Electronics,LED Monitor,1,14979,14979,Cash on Delivery
+ORD10697,2025-05-31,Harsh Pandey,Male,31,Mumbai,Sports,Cycling Helmet,1,1049,1049,Credit Card
+ORD10698,2025-05-31,Anjali Das,Female,39,Bengaluru,Fashion,Saree,2,2109,4218,UPI
+ORD10699,2025-06-01,Payal Bose,Female,45,Bhopal,Electronics,Power Bank,1,2069,2069,Debit Card
+ORD10700,2025-06-03,Priya Yadav,Female,31,Pune,Fashion,Sneakers,1,1439,1439,UPI
+ORD10701,2025-06-03,Neha Mehta,Female,40,Hyderabad,Electronics,Smartwatch,1,2479,2479,UPI
+ORD10702,2025-06-03,Vikram Verma,Male,28,Delhi,Beauty,Hair Dryer,1,1599,1599,Net Banking
+ORD10703,2025-06-04,Deepak Ansari,Male,44,Bengaluru,Books,Exam Guide,1,739,739,UPI
+ORD10704,2025-06-04,Tanvi Malhotra,Female,46,Delhi,Home & Kitchen,Bedsheet Set,1,2309,2309,Credit Card
+ORD10705,2025-06-04,Sneha Shah,Female,25,Pune,Home & Kitchen,Wall Clock,1,1279,1279,Debit Card
+ORD10706,2025-06-05,Kunal Joshi,Male,18,Chandigarh,Home & Kitchen,Water Bottle,2,379,758,UPI
+ORD10707,2025-06-07,Meera Kumar,Female,28,Bengaluru,Fashion,Men's T-Shirt,2,649,1298,Cash on Delivery
+ORD10708,2025-06-07,Ananya Sharma,Female,47,Chennai,Fashion,Saree,1,1769,1769,UPI
+ORD10709,2025-06-08,Rohan Malhotra,Male,19,Patna,Fashion,Jeans,1,2129,2129,UPI
+ORD10710,2025-06-09,Aditya Sethi,Male,25,Kochi,Fashion,Men's T-Shirt,1,669,669,UPI
+ORD10711,2025-06-12,Nikhil Khan,Male,36,Pune,Grocery,Basmati Rice 5kg,3,839,2517,Cash on Delivery
+ORD10712,2025-06-12,Isha Mehta,Female,45,Hyderabad,Sports,Cycling Helmet,1,2169,2169,Debit Card
+ORD10713,2025-06-12,Aditya Reddy,Male,50,Pune,Fashion,Men's T-Shirt,2,619,1238,Credit Card
+ORD10714,2025-06-12,Ananya Kumar,Female,32,Bhopal,Grocery,Dry Fruits 1kg,1,829,829,Cash on Delivery
+ORD10715,2025-06-15,Pallavi Bose,Female,21,Chennai,Grocery,Tea 500g,4,249,996,UPI
+ORD10716,2025-06-15,Varun Kapoor,Male,46,Indore,Electronics,LED Monitor,1,11449,11449,Cash on Delivery
+ORD10717,2025-06-16,Jyoti Reddy,Female,18,Ahmedabad,Home & Kitchen,Bedsheet Set,2,1839,3678,Credit Card
+ORD10718,2025-06-16,Jaspreet Chopra,Male,28,Bengaluru,Home & Kitchen,Wall Clock,3,1169,3507,Debit Card
+ORD10719,2025-06-17,Aditi Singh,Female,28,Jaipur,Home & Kitchen,Pressure Cooker,1,2689,2689,UPI
+ORD10720,2025-06-17,Nikhil Joshi,Male,18,Hyderabad,Fashion,Jacket,1,3389,3389,UPI
+ORD10721,2025-06-19,Divya Das,Female,31,Ahmedabad,Sports,Football,1,669,669,Cash on Delivery
+ORD10722,2025-06-19,Kunal Ansari,Male,31,Delhi,Fashion,Sneakers,1,2389,2389,Credit Card
+ORD10723,2025-06-19,Aditi Singh,Female,28,Jaipur,Home & Kitchen,Pressure Cooker,1,2179,2179,UPI
+ORD10724,2025-06-20,Sakshi Rao,Female,24,Hyderabad,Sports,Yoga Mat,1,1069,1069,Debit Card
+ORD10725,2025-06-20,Kunal Sharma,Male,37,Mumbai,Fashion,Jeans,1,2509,2509,Net Banking
+ORD10726,2025-06-21,Aditya Kumar,Male,32,Delhi,Home & Kitchen,Dinner Set,3,2479,7437,Cash on Delivery
+ORD10727,2025-06-21,Jyoti Reddy,Female,18,Ahmedabad,Electronics,Power Bank,1,2059,2059,UPI
+ORD10728,2025-06-21,Gaurav Shah,Male,25,Bengaluru,Home & Kitchen,Mixer Grinder,1,2949,2949,Cash on Delivery
+ORD10729,2025-06-22,Rajesh Kumar,Male,30,Chennai,Beauty,Moisturizer,5,769,3845,Cash on Delivery
+ORD10730,2025-06-22,Kiran Pillai,Female,34,Delhi,Sports,Dumbbell Set,1,4389,4389,UPI
+ORD10731,2025-06-23,Aditya Kumar,Male,32,Delhi,Beauty,Moisturizer,1,329,329,UPI
+ORD10732,2025-06-23,Rajesh Malhotra,Male,24,Hyderabad,Home & Kitchen,Wall Clock,1,629,629,Credit Card
+ORD10733,2025-06-23,Ananya Sharma,Female,47,Chennai,Home & Kitchen,Mixer Grinder,2,4089,8178,UPI
+ORD10734,2025-06-24,Ankit Chopra,Male,37,Mumbai,Fashion,Jacket,1,4609,4609,UPI
+ORD10735,2025-06-26,Harpreet Patel,Male,32,Bengaluru,Fashion,Jacket,4,2469,9876,UPI
+ORD10736,2025-06-26,Aditya Jain,Male,18,Pune,Home & Kitchen,Bedsheet Set,2,629,1258,Debit Card
+ORD10737,2025-06-26,Fatima Reddy,Female,28,Kochi,Fashion,Sneakers,1,4219,4219,Credit Card
+ORD10738,2025-06-26,Isha Chopra,Female,26,Mumbai,Fashion,Sneakers,1,4049,4049,Debit Card
+ORD10739,2025-06-27,Arif Gupta,Male,34,Bengaluru,Electronics,Smartphone,1,25289,25289,Debit Card
+ORD10740,2025-06-27,Anjali Das,Female,39,Bengaluru,Home & Kitchen,Bedsheet Set,2,2109,4218,UPI
+ORD10741,2025-06-29,Rashmi Patel,Female,42,Chandigarh,Fashion,Jacket,1,2859,2859,Credit Card
+ORD10742,2025-06-30,Rashmi Patel,Female,42,Chandigarh,Fashion,Jeans,2,2269,4538,Credit Card
+ORD10743,2025-07-01,Kunal Joshi,Male,25,Kolkata,Beauty,Lipstick,1,349,349,Cash on Delivery
+ORD10744,2025-07-02,Vikram Agarwal,Male,57,Bengaluru,Beauty,Moisturizer,2,429,858,Debit Card
+ORD10745,2025-07-02,Vikram Reddy,Male,34,Bengaluru,Fashion,Women's Kurti,2,1759,3518,Debit Card
+ORD10746,2025-07-02,Kiran Rao,Female,33,Chennai,Fashion,Men's T-Shirt,1,509,509,Cash on Delivery
+ORD10747,2025-07-04,Nidhi Kapoor,Female,35,Mumbai,Sports,Cycling Helmet,1,2299,2299,UPI
+ORD10748,2025-07-04,Jaspreet Sethi,Male,25,Delhi,Fashion,Saree,1,5499,5499,Credit Card
+ORD10749,2025-07-05,Arif Nair,Male,50,Chandigarh,Grocery,Dry Fruits 1kg,1,1299,1299,Cash on Delivery
+ORD10750,2025-07-06,Rahul Chatterjee,Male,30,Ahmedabad,Grocery,Dry Fruits 1kg,1,1169,1169,UPI
+ORD10751,2025-07-06,Pranav Sethi,Male,39,Hyderabad,Home & Kitchen,Water Bottle,1,709,709,UPI
+ORD10752,2025-07-07,Rajesh Gill,Male,39,Bengaluru,Home & Kitchen,Dinner Set,2,3609,7218,Credit Card
+ORD10753,2025-07-13,Simran Nair,Female,21,Mumbai,Books,Self-Help Book,1,519,519,UPI
+ORD10754,2025-07-13,Aisha Pandey,Female,32,Mumbai,Electronics,Smartwatch,1,2259,2259,Debit Card
+ORD10755,2025-07-15,Jaspreet Jain,Male,38,Ahmedabad,Electronics,Smartwatch,2,7759,15518,UPI
+ORD10756,2025-07-15,Isha Mehta,Female,45,Hyderabad,Fashion,Saree,1,3619,3619,Debit Card
+ORD10757,2025-07-17,Aditya Patel,Male,33,Chandigarh,Home & Kitchen,Dinner Set,1,2539,2539,Net Banking
+ORD10758,2025-07-17,Imran Pandey,Male,42,Delhi,Grocery,Dry Fruits 1kg,1,1549,1549,Cash on Delivery
+ORD10759,2025-07-17,Pooja Das,Female,55,Delhi,Electronics,Bluetooth Earbuds,1,2529,2529,Debit Card
+ORD10760,2025-07-17,Komal Verma,Female,31,Delhi,Electronics,LED Monitor,1,11149,11149,UPI
+ORD10761,2025-07-17,Anjali Yadav,Female,39,Kolkata,Fashion,Sneakers,1,2949,2949,Debit Card
+ORD10762,2025-07-17,Megha Chatterjee,Female,37,Mumbai,Electronics,Smartphone,1,16669,16669,UPI
+ORD10763,2025-07-18,Siddharth Kumar,Male,30,Ahmedabad,Beauty,Face Wash,1,169,169,Debit Card
+ORD10764,2025-07-18,Suresh Ansari,Male,25,Kolkata,Sports,Yoga Mat,3,869,2607,UPI
+ORD10765,2025-07-19,Jaspreet Jain,Male,38,Ahmedabad,Electronics,Bluetooth Earbuds,1,1809,1809,Cash on Delivery
+ORD10766,2025-07-19,Megha Kumar,Female,22,Bengaluru,Fashion,Jacket,2,2769,5538,UPI
+ORD10767,2025-07-20,Nidhi Kapoor,Female,35,Mumbai,Fashion,Saree,2,5289,10578,Net Banking
+ORD10768,2025-07-22,Pranav Agarwal,Male,39,Lucknow,Home & Kitchen,Mixer Grinder,1,2359,2359,Credit Card
+ORD10769,2025-07-22,Ananya Sharma,Female,48,Ahmedabad,Electronics,Smartphone,1,23889,23889,Credit Card
+ORD10770,2025-07-22,Abhishek Das,Male,32,Ahmedabad,Electronics,Smartwatch,1,12569,12569,Debit Card
+ORD10771,2025-07-23,Neha Yadav,Female,24,Bengaluru,Electronics,Laptop,1,35839,35839,Credit Card
+ORD10772,2025-07-25,Anjali Gill,Female,34,Delhi,Fashion,Jeans,2,2499,4998,Debit Card
+ORD10773,2025-07-26,Harpreet Bose,Male,22,Hyderabad,Home & Kitchen,Wall Clock,1,1029,1029,Net Banking
+ORD10774,2025-07-26,Pooja Gupta,Female,54,Lucknow,Sports,Football,2,1079,2158,Net Banking
+ORD10775,2025-07-28,Kunal Pillai,Male,37,Bengaluru,Electronics,Bluetooth Earbuds,2,2779,5558,Credit Card
+ORD10776,2025-07-29,Pooja Das,Female,55,Delhi,Beauty,Lipstick,3,739,2217,Credit Card
+ORD10777,2025-07-31,Varun Yadav,Male,18,Jaipur,Electronics,Smartwatch,1,8359,8359,Debit Card
+ORD10778,2025-08-01,Arif Singh,Male,25,Chandigarh,Fashion,Jacket,1,2269,2269,Debit Card
+ORD10779,2025-08-01,Ritika Agarwal,Female,25,Bengaluru,Beauty,Face Wash,2,219,438,Cash on Delivery
+ORD10780,2025-08-02,Jaspreet Nair,Male,54,Mumbai,Grocery,Cooking Oil 1L,1,169,169,UPI
+ORD10781,2025-08-03,Sandeep Chatterjee,Male,29,Chennai,Books,Self-Help Book,2,419,838,Cash on Delivery
+ORD10782,2025-08-03,Priya Singh,Female,40,Indore,Fashion,Jeans,3,2499,7497,Debit Card
+ORD10783,2025-08-04,Rajesh Gill,Male,39,Bengaluru,Fashion,Jeans,4,2829,11316,UPI
+ORD10784,2025-08-04,Tanvi Joshi,Female,49,Mumbai,Fashion,Jacket,1,2069,2069,UPI
+ORD10785,2025-08-05,Nidhi Reddy,Female,38,Kolkata,Fashion,Jacket,1,2099,2099,Net Banking
+ORD10786,2025-08-05,Karan Agarwal,Male,18,Kolkata,Grocery,Cooking Oil 1L,1,169,169,Debit Card
+ORD10787,2025-08-05,Siddharth Kumar,Male,30,Ahmedabad,Fashion,Men's T-Shirt,1,859,859,Cash on Delivery
+ORD10788,2025-08-07,Suresh Gill,Male,18,Pune,Electronics,Smartphone,1,32999,32999,Credit Card
+ORD10789,2025-08-08,Yash Saxena,Male,40,Pune,Beauty,Face Wash,2,319,638,UPI
+ORD10790,2025-08-08,Aditi Saxena,Female,40,Hyderabad,Electronics,Smartwatch,1,5909,5909,UPI
+ORD10791,2025-08-09,Aditi Reddy,Female,23,Jaipur,Electronics,Smartwatch,1,6919,6919,Credit Card
+ORD10792,2025-08-10,Gaurav Nair,Male,39,Mumbai,Electronics,Smartphone,1,29269,29269,Debit Card
+ORD10793,2025-08-10,Suresh Mehta,Male,29,Delhi,Home & Kitchen,Mixer Grinder,1,2159,2159,Debit Card
+ORD10794,2025-08-10,Siddharth Iyer,Male,34,Delhi,Sports,Dumbbell Set,1,2679,2679,Credit Card
+ORD10795,2025-08-11,Gaurav Shah,Male,25,Bengaluru,Books,Children's Book,2,349,698,Debit Card
+ORD10796,2025-08-12,Divya Kapoor,Female,18,Hyderabad,Home & Kitchen,Dinner Set,2,2499,4998,Debit Card
+ORD10797,2025-08-13,Aisha Nair,Female,32,Kolkata,Beauty,Moisturizer,2,359,718,UPI
+ORD10798,2025-08-14,Isha Sharma,Female,39,Hyderabad,Books,Children's Book,2,209,418,Credit Card
+ORD10799,2025-08-14,Karan Mehta,Male,33,Mumbai,Fashion,Women's Kurti,1,1979,1979,UPI
+ORD10800,2025-08-15,Deepak Reddy,Male,29,Pune,Beauty,Lipstick,1,719,719,Debit Card
+ORD10801,2025-08-17,Rahul Chatterjee,Male,30,Ahmedabad,Sports,Yoga Mat,1,899,899,Credit Card
+ORD10802,2025-08-17,Payal Saxena,Female,37,Pune,Sports,Yoga Mat,3,749,2247,Credit Card
+ORD10803,2025-08-18,Sana Chatterjee,Female,41,Hyderabad,Electronics,Bluetooth Earbuds,1,3179,3179,UPI
+ORD10804,2025-08-18,Divya Sethi,Female,24,Delhi,Sports,Dumbbell Set,2,2749,5498,Net Banking
+ORD10805,2025-08-19,Rajesh Kumar,Male,30,Chennai,Fashion,Jeans,1,999,999,Cash on Delivery
+ORD10806,2025-08-19,Fatima Khan,Female,41,Mumbai,Electronics,Smartwatch,1,3459,3459,Debit Card
+ORD10807,2025-08-20,Nikhil Ansari,Male,18,Hyderabad,Sports,Yoga Mat,2,919,1838,UPI
+ORD10808,2025-08-21,Sahil Joshi,Male,33,Chandigarh,Fashion,Men's T-Shirt,2,849,1698,Credit Card
+ORD10809,2025-08-25,Sandeep Ansari,Male,38,Ahmedabad,Grocery,Atta 10kg,1,529,529,UPI
+ORD10810,2025-08-26,Nidhi Reddy,Female,38,Kolkata,Electronics,Bluetooth Earbuds,1,4559,4559,Cash on Delivery
+ORD10811,2025-08-27,Vikram Gill,Male,55,Jaipur,Sports,Dumbbell Set,1,2129,2129,UPI
+ORD10812,2025-08-27,Nikhil Khan,Male,36,Pune,Electronics,Bluetooth Earbuds,1,2389,2389,UPI
+ORD10813,2025-08-31,Sakshi Jain,Female,27,Delhi,Home & Kitchen,Mixer Grinder,4,5949,23796,UPI
+ORD10814,2025-08-31,Suresh Mehta,Male,29,Delhi,Fashion,Men's T-Shirt,4,759,3036,UPI
+ORD10815,2025-09-01,Arjun Bose,Male,34,Pune,Fashion,Jacket,1,4699,4699,UPI
+ORD10816,2025-09-01,Divya Pandey,Female,29,Chandigarh,Electronics,Smartwatch,1,9979,9979,Debit Card
+ORD10817,2025-09-03,Kiran Pandey,Female,27,Delhi,Sports,Cycling Helmet,1,2249,2249,Cash on Delivery
+ORD10818,2025-09-03,Rohan Iyer,Male,39,Jaipur,Grocery,Cooking Oil 1L,1,199,199,UPI
+ORD10819,2025-09-05,Kunal Nair,Male,39,Mumbai,Home & Kitchen,Dinner Set,3,3429,10287,Credit Card
+ORD10820,2025-09-06,Divya Pandey,Female,29,Chandigarh,Beauty,Perfume,2,2299,4598,Net Banking
+ORD10821,2025-09-06,Karan Mehta,Male,33,Mumbai,Home & Kitchen,Dinner Set,2,2369,4738,Debit Card
+ORD10822,2025-09-06,Vikram Saxena,Male,27,Delhi,Grocery,Tea 500g,5,339,1695,Cash on Delivery
+ORD10823,2025-09-06,Varun Yadav,Male,18,Jaipur,Electronics,Bluetooth Earbuds,1,1679,1679,UPI
+ORD10824,2025-09-07,Komal Verma,Female,31,Delhi,Fashion,Jacket,1,4939,4939,UPI
+ORD10825,2025-09-08,Swati Malhotra,Female,49,Kochi,Beauty,Perfume,1,959,959,UPI
+ORD10826,2025-09-08,Harsh Patel,Male,45,Ahmedabad,Electronics,Bluetooth Earbuds,1,3289,3289,UPI
+ORD10827,2025-09-10,Anjali Sethi,Female,52,Mumbai,Grocery,Atta 10kg,2,439,878,Net Banking
+ORD10828,2025-09-11,Varun Pillai,Male,36,Delhi,Books,Self-Help Book,2,419,838,Credit Card
+ORD10829,2025-09-11,Rashmi Yadav,Female,21,Bengaluru,Grocery,Cooking Oil 1L,1,209,209,Debit Card
+ORD10830,2025-09-11,Megha Singh,Female,38,Chennai,Fashion,Sneakers,4,4189,16756,Debit Card
+ORD10831,2025-09-12,Akash Yadav,Male,33,Indore,Grocery,Basmati Rice 5kg,2,759,1518,UPI
+ORD10832,2025-09-12,Aditya Reddy,Male,50,Pune,Sports,Cycling Helmet,2,1919,3838,Debit Card
+ORD10833,2025-09-14,Divya Saxena,Female,33,Mumbai,Books,Children's Book,2,359,718,Credit Card
+ORD10834,2025-09-16,Rashmi Patel,Female,42,Chandigarh,Books,Exam Guide,1,299,299,Credit Card
+ORD10835,2025-09-16,Megha Pillai,Female,28,Hyderabad,Electronics,Bluetooth Earbuds,1,1539,1539,Debit Card
+ORD10836,2025-09-18,Sana Ansari,Female,18,Bhopal,Grocery,Basmati Rice 5kg,1,769,769,Credit Card
+ORD10837,2025-09-19,Jaspreet Jain,Male,38,Ahmedabad,Electronics,Laptop,1,59289,59289,Credit Card
+ORD10838,2025-09-19,Kunal Das,Male,27,Lucknow,Fashion,Sneakers,1,2869,2869,Debit Card
+ORD10839,2025-09-19,Divya Sethi,Female,24,Delhi,Fashion,Jacket,1,3359,3359,UPI
+ORD10840,2025-09-20,Manish Mishra,Male,18,Bengaluru,Grocery,Atta 10kg,2,539,1078,UPI
+ORD10841,2025-09-20,Manish Reddy,Male,24,Delhi,Home & Kitchen,Dinner Set,1,1459,1459,Net Banking
+ORD10842,2025-09-21,Kavya Yadav,Female,38,Mumbai,Books,Self-Help Book,1,359,359,UPI
+ORD10843,2025-09-23,Vikram Gill,Male,55,Jaipur,Beauty,Face Wash,1,149,149,UPI
+ORD10844,2025-09-23,Pranav Iyer,Male,20,Ahmedabad,Beauty,Moisturizer,1,399,399,Debit Card
+ORD10845,2025-09-23,Sahil Joshi,Male,33,Chandigarh,Books,Children's Book,1,459,459,Cash on Delivery
+ORD10846,2025-09-23,Sana Rao,Female,22,Mumbai,Books,Children's Book,1,429,429,UPI
+ORD10847,2025-09-24,Aditi Saxena,Female,40,Hyderabad,Electronics,Smartwatch,1,5399,5399,UPI
+ORD10848,2025-09-24,Isha Sharma,Female,39,Hyderabad,Electronics,Laptop,2,58289,116578,Cash on Delivery
+ORD10849,2025-09-25,Nikhil Khan,Male,36,Pune,Fashion,Jacket,1,1959,1959,UPI
+ORD10850,2025-09-25,Rashmi Yadav,Female,21,Bengaluru,Fashion,Women's Kurti,2,1469,2938,Credit Card
+ORD10851,2025-09-26,Faizan Singh,Male,42,Bengaluru,Sports,Dumbbell Set,1,3529,3529,UPI
+ORD10852,2025-09-27,Kavya Verma,Female,31,Hyderabad,Fashion,Men's T-Shirt,1,759,759,UPI
+ORD10853,2025-09-28,Simran Gill,Female,33,Chennai,Grocery,Tea 500g,2,289,578,UPI
+ORD10854,2025-09-29,Rahul Iyer,Male,27,Jaipur,Fashion,Men's T-Shirt,4,409,1636,UPI
+ORD10855,2025-09-30,Varun Bose,Male,30,Mumbai,Fashion,Jacket,4,3899,15596,Credit Card
+ORD10856,2025-10-01,Amit Pandey,Male,36,Kochi,Books,Novel,1,439,439,Credit Card
+ORD10857,2025-10-02,Anjali Sethi,Female,52,Mumbai,Beauty,Face Wash,1,319,319,Net Banking
+ORD10858,2025-10-02,Imran Nair,Male,27,Bengaluru,Electronics,LED Monitor,1,9269,9269,UPI
+ORD10859,2025-10-02,Vikram Mehta,Male,48,Pune,Fashion,Sneakers,1,2579,2579,UPI
+ORD10860,2025-10-03,Harsh Gill,Male,24,Kochi,Electronics,Laptop,1,34479,34479,Cash on Delivery
+ORD10861,2025-10-04,Sakshi Jain,Female,27,Delhi,Fashion,Jacket,1,2659,2659,UPI
+ORD10862,2025-10-05,Suresh Ansari,Male,25,Kolkata,Sports,Cycling Helmet,1,2099,2099,Cash on Delivery
+ORD10863,2025-10-05,Riya Das,Female,27,Chennai,Electronics,LED Monitor,1,8109,8109,Debit Card
+ORD10864,2025-10-06,Imran Pandey,Male,42,Delhi,Beauty,Hair Dryer,2,2439,4878,Cash on Delivery
+ORD10865,2025-10-06,Kiran Rao,Female,33,Chennai,Grocery,Dry Fruits 1kg,1,1449,1449,Cash on Delivery
+ORD10866,2025-10-06,Riya Sethi,Female,25,Hyderabad,Home & Kitchen,Bedsheet Set,1,1089,1089,Credit Card
+ORD10867,2025-10-06,Gaurav Malhotra,Male,35,Delhi,Grocery,Dry Fruits 1kg,2,1349,2698,Cash on Delivery
+ORD10868,2025-10-07,Megha Chatterjee,Female,37,Mumbai,Beauty,Hair Dryer,1,2359,2359,Net Banking
+ORD10869,2025-10-07,Divya Das,Female,31,Ahmedabad,Home & Kitchen,Bedsheet Set,1,2089,2089,Credit Card
+ORD10870,2025-10-07,Abhishek Nair,Male,28,Mumbai,Books,Self-Help Book,3,519,1557,Credit Card
+ORD10871,2025-10-08,Megha Pandey,Female,22,Bengaluru,Grocery,Tea 500g,1,209,209,UPI
+ORD10872,2025-10-09,Nikhil Shah,Male,41,Indore,Sports,Cricket Bat,1,4519,4519,UPI
+ORD10873,2025-10-10,Amit Pandey,Male,36,Kochi,Home & Kitchen,Wall Clock,4,709,2836,UPI
+ORD10874,2025-10-10,Siddharth Mehta,Male,38,Bengaluru,Sports,Dumbbell Set,1,3099,3099,Credit Card
+ORD10875,2025-10-10,Kiran Pillai,Female,34,Delhi,Fashion,Women's Kurti,1,1689,1689,UPI
+ORD10876,2025-10-11,Varun Pillai,Male,36,Delhi,Books,Self-Help Book,1,409,409,Net Banking
+ORD10877,2025-10-11,Kiran Yadav,Female,32,Bhopal,Beauty,Moisturizer,3,299,897,Credit Card
+ORD10878,2025-10-11,Sahil Verma,Male,46,Lucknow,Fashion,Jacket,4,3769,15076,UPI
+ORD10879,2025-10-14,Jaspreet Sethi,Male,25,Delhi,Electronics,Laptop,1,68879,68879,UPI
+ORD10880,2025-10-14,Priya Singh,Female,40,Indore,Fashion,Jacket,1,4449,4449,UPI
+ORD10881,2025-10-15,Shreya Chatterjee,Female,30,Jaipur,Beauty,Moisturizer,1,799,799,Cash on Delivery
+ORD10882,2025-10-16,Imran Gupta,Male,18,Delhi,Sports,Cycling Helmet,1,1419,1419,UPI
+ORD10883,2025-10-18,Sahil Verma,Male,46,Lucknow,Electronics,Power Bank,1,709,709,UPI
+ORD10884,2025-10-18,Vikram Pandey,Male,26,Hyderabad,Electronics,Laptop,1,65669,65669,UPI
+ORD10885,2025-10-19,Priya Yadav,Female,31,Pune,Home & Kitchen,Wall Clock,1,969,969,Cash on Delivery
+ORD10886,2025-10-19,Deepak Reddy,Male,29,Pune,Fashion,Jeans,1,2749,2749,UPI
+ORD10887,2025-10-20,Rohan Das,Male,32,Chennai,Fashion,Sneakers,3,3999,11997,UPI
+ORD10888,2025-10-21,Aisha Chatterjee,Female,53,Jaipur,Sports,Football,3,1369,4107,Net Banking
+ORD10889,2025-10-22,Kavya Joshi,Female,18,Mumbai,Beauty,Moisturizer,1,499,499,Net Banking
+ORD10890,2025-10-23,Pranav Agarwal,Male,39,Lucknow,Electronics,Laptop,1,44479,44479,UPI
+ORD10891,2025-10-23,Sandeep Chatterjee,Male,29,Chennai,Sports,Yoga Mat,1,689,689,UPI
+ORD10892,2025-10-23,Abhishek Das,Male,32,Ahmedabad,Electronics,Power Bank,1,899,899,Net Banking
+ORD10893,2025-10-23,Kavya Yadav,Female,41,Hyderabad,Home & Kitchen,Dinner Set,1,1259,1259,UPI
+ORD10894,2025-10-27,Amit Kapoor,Male,26,Kolkata,Electronics,Bluetooth Earbuds,1,1369,1369,UPI
+ORD10895,2025-10-27,Isha Mehta,Female,45,Hyderabad,Fashion,Sneakers,1,3119,3119,UPI
+ORD10896,2025-10-27,Kiran Jain,Female,39,Bengaluru,Home & Kitchen,Wall Clock,1,1339,1339,UPI
+ORD10897,2025-10-28,Abhishek Jain,Male,41,Jaipur,Electronics,Smartphone,1,29779,29779,UPI
+ORD10898,2025-10-31,Kunal Joshi,Male,25,Kolkata,Beauty,Lipstick,1,319,319,UPI
+ORD10899,2025-10-31,Fatima Shah,Female,44,Ahmedabad,Electronics,Smartwatch,1,2389,2389,Cash on Delivery
+ORD10900,2025-10-31,Varun Pillai,Male,36,Delhi,Electronics,Smartwatch,1,10809,10809,Net Banking
+ORD10901,2025-11-02,Meera Das,Female,35,Delhi,Electronics,LED Monitor,1,18289,18289,UPI
+ORD10902,2025-11-02,Kavya Joshi,Female,18,Mumbai,Books,Novel,1,279,279,Credit Card
+ORD10903,2025-11-02,Harsh Pandey,Male,31,Mumbai,Fashion,Women's Kurti,2,1119,2238,UPI
+ORD10904,2025-11-02,Kavya Iyer,Female,23,Ahmedabad,Sports,Yoga Mat,2,1489,2978,Net Banking
+ORD10905,2025-11-03,Arif Singh,Male,25,Chandigarh,Fashion,Saree,3,4979,14937,UPI
+ORD10906,2025-11-03,Kiran Jain,Female,39,Bengaluru,Fashion,Jacket,5,1689,8445,UPI
+ORD10907,2025-11-03,Nidhi Bose,Female,29,Kolkata,Books,Novel,2,239,478,UPI
+ORD10908,2025-11-03,Pooja Gupta,Female,54,Lucknow,Fashion,Men's T-Shirt,1,849,849,Debit Card
+ORD10909,2025-11-03,Nikhil Agarwal,Male,31,Bengaluru,Electronics,Bluetooth Earbuds,1,3889,3889,UPI
+ORD10910,2025-11-04,Sahil Joshi,Male,33,Chandigarh,Home & Kitchen,Wall Clock,1,1049,1049,UPI
+ORD10911,2025-11-04,Imran Joshi,Male,48,Kolkata,Grocery,Cooking Oil 1L,2,149,298,UPI
+ORD10912,2025-11-06,Fatima Khan,Female,32,Ahmedabad,Books,Exam Guide,1,339,339,UPI
+ORD10913,2025-11-08,Pallavi Bose,Female,21,Chennai,Grocery,Cooking Oil 1L,5,179,895,Cash on Delivery
+ORD10914,2025-11-08,Aisha Pandey,Female,32,Mumbai,Fashion,Jacket,1,2589,2589,Debit Card
+ORD10915,2025-11-09,Neha Khan,Female,28,Patna,Home & Kitchen,Bedsheet Set,1,2419,2419,Credit Card
+ORD10916,2025-11-09,Pranav Singh,Male,31,Mumbai,Fashion,Saree,1,5199,5199,Cash on Delivery
+ORD10917,2025-11-09,Kavya Verma,Female,31,Hyderabad,Grocery,Atta 10kg,2,539,1078,UPI
+ORD10918,2025-11-09,Sana Rao,Female,22,Mumbai,Grocery,Basmati Rice 5kg,3,579,1737,UPI
+ORD10919,2025-11-11,Megha Chatterjee,Female,37,Mumbai,Home & Kitchen,Bedsheet Set,1,729,729,Credit Card
+ORD10920,2025-11-11,Kunal Joshi,Male,25,Kolkata,Electronics,LED Monitor,1,11009,11009,UPI
+ORD10921,2025-11-11,Tanvi Joshi,Female,49,Mumbai,Grocery,Dry Fruits 1kg,2,1069,2138,Debit Card
+ORD10922,2025-11-12,Vikram Verma,Male,28,Delhi,Sports,Football,1,949,949,Credit Card
+ORD10923,2025-11-12,Deepak Sethi,Male,44,Pune,Grocery,Dry Fruits 1kg,1,1109,1109,Cash on Delivery
+ORD10924,2025-11-13,Sana Rao,Female,22,Mumbai,Fashion,Jacket,1,4489,4489,UPI
+ORD10925,2025-11-14,Vikram Gill,Male,55,Jaipur,Electronics,Laptop,1,41129,41129,Cash on Delivery
+ORD10926,2025-11-15,Swati Malhotra,Female,49,Kochi,Home & Kitchen,Bedsheet Set,3,1339,4017,Cash on Delivery
+ORD10927,2025-11-17,Harsh Gill,Male,24,Kochi,Electronics,Smartphone,1,25859,25859,Cash on Delivery
+ORD10928,2025-11-17,Nikhil Khan,Male,36,Pune,Electronics,Power Bank,1,1809,1809,UPI
+ORD10929,2025-11-18,Komal Verma,Female,31,Delhi,Home & Kitchen,Pressure Cooker,3,2659,7977,UPI
+ORD10930,2025-11-18,Imran Kapoor,Male,40,Pune,Electronics,Power Bank,1,819,819,Credit Card
+ORD10931,2025-11-18,Kunal Ansari,Male,31,Delhi,Sports,Cricket Bat,4,1709,6836,UPI
+ORD10932,2025-11-20,Arif Sethi,Male,32,Indore,Grocery,Atta 10kg,3,459,1377,Cash on Delivery
+ORD10933,2025-11-20,Varun Bose,Male,30,Mumbai,Home & Kitchen,Wall Clock,1,889,889,Credit Card
+ORD10934,2025-11-20,Sana Rao,Female,22,Mumbai,Sports,Yoga Mat,1,1079,1079,Debit Card
+ORD10935,2025-11-20,Kiran Pandey,Female,27,Delhi,Grocery,Tea 500g,5,309,1545,UPI
+ORD10936,2025-11-22,Kiran Jain,Female,39,Bengaluru,Books,Exam Guide,2,609,1218,Net Banking
+ORD10937,2025-11-22,Swati Malhotra,Female,49,Kochi,Fashion,Saree,2,5869,11738,UPI
+ORD10938,2025-11-23,Suresh Gill,Male,18,Pune,Beauty,Perfume,1,2829,2829,Debit Card
+ORD10939,2025-11-25,Pallavi Gupta,Female,25,Chandigarh,Fashion,Jacket,1,3509,3509,Cash on Delivery
+ORD10940,2025-11-26,Aisha Shah,Female,27,Lucknow,Grocery,Cooking Oil 1L,2,219,438,UPI
+ORD10941,2025-11-27,Meera Kumar,Female,28,Bengaluru,Electronics,Smartphone,1,19239,19239,UPI
+ORD10942,2025-11-27,Jyoti Reddy,Female,18,Ahmedabad,Beauty,Perfume,2,1389,2778,UPI
+ORD10943,2025-11-27,Vikram Kapoor,Male,33,Bhopal,Fashion,Saree,1,6569,6569,UPI
+ORD10944,2025-11-27,Pooja Gupta,Female,54,Lucknow,Home & Kitchen,Bedsheet Set,1,1579,1579,Debit Card
+ORD10945,2025-11-28,Payal Yadav,Female,25,Pune,Home & Kitchen,Dinner Set,3,1349,4047,UPI
+ORD10946,2025-11-29,Kunal Pillai,Male,37,Bengaluru,Home & Kitchen,Pressure Cooker,2,2259,4518,UPI
+ORD10947,2025-11-30,Arif Gupta,Male,34,Bengaluru,Home & Kitchen,Pressure Cooker,1,1389,1389,UPI
+ORD10948,2025-12-01,Abhishek Patel,Male,27,Mumbai,Home & Kitchen,Bedsheet Set,2,2479,4958,Cash on Delivery
+ORD10949,2025-12-02,Pallavi Ansari,Female,35,Mumbai,Grocery,Dry Fruits 1kg,2,1269,2538,UPI
+ORD10950,2025-12-02,Neha Bose,Female,25,Patna,Home & Kitchen,Pressure Cooker,1,2309,2309,Debit Card
+ORD10951,2025-12-02,Amit Kapoor,Male,26,Kolkata,Fashion,Jacket,1,3909,3909,Credit Card
+ORD10952,2025-12-02,Aditya Reddy,Male,50,Pune,Fashion,Men's T-Shirt,1,879,879,Credit Card
+ORD10953,2025-12-04,Riya Das,Female,27,Chennai,Fashion,Sneakers,1,2629,2629,Net Banking
+ORD10954,2025-12-04,Varun Kapoor,Male,46,Indore,Fashion,Sneakers,3,2369,7107,UPI
+ORD10955,2025-12-04,Jaspreet Sethi,Male,25,Delhi,Books,Children's Book,1,409,409,UPI
+ORD10956,2025-12-05,Aisha Pandey,Female,32,Mumbai,Electronics,Bluetooth Earbuds,2,2969,5938,Credit Card
+ORD10957,2025-12-06,Aditya Das,Male,20,Ahmedabad,Home & Kitchen,Bedsheet Set,1,699,699,Cash on Delivery
+ORD10958,2025-12-06,Sahil Joshi,Male,33,Chandigarh,Books,Children's Book,1,439,439,UPI
+ORD10959,2025-12-09,Imran Gupta,Male,18,Delhi,Grocery,Atta 10kg,1,539,539,Cash on Delivery
+ORD10960,2025-12-10,Kunal Joshi,Male,25,Kolkata,Books,Novel,2,359,718,UPI
+ORD10961,2025-12-10,Harpreet Reddy,Male,25,Hyderabad,Sports,Dumbbell Set,1,3849,3849,UPI
+ORD10962,2025-12-10,Rohan Das,Male,32,Chennai,Fashion,Sneakers,1,1619,1619,UPI
+ORD10963,2025-12-11,Ananya Sharma,Female,48,Ahmedabad,Home & Kitchen,Dinner Set,1,2869,2869,UPI
+ORD10964,2025-12-11,Aditya Reddy,Male,50,Pune,Home & Kitchen,Pressure Cooker,2,1699,3398,UPI
+ORD10965,2025-12-11,Kunal Pillai,Male,37,Bengaluru,Grocery,Basmati Rice 5kg,1,789,789,Debit Card
+ORD10966,2025-12-11,Megha Malhotra,Female,32,Chandigarh,Fashion,Saree,1,5889,5889,Debit Card
+ORD10967,2025-12-11,Rahul Agarwal,Male,25,Kolkata,Fashion,Jacket,3,3509,10527,UPI
+ORD10968,2025-12-12,Aisha Kumar,Female,31,Jaipur,Home & Kitchen,Pressure Cooker,4,2919,11676,UPI
+ORD10969,2025-12-12,Rahul Iyer,Male,27,Jaipur,Grocery,Cooking Oil 1L,1,169,169,Cash on Delivery
+ORD10970,2025-12-12,Sneha Shah,Female,25,Pune,Books,Exam Guide,5,339,1695,UPI
+ORD10971,2025-12-13,Siddharth Verma,Male,18,Delhi,Electronics,Smartwatch,1,5559,5559,Credit Card
+ORD10972,2025-12-14,Abhishek Jain,Male,41,Jaipur,Fashion,Men's T-Shirt,3,759,2277,Debit Card
+ORD10973,2025-12-14,Riya Sethi,Female,25,Hyderabad,Electronics,Bluetooth Earbuds,1,4229,4229,Debit Card
+ORD10974,2025-12-14,Aisha Nair,Female,32,Kolkata,Electronics,Laptop,1,46229,46229,Cash on Delivery
+ORD10975,2025-12-15,Komal Verma,Female,31,Delhi,Grocery,Basmati Rice 5kg,1,769,769,Credit Card
+ORD10976,2025-12-15,Pooja Kumar,Female,30,Mumbai,Electronics,Power Bank,1,1519,1519,Cash on Delivery
+ORD10977,2025-12-16,Nikhil Agarwal,Male,31,Bengaluru,Electronics,Bluetooth Earbuds,1,3739,3739,Credit Card
+ORD10978,2025-12-17,Nikhil Sethi,Male,37,Bengaluru,Sports,Yoga Mat,2,1459,2918,UPI
+ORD10979,2025-12-17,Pranav Singh,Male,19,Indore,Grocery,Atta 10kg,2,399,798,Cash on Delivery
+ORD10980,2025-12-17,Gaurav Mishra,Male,36,Mumbai,Fashion,Sneakers,1,3059,3059,UPI
+ORD10981,2025-12-18,Gaurav Kapoor,Male,23,Pune,Sports,Cricket Bat,1,2659,2659,Credit Card
+ORD10982,2025-12-18,Priya Yadav,Female,31,Pune,Fashion,Saree,2,1639,3278,UPI
+ORD10983,2025-12-19,Priya Patel,Female,29,Bhopal,Beauty,Face Wash,1,189,189,Debit Card
+ORD10984,2025-12-19,Varun Pillai,Male,36,Delhi,Fashion,Jacket,1,3709,3709,Debit Card
+ORD10985,2025-12-21,Pooja Mehta,Female,29,Mumbai,Books,Self-Help Book,1,409,409,Net Banking
+ORD10986,2025-12-21,Ananya Kumar,Female,32,Bhopal,Electronics,Power Bank,1,899,899,Cash on Delivery
+ORD10987,2025-12-21,Vikram Chatterjee,Male,28,Jaipur,Beauty,Moisturizer,1,369,369,Credit Card
+ORD10988,2025-12-21,Harpreet Reddy,Male,25,Hyderabad,Grocery,Atta 10kg,3,459,1377,Cash on Delivery
+ORD10989,2025-12-21,Imran Gupta,Male,18,Delhi,Fashion,Jeans,2,2179,4358,UPI
+ORD10990,2025-12-21,Sahil Joshi,Male,33,Chandigarh,Sports,Cycling Helmet,3,1029,3087,Debit Card
+ORD10991,2025-12-24,Isha Kapoor,Female,45,Chennai,Home & Kitchen,Bedsheet Set,1,1089,1089,Credit Card
+ORD10992,2025-12-26,Rohan Iyer,Male,39,Jaipur,Sports,Football,2,1029,2058,Cash on Delivery
+ORD10993,2025-12-28,Pranav Das,Male,22,Bhopal,Electronics,Bluetooth Earbuds,1,3589,3589,UPI
+ORD10994,2025-12-29,Nikhil Sethi,Male,37,Bengaluru,Grocery,Basmati Rice 5kg,1,719,719,Credit Card
+ORD10995,2025-12-29,Fatima Khan,Female,41,Mumbai,Electronics,LED Monitor,1,13399,13399,Debit Card
+ORD10996,2025-12-30,Kunal Ansari,Male,31,Delhi,Grocery,Basmati Rice 5kg,2,559,1118,Cash on Delivery
+ORD10997,2025-12-30,Sakshi Pandey,Female,35,Chennai,Fashion,Saree,1,4459,4459,UPI
+ORD10998,2025-12-31,Sana Chatterjee,Female,41,Hyderabad,Sports,Cycling Helmet,2,1629,3258,Credit Card
+ORD10999,2025-12-31,Imran Saxena,Male,24,Kolkata,Electronics,Smartwatch,1,8239,8239,Cash on Delivery
+ORD11000,2025-12-31,Aditya Malhotra,Male,38,Delhi,Beauty,Perfume,1,2759,2759,Credit Card

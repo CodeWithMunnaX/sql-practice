@@ -1,0 +1,101 @@
+book_id,title,author,genre,publisher,publish_year,price,pages,language,stock
+201,The Burning River,Yash Kapoor,Self-Help,Westland,1992,399,195,Hindi,2
+202,The Crimson Journey,Yash Reddy,Mystery,Pan Macmillan,2007,1299,186,Hindi,8
+203,The Forgotten Garden,Yash Kapoor,Biography,Rupa,1996,1449,490,Hindi,3
+204,The Broken River,Nikhil Bose,History,Rupa,2000,1449,625,English,5
+205,The Endless Kingdom,Sneha Bose,Self-Help,Rupa,2024,299,187,English,6
+206,The Hidden Algorithm,Tanvi Kulkarni,Romance,Oxford,2011,1499,708,English,2
+207,The Broken Shadow,Divya Verma,Mystery,Bloomsbury,2014,1249,649,English,2
+208,The Midnight Empire,Pranav Verma,Science,Oxford,2017,249,247,Hindi,2
+209,The Silent River,Sneha Chopra,Science,Rupa,2005,1299,350,English,8
+210,The Forgotten Algorithm,Yash Kapoor,Mystery,Scholastic,1997,1199,684,English,2
+211,The Lost Journey,Sneha Chopra,Business,HarperCollins,2017,1199,292,Marathi,9
+212,The Endless Promise,Aditya Kapoor,Science,Pan Macmillan,2021,249,149,English,0
+213,The Endless Shadow,Aditi Verma,History,Oxford,2024,1199,151,Hindi,10
+214,The Midnight Garden,Deepak Agarwal,Biography,Scholastic,2015,549,821,Hindi,4
+215,The Golden Garden,Vivaan Singh,Mystery,Penguin,1995,899,545,Hindi,7
+216,The Hidden River,Sneha Kulkarni,Technology,Rupa,2005,1299,446,English,6
+217,The Crimson Shadow,Priya Bose,Technology,HarperCollins,2005,549,597,English,4
+218,The Lost Promise,Yash Reddy,History,Rupa,1991,249,417,Hindi,9
+219,The Silent Algorithm,Sneha Chopra,History,Rupa,2005,1099,440,English,12
+220,The Burning Garden,Pallavi Das,Self-Help,Bloomsbury,2016,649,629,English,1
+221,The Crimson Monsoon,Amit Kulkarni,Romance,Bloomsbury,2000,499,717,English,0
+222,The Crimson Empire,Rahul Gupta,Biography,Bloomsbury,2023,1499,789,Hindi,4
+223,The Endless River,Deepak Agarwal,Fiction,HarperCollins,2012,399,390,English,12
+224,The Forgotten River,Amit Kulkarni,Technology,Penguin,2010,249,703,Hindi,3
+225,The Silent Code,Sneha Bose,Romance,Scholastic,1989,799,636,Hindi,12
+226,The Lost Monsoon,Amit Gupta,Business,HarperCollins,1993,349,523,English,12
+227,The Crimson River,Kritika Patel,Romance,Pan Macmillan,1994,499,736,Hindi,6
+228,The Silent Journey,Vikram Nair,Fiction,Penguin,1987,399,850,English,12
+229,The Forgotten Empire,Tanvi Kulkarni,Romance,Bloomsbury,1994,1149,647,English,5
+230,The Lost Shadow,Divya Verma,Science,Oxford,2024,1349,426,Marathi,5
+231,The Broken Code,Vikram Nair,Romance,Bloomsbury,2021,649,606,English,5
+232,The Forgotten Journey,Kritika Patel,Mystery,Oxford,2022,649,824,English,9
+233,The Burning Monsoon,Tanvi Kulkarni,Biography,Westland,1988,1099,611,English,8
+234,The Burning Kingdom,Rohan Pandey,Science,Westland,1987,1099,837,English,3
+235,The Lost Empire,Manish Mishra,Self-Help,Pan Macmillan,2011,399,542,English,6
+236,The Burning Algorithm,Vikram Nair,Business,Bloomsbury,1988,1299,261,Hindi,3
+237,The Hidden Garden,Divya Verma,Self-Help,Oxford,2005,449,590,Hindi,5
+238,The Forgotten Kingdom,Deepak Agarwal,Technology,Scholastic,2024,949,316,English,4
+239,The Endless Garden,Sneha Chopra,History,Scholastic,2003,1299,332,Hindi,5
+240,The Forgotten Promise,Tanvi Kulkarni,Technology,Scholastic,2003,349,707,Hindi,6
+241,The Lost Algorithm,Amit Kulkarni,Technology,Rupa,2003,249,414,English,5
+242,The Golden Kingdom,Yash Reddy,Biography,Bloomsbury,1998,499,671,English,8
+243,The Crimson Promise,Amit Gupta,Science,HarperCollins,2024,1349,720,English,3
+244,The Crimson Algorithm,Rahul Gupta,Romance,Westland,1999,249,222,Hindi,5
+245,The Golden Code,Tanvi Kulkarni,Mystery,Rupa,1985,1049,281,Hindi,10
+246,The Broken Empire,Tanvi Kulkarni,Self-Help,Westland,2003,699,412,English,12
+247,The Midnight Algorithm,Rajesh Bose,Business,Westland,2019,1349,158,English,6
+248,The Midnight Code,Pranav Verma,Fiction,Oxford,2016,449,416,English,0
+249,The Lost Kingdom,Sneha Chopra,Business,HarperCollins,2006,649,585,Hindi,8
+250,The Hidden Kingdom,Kavya Mishra,Science,Bloomsbury,2002,499,235,English,2
+251,The Crimson Code,Vivaan Singh,Biography,Rupa,1985,1349,465,English,9
+252,The Lost Garden,Rohan Chopra,Science,Oxford,2012,999,455,English,6
+253,The Golden Monsoon,Kritika Das,Science,Rupa,2015,699,374,English,4
+254,The Endless Algorithm,Rohan Pandey,History,Bloomsbury,2002,699,429,Marathi,11
+255,The Forgotten Shadow,Riya Agarwal,Biography,Pan Macmillan,2000,249,803,English,7
+256,The Lost River,Sneha Chopra,Science,Oxford,2017,1299,438,English,10
+257,The Midnight River,Yash Kapoor,Technology,Westland,1999,399,609,English,7
+258,The Midnight Shadow,Sneha Bose,Fantasy,Bloomsbury,2019,1449,800,English,12
+259,The Silent Empire,Siddharth Agarwal,Business,HarperCollins,2018,899,660,English,1
+260,The Burning Shadow,Nikhil Bose,Fiction,Westland,2021,1049,273,English,5
+261,The Midnight Promise,Kunal Bose,Self-Help,HarperCollins,1998,1299,717,Hindi,1
+262,The Endless Empire,Vikram Nair,Self-Help,Penguin,2014,399,645,Hindi,7
+263,The Hidden Code,Rahul Gupta,Romance,Bloomsbury,2004,1349,142,Hindi,4
+264,The Broken Monsoon,Riya Agarwal,History,HarperCollins,1987,849,472,English,8
+265,The Crimson Kingdom,Rahul Gupta,Mystery,Bloomsbury,1987,649,538,English,12
+266,The Broken Promise,Priya Bose,Fantasy,Pan Macmillan,2009,899,506,Hindi,1
+267,The Golden River,Deepak Agarwal,Science,Pan Macmillan,1992,449,670,Hindi,8
+268,The Hidden Monsoon,Priya Bose,History,Penguin,1986,649,594,Hindi,6
+269,The Golden Journey,Deepak Agarwal,Fantasy,Westland,2000,899,474,English,4
+270,The Golden Promise,Rohan Chopra,Mystery,Penguin,2011,1149,136,English,3
+271,The Hidden Shadow,Ananya Joshi,Mystery,Penguin,2013,1149,808,English,3
+272,The Hidden Journey,Ishaan Mehta,Fantasy,Bloomsbury,1999,1049,342,English,2
+273,The Lost Code,Vikram Nair,Biography,Westland,2021,699,711,Marathi,12
+274,The Silent Kingdom,Divya Verma,History,Scholastic,1994,1249,653,English,6
+275,The Golden Empire,Sneha Chopra,Biography,Penguin,2020,1099,299,Hindi,8
+276,The Broken Garden,Kavya Mishra,Fiction,Pan Macmillan,2009,1449,657,English,11
+277,The Silent Promise,Sneha Chopra,Fantasy,Rupa,2004,799,308,Hindi,7
+278,The Silent Monsoon,Siddharth Agarwal,History,Scholastic,1994,1449,594,English,8
+279,The Midnight Monsoon,Sneha Chopra,Fantasy,Rupa,2009,549,381,English,5
+280,The Endless Monsoon,Rajesh Bose,Self-Help,Pan Macmillan,1990,1049,315,English,4
+281,The Burning Empire,Rohan Pandey,Business,Penguin,1989,499,721,Hindi,3
+282,The Golden Shadow,Tanvi Kulkarni,History,Pan Macmillan,2004,199,336,English,11
+283,The Silent Garden,Nikhil Bose,Self-Help,Westland,2023,1299,329,Hindi,3
+284,The Burning Promise,Divya Verma,Biography,Oxford,2014,1049,784,English,4
+285,The Crimson Garden,Aditi Verma,Technology,Bloomsbury,2014,349,600,English,3
+286,The Hidden Empire,Sneha Bose,Technology,Oxford,1987,1099,346,English,0
+287,The Burning Journey,Aditi Verma,Romance,Oxford,2003,399,320,English,3
+288,The Hidden Promise,Rohan Pandey,Business,Westland,2016,1049,790,English,4
+289,The Silent Shadow,Kavya Mishra,Self-Help,Bloomsbury,1995,1349,480,English,2
+290,The Golden Algorithm,Deepak Agarwal,Self-Help,Rupa,2019,1199,180,Hindi,0
+291,The Forgotten Code,Ananya Joshi,Fiction,Penguin,2011,399,765,English,1
+292,The Endless Code,Aditya Kapoor,Fiction,Westland,2017,899,502,English,9
+293,The Broken Journey,Tanvi Kulkarni,Self-Help,Penguin,1985,1049,684,Hindi,0
+294,The Midnight Journey,Manish Mishra,Romance,Scholastic,2019,649,137,Hindi,11
+295,The Burning Code,Ananya Nair,Science,HarperCollins,1991,999,272,English,3
+296,The Broken Algorithm,Kunal Bose,Biography,Pan Macmillan,2002,1449,526,English,5
+297,The Midnight Kingdom,Amit Kulkarni,Self-Help,Westland,1999,649,820,English,10
+298,The Endless Journey,Ishaan Mehta,Mystery,Oxford,2009,799,685,Hindi,0
+299,The Broken Kingdom,Riya Agarwal,Science,HarperCollins,2016,849,780,English,9
+300,The Forgotten Monsoon,Kritika Das,Romance,Penguin,1999,499,828,Marathi,7

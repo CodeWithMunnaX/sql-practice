@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,category,product_name,quantity,unit_price,total_amount,payment_method,order_status
+5001,212,2024-01-06,Home & Kitchen,Pressure Cooker,1,1899,1899,Debit Card,Delivered
+5002,247,2024-01-10,Fashion,Jeans,4,1499,5996,Debit Card,Delivered
+5003,122,2024-01-17,Electronics,Smartwatch,2,4999,9998,Cash on Delivery,Delivered
+5004,135,2024-01-17,Electronics,Smartwatch,2,4999,9998,Credit Card,Delivered
+5005,246,2024-01-18,Sports,Football,1,899,899,Debit Card,Delivered
+5006,260,2024-01-18,Home & Kitchen,Bedsheet,5,799,3995,Cash on Delivery,Shipped
+5007,158,2024-02-11,Grocery,Tea 500g,1,299,299,UPI,Delivered
+5008,227,2024-02-13,Fashion,Sneakers,1,2499,2499,Debit Card,Delivered
+5009,195,2024-02-13,Grocery,Basmati Rice 5kg,4,649,2596,Credit Card,Delivered
+5010,172,2024-02-18,Electronics,Laptop,1,54999,54999,Debit Card,Delivered
+5011,110,2024-02-19,Books,Notebook Pack,2,249,498,Credit Card,Shipped
+5012,201,2024-02-22,Sports,Yoga Mat,3,699,2097,Debit Card,Delivered
+5013,130,2024-02-22,Grocery,Tea 500g,3,299,897,Debit Card,Delivered
+5014,194,2024-02-23,Grocery,Tea 500g,1,299,299,Credit Card,Delivered
+5015,159,2024-02-23,Grocery,Basmati Rice 5kg,4,649,2596,Net Banking,Cancelled
+5016,153,2024-02-26,Fashion,Sneakers,2,2499,4998,UPI,Delivered
+5017,246,2024-02-26,Electronics,Power Bank,1,1299,1299,Net Banking,Delivered
+5018,167,2024-02-27,Grocery,Basmati Rice 5kg,3,649,1947,Credit Card,Delivered
+5019,186,2024-02-29,Sports,Cricket Bat,3,2199,6597,Cash on Delivery,Delivered
+5020,219,2024-03-02,Home & Kitchen,Pressure Cooker,1,1899,1899,Credit Card,Delivered
+5021,243,2024-03-05,Sports,Cricket Bat,3,2199,6597,Net Banking,Delivered
+5022,162,2024-03-05,Fashion,Jeans,3,1499,4497,Cash on Delivery,Delivered
+5023,231,2024-03-09,Sports,Football,1,899,899,Debit Card,Delivered
+5024,120,2024-03-17,Grocery,Basmati Rice 5kg,3,649,1947,UPI,Shipped
+5025,158,2024-03-18,Fashion,Women's Kurti,3,899,2697,Credit Card,Returned
+5026,117,2024-03-18,Electronics,Smartwatch,1,4999,4999,Debit Card,Delivered
+5027,199,2024-03-21,Fashion,Jeans,1,1499,1499,Debit Card,Cancelled
+5028,153,2024-03-22,Grocery,Dry Fruits 1kg,1,1099,1099,Debit Card,Delivered
+5029,165,2024-03-23,Home & Kitchen,Bedsheet,3,799,2397,UPI,Delivered
+5030,248,2024-03-25,Home & Kitchen,Bedsheet,1,799,799,Net Banking,Delivered
+5031,242,2024-03-25,Electronics,Smartphone,2,18999,37998,Net Banking,Shipped
+5032,104,2024-03-27,Home & Kitchen,Pressure Cooker,1,1899,1899,Cash on Delivery,Cancelled
+5033,244,2024-03-28,Electronics,Earbuds,1,1999,1999,UPI,Shipped
+5034,240,2024-03-29,Grocery,Basmati Rice 5kg,2,649,1298,UPI,Delivered
+5035,182,2024-04-01,Home & Kitchen,Pressure Cooker,2,1899,3798,Cash on Delivery,Delivered
+5036,242,2024-04-05,Electronics,Smartphone,3,18999,56997,Net Banking,Delivered
+5037,179,2024-04-05,Fashion,Jeans,2,1499,2998,Cash on Delivery,Delivered
+5038,217,2024-04-10,Home & Kitchen,Pressure Cooker,1,1899,1899,Debit Card,Delivered
+5039,185,2024-04-11,Books,Notebook Pack,2,249,498,UPI,Cancelled
+5040,247,2024-04-19,Grocery,Tea 500g,1,299,299,Credit Card,Delivered
+5041,209,2024-04-22,Fashion,Women's Kurti,1,899,899,Credit Card,Delivered
+5042,250,2024-04-25,Books,SQL Guide Book,1,699,699,Debit Card,Delivered
+5043,154,2024-04-26,Home & Kitchen,Pressure Cooker,1,1899,1899,Debit Card,Delivered
+5044,162,2024-05-20,Home & Kitchen,Pressure Cooker,1,1899,1899,Credit Card,Delivered
+5045,255,2024-05-20,Home & Kitchen,Bedsheet,1,799,799,UPI,Returned
+5046,212,2024-05-23,Sports,Football,1,899,899,UPI,Delivered
+5047,151,2024-05-23,Grocery,Basmati Rice 5kg,1,649,649,Credit Card,Delivered
+5048,145,2024-05-24,Home & Kitchen,Mixer Grinder,2,3299,6598,Debit Card,Delivered
+5049,189,2024-05-26,Home & Kitchen,Pressure Cooker,1,1899,1899,Cash on Delivery,Delivered
+5050,171,2024-06-06,Sports,Cricket Bat,1,2199,2199,Net Banking,Shipped
+5051,118,2024-06-12,Electronics,Smartwatch,1,4999,4999,UPI,Delivered
+5052,168,2024-06-12,Electronics,Smartphone,1,18999,18999,Net Banking,Delivered
+5053,106,2024-06-17,Home & Kitchen,Bedsheet,1,799,799,Credit Card,Delivered
+5054,166,2024-06-23,Sports,Cricket Bat,2,2199,4398,Cash on Delivery,Delivered
+5055,111,2024-06-29,Fashion,Sneakers,4,2499,9996,UPI,Returned
+5056,123,2024-07-03,Books,Novel,1,399,399,Credit Card,Shipped
+5057,140,2024-07-04,Grocery,Dry Fruits 1kg,1,1099,1099,Cash on Delivery,Shipped
+5058,222,2024-07-07,Books,Novel,1,399,399,Cash on Delivery,Delivered
+5059,147,2024-07-13,Home & Kitchen,Bedsheet,2,799,1598,Credit Card,Delivered
+5060,196,2024-07-13,Home & Kitchen,Mixer Grinder,1,3299,3299,UPI,Shipped
+5061,117,2024-07-18,Home & Kitchen,Mixer Grinder,1,3299,3299,Net Banking,Returned
+5062,228,2024-07-21,Books,Novel,2,399,798,Net Banking,Delivered
+5063,141,2024-07-24,Home & Kitchen,Pressure Cooker,2,1899,3798,Net Banking,Delivered
+5064,164,2024-07-28,Books,Notebook Pack,1,249,249,Debit Card,Cancelled
+5065,200,2024-07-30,Home & Kitchen,Pressure Cooker,1,1899,1899,Cash on Delivery,Delivered
+5066,107,2024-08-02,Sports,Yoga Mat,4,699,2796,Net Banking,Shipped
+5067,251,2024-08-03,Sports,Football,1,899,899,Cash on Delivery,Delivered
+5068,144,2024-08-15,Books,Novel,4,399,1596,Net Banking,Cancelled
+5069,250,2024-08-17,Fashion,Women's Kurti,2,899,1798,UPI,Delivered
+5070,195,2024-08-25,Grocery,Dry Fruits 1kg,5,1099,5495,Net Banking,Delivered
+5071,222,2024-08-29,Electronics,Smartwatch,2,4999,9998,Net Banking,Returned
+5072,231,2024-08-31,Electronics,Smartwatch,1,4999,4999,Net Banking,Delivered
+5073,182,2024-09-01,Fashion,Jeans,1,1499,1499,Net Banking,Delivered
+5074,184,2024-09-03,Books,Novel,2,399,798,Cash on Delivery,Delivered
+5075,152,2024-09-03,Electronics,Smartphone,2,18999,37998,Credit Card,Delivered
+5076,206,2024-09-04,Grocery,Tea 500g,1,299,299,Net Banking,Delivered
+5077,204,2024-09-06,Electronics,Smartwatch,3,4999,14997,Net Banking,Delivered
+5078,175,2024-09-09,Grocery,Dry Fruits 1kg,1,1099,1099,Debit Card,Delivered
+5079,241,2024-09-10,Grocery,Tea 500g,3,299,897,Cash on Delivery,Cancelled
+5080,131,2024-09-11,Fashion,Women's Kurti,1,899,899,UPI,Delivered
+5081,131,2024-09-18,Home & Kitchen,Pressure Cooker,1,1899,1899,Debit Card,Returned
+5082,107,2024-09-30,Grocery,Tea 500g,3,299,897,UPI,Delivered
+5083,150,2024-10-02,Sports,Yoga Mat,1,699,699,Debit Card,Delivered
+5084,243,2024-10-04,Fashion,Women's Kurti,3,899,2697,Cash on Delivery,Delivered
+5085,166,2024-10-09,Fashion,Sneakers,1,2499,2499,Credit Card,Cancelled
+5086,242,2024-10-14,Home & Kitchen,Mixer Grinder,4,3299,13196,Cash on Delivery,Delivered
+5087,133,2024-10-18,Sports,Football,3,899,2697,UPI,Shipped
+5088,189,2024-10-29,Sports,Cricket Bat,2,2199,4398,Debit Card,Delivered
+5089,148,2024-11-02,Books,Notebook Pack,2,249,498,Cash on Delivery,Delivered
+5090,248,2024-11-05,Sports,Football,1,899,899,Net Banking,Delivered
+5091,118,2024-11-11,Grocery,Dry Fruits 1kg,2,1099,2198,UPI,Delivered
+5092,209,2024-11-11,Books,Notebook Pack,2,249,498,Debit Card,Delivered
+5093,230,2024-11-16,Electronics,Smartwatch,4,4999,19996,Cash on Delivery,Delivered
+5094,160,2024-11-22,Home & Kitchen,Bedsheet,1,799,799,Debit Card,Returned
+5095,236,2024-11-23,Fashion,Sneakers,5,2499,12495,Debit Card,Shipped
+5096,240,2024-11-23,Electronics,Smartwatch,3,4999,14997,Credit Card,Delivered
+5097,191,2024-11-24,Grocery,Tea 500g,3,299,897,Credit Card,Delivered
+5098,113,2024-11-25,Books,Notebook Pack,2,249,498,Cash on Delivery,Delivered
+5099,222,2024-11-28,Home & Kitchen,Mixer Grinder,1,3299,3299,Credit Card,Shipped
+5100,196,2024-12-03,Grocery,Dry Fruits 1kg,3,1099,3297,Net Banking,Delivered
+5101,141,2024-12-04,Books,Novel,1,399,399,UPI,Cancelled
+5102,215,2024-12-07,Home & Kitchen,Bedsheet,1,799,799,Credit Card,Delivered
+5103,173,2024-12-11,Sports,Cricket Bat,1,2199,2199,Debit Card,Delivered
+5104,196,2024-12-12,Fashion,Men's T-Shirt,1,599,599,Credit Card,Shipped
+5105,137,2024-12-13,Fashion,Men's T-Shirt,1,599,599,Cash on Delivery,Cancelled
+5106,120,2024-12-17,Books,Novel,3,399,1197,UPI,Delivered
+5107,124,2024-12-18,Books,SQL Guide Book,2,699,1398,Credit Card,Cancelled
+5108,163,2024-12-18,Grocery,Basmati Rice 5kg,1,649,649,UPI,Delivered
+5109,227,2024-12-18,Grocery,Dry Fruits 1kg,1,1099,1099,Net Banking,Shipped
+5110,166,2024-12-28,Grocery,Tea 500g,3,299,897,UPI,Delivered
+5111,224,2025-01-03,Grocery,Basmati Rice 5kg,3,649,1947,Cash on Delivery,Delivered
+5112,130,2025-01-05,Sports,Football,1,899,899,UPI,Delivered
+5113,251,2025-01-09,Books,Novel,4,399,1596,Net Banking,Delivered
+5114,110,2025-01-14,Grocery,Basmati Rice 5kg,2,649,1298,Debit Card,Delivered
+5115,137,2025-01-17,Fashion,Jeans,1,1499,1499,Credit Card,Delivered
+5116,213,2025-01-20,Fashion,Men's T-Shirt,1,599,599,Debit Card,Shipped
+5117,224,2025-01-21,Home & Kitchen,Pressure Cooker,1,1899,1899,Net Banking,Delivered
+5118,208,2025-01-24,Books,Novel,2,399,798,UPI,Shipped
+5119,143,2025-01-28,Electronics,Smartphone,1,18999,18999,Cash on Delivery,Delivered
+5120,122,2025-01-30,Home & Kitchen,Mixer Grinder,2,3299,6598,Debit Card,Delivered
+5121,230,2025-01-30,Books,Notebook Pack,1,249,249,Debit Card,Returned
+5122,156,2025-01-30,Home & Kitchen,Bedsheet,1,799,799,Cash on Delivery,Delivered
+5123,106,2025-01-31,Books,SQL Guide Book,1,699,699,Debit Card,Delivered
+5124,248,2025-02-06,Home & Kitchen,Pressure Cooker,1,1899,1899,Cash on Delivery,Delivered
+5125,170,2025-02-10,Sports,Football,2,899,1798,Credit Card,Delivered
+5126,253,2025-02-11,Electronics,Laptop,2,54999,109998,UPI,Delivered
+5127,201,2025-02-19,Home & Kitchen,Pressure Cooker,1,1899,1899,Net Banking,Delivered
+5128,163,2025-02-27,Books,SQL Guide Book,4,699,2796,Debit Card,Shipped
+5129,109,2025-03-05,Electronics,Power Bank,1,1299,1299,Net Banking,Delivered
+5130,151,2025-03-13,Grocery,Tea 500g,4,299,1196,Cash on Delivery,Delivered
+5131,136,2025-03-15,Home & Kitchen,Bedsheet,1,799,799,Cash on Delivery,Returned
+5132,190,2025-03-28,Fashion,Sneakers,1,2499,2499,Debit Card,Shipped
+5133,247,2025-03-30,Books,Notebook Pack,1,249,249,Net Banking,Delivered
+5134,133,2025-04-04,Fashion,Men's T-Shirt,1,599,599,Cash on Delivery,Delivered
+5135,215,2025-04-06,Home & Kitchen,Mixer Grinder,2,3299,6598,Net Banking,Delivered
+5136,201,2025-04-07,Grocery,Basmati Rice 5kg,1,649,649,UPI,Delivered
+5137,165,2025-04-19,Electronics,Smartphone,5,18999,94995,Cash on Delivery,Delivered
+5138,235,2025-04-25,Fashion,Women's Kurti,1,899,899,Credit Card,Delivered
+5139,182,2025-04-25,Books,Notebook Pack,3,249,747,Net Banking,Delivered
+5140,147,2025-05-02,Books,Notebook Pack,4,249,996,Net Banking,Delivered
+5141,149,2025-05-10,Books,SQL Guide Book,1,699,699,UPI,Delivered
+5142,126,2025-05-12,Home & Kitchen,Pressure Cooker,2,1899,3798,Cash on Delivery,Delivered
+5143,142,2025-05-13,Grocery,Dry Fruits 1kg,1,1099,1099,Cash on Delivery,Delivered
+5144,186,2025-05-15,Home & Kitchen,Bedsheet,1,799,799,Debit Card,Delivered
+5145,201,2025-05-15,Fashion,Women's Kurti,2,899,1798,Credit Card,Cancelled
+5146,235,2025-05-17,Fashion,Jeans,2,1499,2998,Credit Card,Delivered
+5147,191,2025-05-17,Home & Kitchen,Bedsheet,2,799,1598,Cash on Delivery,Shipped
+5148,138,2025-05-20,Fashion,Women's Kurti,1,899,899,UPI,Delivered
+5149,173,2025-05-24,Home & Kitchen,Pressure Cooker,1,1899,1899,Net Banking,Delivered
+5150,145,2025-05-28,Books,Notebook Pack,1,249,249,Cash on Delivery,Cancelled
+5151,231,2025-05-29,Books,SQL Guide Book,3,699,2097,Cash on Delivery,Delivered
+5152,167,2025-06-01,Electronics,Laptop,1,54999,54999,Net Banking,Delivered
+5153,125,2025-06-03,Sports,Cricket Bat,2,2199,4398,Net Banking,Delivered
+5154,159,2025-06-11,Electronics,Earbuds,4,1999,7996,Net Banking,Returned
+5155,242,2025-06-11,Grocery,Dry Fruits 1kg,1,1099,1099,Credit Card,Delivered
+5156,148,2025-06-15,Home & Kitchen,Bedsheet,1,799,799,Debit Card,Shipped
+5157,250,2025-06-16,Fashion,Women's Kurti,1,899,899,Net Banking,Delivered
+5158,171,2025-06-20,Sports,Yoga Mat,5,699,3495,Cash on Delivery,Delivered
+5159,127,2025-06-22,Grocery,Dry Fruits 1kg,1,1099,1099,Cash on Delivery,Delivered
+5160,132,2025-06-23,Grocery,Tea 500g,3,299,897,UPI,Delivered
+5161,169,2025-06-27,Fashion,Men's T-Shirt,2,599,1198,Credit Card,Delivered
+5162,244,2025-06-28,Sports,Yoga Mat,1,699,699,Cash on Delivery,Delivered
+5163,208,2025-06-29,Home & Kitchen,Mixer Grinder,1,3299,3299,Debit Card,Delivered
+5164,141,2025-07-04,Sports,Yoga Mat,1,699,699,Net Banking,Delivered
+5165,179,2025-07-10,Home & Kitchen,Mixer Grinder,2,3299,6598,Net Banking,Cancelled
+5166,196,2025-07-10,Home & Kitchen,Pressure Cooker,5,1899,9495,Cash on Delivery,Delivered
+5167,105,2025-07-15,Home & Kitchen,Mixer Grinder,3,3299,9897,Cash on Delivery,Delivered
+5168,164,2025-07-20,Sports,Cricket Bat,1,2199,2199,Cash on Delivery,Delivered
+5169,164,2025-07-24,Books,SQL Guide Book,1,699,699,Cash on Delivery,Cancelled
+5170,120,2025-07-28,Sports,Cricket Bat,2,2199,4398,Debit Card,Returned
+5171,140,2025-07-29,Grocery,Basmati Rice 5kg,2,649,1298,Cash on Delivery,Delivered
+5172,154,2025-07-29,Books,Notebook Pack,1,249,249,UPI,Delivered
+5173,146,2025-07-31,Fashion,Jeans,3,1499,4497,UPI,Shipped
+5174,235,2025-07-31,Grocery,Tea 500g,1,299,299,UPI,Delivered
+5175,180,2025-07-31,Books,SQL Guide Book,1,699,699,Credit Card,Delivered
+5176,239,2025-08-01,Grocery,Tea 500g,1,299,299,Cash on Delivery,Delivered
+5177,146,2025-08-06,Fashion,Jeans,1,1499,1499,Credit Card,Delivered
+5178,176,2025-08-09,Home & Kitchen,Pressure Cooker,2,1899,3798,UPI,Delivered
+5179,243,2025-08-11,Grocery,Dry Fruits 1kg,3,1099,3297,UPI,Delivered
+5180,122,2025-08-22,Fashion,Jeans,2,1499,2998,Cash on Delivery,Shipped
+5181,113,2025-08-24,Electronics,Laptop,3,54999,164997,Cash on Delivery,Delivered
+5182,190,2025-08-24,Grocery,Dry Fruits 1kg,2,1099,2198,UPI,Delivered
+5183,164,2025-08-25,Books,SQL Guide Book,1,699,699,Cash on Delivery,Delivered
+5184,136,2025-08-30,Home & Kitchen,Pressure Cooker,1,1899,1899,Net Banking,Delivered
+5185,201,2025-09-03,Electronics,Smartphone,1,18999,18999,Net Banking,Delivered
+5186,107,2025-09-03,Electronics,Earbuds,2,1999,3998,Cash on Delivery,Shipped
+5187,181,2025-09-04,Books,SQL Guide Book,3,699,2097,UPI,Shipped
+5188,225,2025-09-04,Books,Novel,1,399,399,Net Banking,Delivered
+5189,141,2025-09-12,Books,Novel,1,399,399,Debit Card,Delivered
+5190,134,2025-09-19,Fashion,Jeans,1,1499,1499,UPI,Delivered
+5191,151,2025-09-21,Sports,Football,3,899,2697,Cash on Delivery,Delivered
+5192,251,2025-10-05,Home & Kitchen,Mixer Grinder,2,3299,6598,UPI,Shipped
+5193,222,2025-10-06,Grocery,Dry Fruits 1kg,3,1099,3297,UPI,Delivered
+5194,123,2025-10-10,Books,Notebook Pack,1,249,249,Debit Card,Delivered
+5195,184,2025-10-15,Home & Kitchen,Mixer Grinder,2,3299,6598,Credit Card,Shipped
+5196,197,2025-10-19,Home & Kitchen,Pressure Cooker,5,1899,9495,Net Banking,Delivered
+5197,156,2025-10-22,Home & Kitchen,Pressure Cooker,2,1899,3798,Credit Card,Delivered
+5198,231,2025-10-22,Electronics,Laptop,1,54999,54999,Debit Card,Delivered
+5199,109,2025-10-27,Home & Kitchen,Mixer Grinder,3,3299,9897,Debit Card,Shipped
+5200,142,2025-10-27,Grocery,Dry Fruits 1kg,1,1099,1099,Debit Card,Delivered

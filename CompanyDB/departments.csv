@@ -1,0 +1,11 @@
+dept_id,dept_name,city,budget
+10,Engineering,Bengaluru,500000
+20,Marketing,Mumbai,200000
+30,Sales,Delhi,300000
+40,HR,Pune,100000
+50,Finance,Mumbai,250000
+60,Support,Hyderabad,150000
+70,Design,Bengaluru,180000
+80,Legal,Delhi,120000
+90,Research,Chennai,400000
+100,Operations,Kolkata,220000
